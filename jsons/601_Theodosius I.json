@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1994.123.131",
+    "coin_page_url": "https://numismatics.org/collection/1994.123.131",
+    "title": "Bronze AE3 of Valentinian II, Thessalonica, 367–388. 1994.123.131",
+    "date_range": {
+      "from": "0367",
+      "to": "0388"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae3",
+    "cat": "RIC IX Thessalonica 60B",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "-/-//TES",
+    "measurements": {
+      "weight": "1.93 g",
+      "diameter": "16.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Emperor advancing right dragging captive with right and holding labarum in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1994/1994.123.131.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.131.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.131.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.131.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1994/1994.123.131.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.131.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.131.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.131.rev.width175.jpg"
+      }
+    ]
+  }
+}

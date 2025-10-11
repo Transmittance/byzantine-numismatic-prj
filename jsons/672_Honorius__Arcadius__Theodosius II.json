@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.54923",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.54923",
+    "title": "Bronze AE4 of Arcadius, Antioch, Syria, 406–408. 1944.100.54923",
+    "date_range": {
+      "from": "0406",
+      "to": "0408"
+    },
+    "obverse_portrait": "Honorius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae4",
+    "cat": "RIC X Arcadius 153",
+    "Obverse_leg": "[D N HONO]RIVS P F AVG",
+    "rev_symbol": "-/-//ANTA",
+    "measurements": {
+      "weight": "1.88 g",
+      "diameter": "14 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl diademed cuirassed draped right",
+      "reverse": "Three emperors standing"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.54923.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54923.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54923.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54923.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.54923.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54923.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54923.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54923.rev.width175.jpg"
+      }
+    ]
+  }
+}

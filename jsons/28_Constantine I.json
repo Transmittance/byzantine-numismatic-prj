@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1933.999.364",
+    "coin_page_url": "https://numismatics.org/collection/1933.999.364",
+    "title": "Bronze AE2 of Constantine I, Ticinum, 313–314. 1933.999.364",
+    "date_range": {
+      "from": "0313",
+      "to": "0314"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VII Ticinum 8",
+    "Obverse_leg": "IMP CONSTANTINVS P F AVG",
+    "rev_symbol": "*/-//PT",
+    "measurements": {
+      "weight": "3.73 g",
+      "diameter": "20.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, cuirassed right",
+      "reverse": "Sol radiate standing left, raising right hand, globe in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.364.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.364.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.364.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.364.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.364.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.364.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.364.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.364.rev.width175.jpg"
+      }
+    ]
+  }
+}

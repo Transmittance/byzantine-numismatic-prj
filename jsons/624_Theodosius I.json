@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1948.19.804",
+    "coin_page_url": "https://numismatics.org/collection/1948.19.804",
+    "title": "Gold Solidus of Theodosius I, Sirmium, 393–395. 1948.19.804",
+    "date_range": {
+      "from": "0393",
+      "to": "0395"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/solidus",
+    "cat": "RIC IX Sirmium 13B",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "Θ\\S/M//COMOB",
+    "measurements": {
+      "weight": "4.4 g",
+      "diameter": "20 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust rosette-diademed draped cuirassed right",
+      "reverse": "Emperor standing right, holding standard and Victory on globe, foot on captive"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1948/1948.19.804.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.19.804.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.19.804.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.19.804.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1948/1948.19.804.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.19.804.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.19.804.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.19.804.rev.width175.jpg"
+      }
+    ]
+  }
+}

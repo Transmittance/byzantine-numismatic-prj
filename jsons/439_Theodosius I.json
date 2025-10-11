@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.25340",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.25340",
+    "title": "Silver Siliqua of Valentinian II, Trier, 388–392. 1944.100.25340",
+    "date_range": {
+      "from": "0388",
+      "to": "0392"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/siliqua",
+    "cat": "RIC IX Treveri 94B",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "-/-//TRPS",
+    "measurements": {
+      "weight": "2.09 g",
+      "diameter": "18 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Roma std left on cuirass, holding Victory on globe in right and reversed spear in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.25340.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25340.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25340.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25340.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.25340.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25340.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25340.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25340.rev.width175.jpg"
+      }
+    ]
+  }
+}

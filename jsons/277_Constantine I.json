@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.3077",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.3077",
+    "title": "Bronze Nummus of Constantine I, Rome, 312–313. 1944.100.3077",
+    "date_range": {
+      "from": "0312",
+      "to": "0313"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/nummus",
+    "cat": "RIC VI Rome 346",
+    "Obverse_leg": "IMP CON[S]TAN[TI]NVS P F AVG",
+    "rev_symbol": "-/-//RS",
+    "measurements": {
+      "weight": "4.12 g",
+      "diameter": "22 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, draped cuirassed right",
+      "reverse": "Legionary eagle between two vexilla"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.3077.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3077.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3077.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3077.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.3077.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3077.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3077.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3077.rev.width175.jpg"
+      }
+    ]
+  }
+}

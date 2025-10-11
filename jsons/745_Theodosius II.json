@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.24032",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.24032",
+    "title": "Bronze AE4 of Theodosius II, Constantinople, 423–425. 0000.999.24032",
+    "date_range": {
+      "from": "0423",
+      "to": "0425"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae4",
+    "cat": "RIC X Theodosius II (East) 421",
+    "Obverse_leg": "[D N THE]ODOSIUS P F AVG",
+    "rev_symbol": "*/-//CONS",
+    "measurements": {
+      "weight": "1.72 g",
+      "diameter": "14 mm"
+    },
+    "descriptions": {
+      "obverse": "bust diademed cuirassed draped right",
+      "reverse": "Emperor standing facing holding sceptre and cross on globe"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.24032.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24032.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24032.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24032.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.24032.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24032.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24032.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24032.rev.width175.jpg"
+      }
+    ]
+  }
+}

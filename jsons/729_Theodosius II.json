@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1977.158.982",
+    "coin_page_url": "https://numismatics.org/collection/1977.158.982",
+    "title": "Gold Tremissis of Theodosius II, Constantinople, 408–450. 1977.158.982",
+    "date_range": {
+      "from": "0408",
+      "to": "0450"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/tremissis",
+    "cat": "RIC X Theodosius II (East) 249",
+    "Obverse_leg": "D N THEODOSIVS P F AVG",
+    "rev_symbol": "-/*//[CO]NOB",
+    "measurements": {
+      "weight": "1.502 g",
+      "diameter": "14 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Victory advancing right holding cross on globe and wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1977/1977.158.982.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.982.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.982.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.982.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1977/1977.158.982.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.982.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.982.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.982.rev.width175.jpg"
+      }
+    ]
+  }
+}

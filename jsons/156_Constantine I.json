@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.22752",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.22752",
+    "title": "Billon AE3 of Constantius II, Alexandria, 337–340. 1944.100.22752",
+    "date_range": {
+      "from": "0337",
+      "to": "0340"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/billon",
+    "denomination": "http://nomisma.org/id/ae3",
+    "cat": "RIC VIII Alexandria 12",
+    "Obverse_leg": "DV CONSTAN[TI]-NVS PT AVGG",
+    "rev_symbol": "-/-//SMALΓ",
+    "measurements": {
+      "weight": "2.12 g",
+      "diameter": "15 mm"
+    },
+    "descriptions": {
+      "obverse": "Head veiled right",
+      "reverse": "Emperor, veiled, to right in quadriga; the hand of God reaches down to him"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.22752.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.22752.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.22752.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.22752.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.22752.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.22752.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.22752.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.22752.rev.width175.jpg"
+      }
+    ]
+  }
+}

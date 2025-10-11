@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.1878",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.1878",
+    "title": "Bronze AE2 of Maximinus Daia, Alexandria, 313. 1944.100.1878",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VI Alexandria 163",
+    "Obverse_leg": "FL VALER CONSTANTINVS P F AVG",
+    "rev_symbol": "(* on N on palm branch)/(H on wreath)//ALE",
+    "measurements": {
+      "weight": "4.83 g",
+      "diameter": "20 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate, right",
+      "reverse": "Genius standing left holding head of Serapis in right and cornucopiae in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.1878.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.1878.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.1878.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.1878.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.1878.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.1878.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.1878.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.1878.rev.width175.jpg"
+      }
+    ]
+  }
+}

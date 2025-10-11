@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1976.136.19",
+    "coin_page_url": "https://numismatics.org/collection/1976.136.19",
+    "title": "Bronze AE4 of Theodosius I, Nicomedia, 388–392. 1976.136.19",
+    "date_range": {
+      "from": "0388",
+      "to": "0392"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae4",
+    "cat": "RIC IX Nicomedia 45B",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "+/-//SMNA",
+    "measurements": {
+      "weight": "1.48 g",
+      "diameter": "12 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Victory advancing left, carrying trophy and dragging captive"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1976/1976.136.19.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1976/1976.136.19.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1976/1976.136.19.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1976/1976.136.19.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1976/1976.136.19.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1976/1976.136.19.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1976/1976.136.19.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1976/1976.136.19.rev.width175.jpg"
+      }
+    ]
+  }
+}

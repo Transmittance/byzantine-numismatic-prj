@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1994.123.124",
+    "coin_page_url": "https://numismatics.org/collection/1994.123.124",
+    "title": "Bronze AE4 of Valentinian II, Siscia, 378–383. 1994.123.124",
+    "date_range": {
+      "from": "0378",
+      "to": "0383"
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae4",
+    "cat": "RIC IX Siscia 29D",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "-/-//ASISC",
+    "measurements": {
+      "weight": "2 g",
+      "diameter": "14.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Legend in wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1994/1994.123.124.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.124.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.124.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.124.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1994/1994.123.124.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.124.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.124.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.124.rev.width175.jpg"
+      }
+    ]
+  }
+}

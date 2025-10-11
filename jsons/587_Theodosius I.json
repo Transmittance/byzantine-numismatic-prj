@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1995.11.1691",
+    "coin_page_url": "https://numismatics.org/collection/1995.11.1691",
+    "title": "Bronze AE2 of Theodosius I, Antioch, Syria, 383–388. 1995.11.1691",
+    "date_range": {
+      "from": "0383",
+      "to": "0388"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC IX Antioch 59D",
+    "Obverse_leg": "D N THEODO-S[IVS] P F AVG",
+    "rev_symbol": "T/+//ANTΔ",
+    "measurements": {
+      "weight": "3.9 g",
+      "diameter": "22 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust helmeted with rosette diadem draped cuirassed right holding spear and shield in front",
+      "reverse": "Emperor standing facing on ship, Victory std. at helm"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1995/1995.11.1691.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1691.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1691.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1691.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1995/1995.11.1691.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1691.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1691.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1691.rev.width175.jpg"
+      }
+    ]
+  }
+}

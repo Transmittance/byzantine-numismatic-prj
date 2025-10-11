@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1905.57.182",
+    "coin_page_url": "https://numismatics.org/collection/1905.57.182",
+    "title": "Bronze AE4 of Theodosius I, Heraclea, 378–383. 1905.57.182",
+    "date_range": {
+      "from": "0378",
+      "to": "0383"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae4",
+    "cat": "RIC IX Heraclea 16C",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "(palm)/I//SMHB",
+    "measurements": {
+      "weight": "2.48 g",
+      "diameter": "17.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Roma helmeted std. facing, on throne, holding globe and partly seen spear"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1905/1905.57.182.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.182.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.182.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.182.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1905/1905.57.182.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.182.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.182.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.182.rev.width175.jpg"
+      }
+    ]
+  }
+}

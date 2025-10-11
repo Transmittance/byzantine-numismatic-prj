@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1984.146.577",
+    "coin_page_url": "https://numismatics.org/collection/1984.146.577",
+    "title": "Bronze AE2 of Theodosius I, Antioch, Syria, 378–383. 1984.146.577",
+    "date_range": {
+      "from": "0378",
+      "to": "0383"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC IX Antioch 40D",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "(wreath)/+//ANTΓ",
+    "measurements": {
+      "weight": "5.28 g",
+      "diameter": "22.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust helmeted with pearl diadem draped cuirassed right holding spear and shield in front",
+      "reverse": "Emperor standing facing head right raising right; Victory seated at helm"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1984/1984.146.577.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.146.577.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.146.577.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.146.577.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1984/1984.146.577.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.146.577.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.146.577.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.146.577.rev.width175.jpg"
+      }
+    ]
+  }
+}

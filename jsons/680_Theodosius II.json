@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1952.142.192",
+    "coin_page_url": "https://numismatics.org/collection/1952.142.192",
+    "title": "Bronze AE4 of Theodosius II, 425–435. 1952.142.192",
+    "date_range": {
+      "from": "0425",
+      "to": "0435"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae4",
+    "cat": "\n        ",
+    "Obverse_leg": "D N THE[ODOS]IVS P F [AVG]",
+    "rev_symbol": "-/-//[ ]",
+    "measurements": {
+      "weight": "1.286 g",
+      "diameter": "12 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust diademed draped cuirassed right",
+      "reverse": "cross within wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1952/1952.142.192.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.192.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.192.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.192.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1952/1952.142.192.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.192.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.192.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.192.rev.width175.jpg"
+      }
+    ]
+  }
+}

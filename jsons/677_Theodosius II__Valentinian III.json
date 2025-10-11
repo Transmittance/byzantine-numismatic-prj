@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1946.51.122",
+    "coin_page_url": "https://numismatics.org/collection/1946.51.122",
+    "title": "Gold Solidus of Theodosius II, Constantinople, 425–429. 1946.51.122",
+    "date_range": {
+      "from": "0425",
+      "to": "0429"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/solidus",
+    "cat": "RIC X Theodosius II (East) 237",
+    "Obverse_leg": "D N THEODOSIVS P F AVG",
+    "rev_symbol": "-/-//CONOB",
+    "measurements": {
+      "weight": "4.388 g",
+      "diameter": "20 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust facing helmeted cuirassed holding spear and shield",
+      "reverse": "Two figures standing front, each holds cross with a star above and between them"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1946/1946.51.122.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.51.122.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.51.122.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.51.122.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1946/1946.51.122.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.51.122.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.51.122.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.51.122.rev.width175.jpg"
+      }
+    ]
+  }
+}

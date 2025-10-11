@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1948.4.116",
+    "coin_page_url": "https://numismatics.org/collection/1948.4.116",
+    "title": "Bronze AE4 of Theodosius I, Antioch, Syria, 378–383. 1948.4.116",
+    "date_range": {
+      "from": "0378",
+      "to": "0383"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae4",
+    "cat": "RIC IX Antioch 56C",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "-/-//ANTΔ",
+    "measurements": {
+      "weight": "1.457 g",
+      "diameter": "12 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed dr. cuir. r.",
+      "reverse": "Legend in wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1948/1948.4.116.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.4.116.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.4.116.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.4.116.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1948/1948.4.116.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.4.116.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.4.116.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.4.116.rev.width175.jpg"
+      }
+    ]
+  }
+}

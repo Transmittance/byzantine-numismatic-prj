@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1971.194.50",
+    "coin_page_url": "https://numismatics.org/collection/1971.194.50",
+    "title": "Bronze AE4 of Theodosius I, Alexandria, 392–395. 1971.194.50",
+    "date_range": {
+      "from": "0392",
+      "to": "0395"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae4",
+    "cat": "RIC IX Alexandria 22A",
+    "Obverse_leg": "D N THE[ODO]-SIVS P F AVG",
+    "rev_symbol": "-/-//ALEΓ",
+    "measurements": {
+      "weight": "1.855 g",
+      "diameter": "13.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Emperor on horseback right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1971/1971.194.50.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1971/1971.194.50.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1971/1971.194.50.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1971/1971.194.50.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1971/1971.194.50.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1971/1971.194.50.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1971/1971.194.50.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1971/1971.194.50.rev.width175.jpg"
+      }
+    ]
+  }
+}

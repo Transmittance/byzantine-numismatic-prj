@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.3155",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.3155",
+    "title": "Bronze AE3 of Licinius, Thessalonica, 312–313. 0000.999.3155",
+    "date_range": {
+      "from": "0312",
+      "to": "0313"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae3",
+    "cat": "RIC VI Thessalonica 61b",
+    "Obverse_leg": "IMP C CONSTANTINVS P F AVG",
+    "rev_symbol": "-/-//•TS•∈•",
+    "measurements": {
+      "weight": "3.39 g",
+      "diameter": "23 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate draped cuirassed right",
+      "reverse": "Jupiter standing facing, head left holding Victory on globe in right and sceptre in left; eagle at feet"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.3155.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3155.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3155.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3155.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.3155.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3155.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3155.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3155.rev.width175.jpg"
+      }
+    ]
+  }
+}

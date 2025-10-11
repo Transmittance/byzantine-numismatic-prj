@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1952.142.16",
+    "coin_page_url": "https://numismatics.org/collection/1952.142.16",
+    "title": "Bronze AE2 of Constantine I, Antioch, Syria, 330–335. 1952.142.16",
+    "date_range": {
+      "from": "0330",
+      "to": "0335"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VII Antioch 86",
+    "Obverse_leg": "CONSTANTI-NVS MAX A[VG]",
+    "rev_symbol": "-/-//SMANB",
+    "measurements": {
+      "weight": "2.46 g",
+      "diameter": "16 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust with rosette diadem draped cuirassed right",
+      "reverse": "Two soldiers flanking two standards"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1952/1952.142.16.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.16.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.16.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.16.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1952/1952.142.16.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.16.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.16.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.16.rev.width175.jpg"
+      }
+    ]
+  }
+}

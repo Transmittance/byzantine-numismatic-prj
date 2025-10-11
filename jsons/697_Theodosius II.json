@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1968.131.448",
+    "coin_page_url": "https://numismatics.org/collection/1968.131.448",
+    "title": "Gold Solidus of Theodosius II, Constantinople, 415. 1968.131.448",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/solidus",
+    "cat": "RIC X Theodosius II (East) 207",
+    "Obverse_leg": "D N THEODOSIVS P F AVG",
+    "rev_symbol": "*/-//CONOB",
+    "measurements": {
+      "weight": "4.397 g",
+      "diameter": "21 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust helmeted cuirassed right holding spear and shield",
+      "reverse": "Roma and Constantinopolis seated facing supporting central shield inscribed VOT/XV/MVLT/XX"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1968/1968.131.448.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.448.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.448.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.448.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1968/1968.131.448.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.448.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.448.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.448.rev.width175.jpg"
+      }
+    ]
+  }
+}

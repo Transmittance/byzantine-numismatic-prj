@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1969.177.2",
+    "coin_page_url": "https://numismatics.org/collection/1969.177.2",
+    "title": "Silver Light miliarensis of Theodosius I, Constantinople, 388–392. 1969.177.2",
+    "date_range": {
+      "from": "0388",
+      "to": "0392"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/light_miliarensis",
+    "cat": "RIC IX Constantinople 85A",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "*/-//CON",
+    "measurements": {
+      "weight": "4.31 g",
+      "diameter": "23 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped curiassed right",
+      "reverse": "Emperor nimbate standing facing holding sceptre and resting on shield"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1969/1969.177.2.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1969/1969.177.2.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1969/1969.177.2.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1969/1969.177.2.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1969/1969.177.2.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1969/1969.177.2.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1969/1969.177.2.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1969/1969.177.2.rev.width175.jpg"
+      }
+    ]
+  }
+}

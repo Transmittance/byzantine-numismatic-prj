@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.8725",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.8725",
+    "title": "Bronze AE2 of Constantine I, Cyzicus, 317–320. 1944.100.8725",
+    "date_range": {
+      "from": "0317",
+      "to": "0320"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VII Cyzicus 8",
+    "Obverse_leg": "IMP CONSTA-NTINVS AVG",
+    "rev_symbol": "(wreath)/∈//SMK",
+    "measurements": {
+      "weight": "3.09 g",
+      "diameter": "18.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, draped left holding globe and sceptre in right and mappa in left",
+      "reverse": "Jupiter standing left, chlamys across shoulder, holding sceptre, Victory on globe"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.8725.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.8725.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.8725.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.8725.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.8725.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.8725.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.8725.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.8725.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1978.217.13",
+    "coin_page_url": "https://numismatics.org/collection/1978.217.13",
+    "title": "Silver Siliqua of Gratian, Rome, 378–383. 1978.217.13",
+    "date_range": {
+      "from": "0378",
+      "to": "0383"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/siliqua",
+    "cat": "RIC IX Rome 35C",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "-/-//R*P",
+    "measurements": {
+      "weight": "2.07 g",
+      "diameter": "18.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Roma seated holding Victory on globe and reversed spear"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1978/1978.217.13.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.217.13.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.217.13.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.217.13.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1978/1978.217.13.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.217.13.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.217.13.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.217.13.rev.width175.jpg"
+      }
+    ]
+  }
+}

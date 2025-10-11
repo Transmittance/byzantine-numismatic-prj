@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.54838",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.54838",
+    "title": "Bronze AE4 of Theodosius II, Antioch, Syria, 425–435. 1944.100.54838",
+    "date_range": {
+      "from": "0425",
+      "to": "0435"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae4",
+    "cat": "RIC X Theodosius II (East) 453",
+    "Obverse_leg": "D N THEODOSIVS P F AV[G]",
+    "rev_symbol": "-/-//ANT[ ]",
+    "measurements": {
+      "weight": "0.92 g",
+      "diameter": "11.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust diademed draped cuirassed right",
+      "reverse": "Cross in wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.54838.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54838.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54838.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54838.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.54838.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54838.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54838.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54838.rev.width175.jpg"
+      }
+    ]
+  }
+}

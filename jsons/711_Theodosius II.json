@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1952.75.28",
+    "coin_page_url": "https://numismatics.org/collection/1952.75.28",
+    "title": "Bronze AE3 of Arcadius, Antioch, Syria, 408–450. 1952.75.28",
+    "date_range": {
+      "from": "0408",
+      "to": "0450"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae3",
+    "cat": "RIC X Arcadius 100",
+    "Obverse_leg": "[D N THEODO] SIVS P F AVG",
+    "rev_symbol": "-/-//ANTΓ",
+    "measurements": {
+      "weight": "1.48 g",
+      "diameter": "13 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust facing helmeted cuirassed holding spear and shield",
+      "reverse": "Constantinopolis seated facing holding sceptre and Victory on globe, prow left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1952/1952.75.28.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.75.28.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.75.28.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.75.28.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1952/1952.75.28.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.75.28.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.75.28.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.75.28.rev.width175.jpg"
+      }
+    ]
+  }
+}

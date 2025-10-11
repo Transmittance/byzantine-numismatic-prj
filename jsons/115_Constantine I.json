@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1934.21.12",
+    "coin_page_url": "https://numismatics.org/collection/1934.21.12",
+    "title": "Billon AE3 of Constantius II, Antioch, Syria, 337–347. 1934.21.12",
+    "date_range": {
+      "from": "0337",
+      "to": "0347"
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/billon",
+    "denomination": "http://nomisma.org/id/ae3",
+    "cat": "RIC VIII Antioch 37",
+    "Obverse_leg": "DV CONSTANTI-NVS PT AVGG",
+    "rev_symbol": "*//SMANA",
+    "measurements": {
+      "weight": "1.82 g",
+      "diameter": "15.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust veiled draped cuirassed right",
+      "reverse": "Emperor, veiled, to right in quadriga; the hand of God reaches down to him"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1934/1934.21.12.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1934/1934.21.12.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1934/1934.21.12.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1934/1934.21.12.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1934/1934.21.12.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1934/1934.21.12.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1934/1934.21.12.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1934/1934.21.12.rev.width175.jpg"
+      }
+    ]
+  }
+}

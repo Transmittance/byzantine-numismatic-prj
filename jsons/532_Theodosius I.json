@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1977.158.954",
+    "coin_page_url": "https://numismatics.org/collection/1977.158.954",
+    "title": "Gold Solidus of Theodosius I, Sirmium, 393–395. 1977.158.954",
+    "date_range": {
+      "from": "0393",
+      "to": "0395"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/solidus",
+    "cat": "RIC IX Sirmium 15A",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "H\\S/M//COMOB",
+    "measurements": {
+      "weight": "4.45 g",
+      "diameter": "20.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Emperor standing right, holding standard and Victory on globe, foot on captive"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1977/1977.158.954.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.954.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.954.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.954.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1977/1977.158.954.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.954.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.954.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.954.rev.width175.jpg"
+      }
+    ]
+  }
+}

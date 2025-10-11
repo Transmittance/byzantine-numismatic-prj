@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.24033",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.24033",
+    "title": "Bronze AE3 of Theodosius II, Constantinople, 408–423. 0000.999.24033",
+    "date_range": {
+      "from": "0408",
+      "to": "0423"
+    },
+    "obverse_portrait": "Honorius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae3",
+    "cat": "RIC X Theodosius II (East) 409",
+    "Obverse_leg": "D N HONO[RIVS P F AVG]",
+    "rev_symbol": "-/-//CON[S-]",
+    "measurements": {
+      "weight": "2.056 g",
+      "diameter": "13.5 mm"
+    },
+    "descriptions": {
+      "obverse": "bust diademed cuirassed draped right star in left field",
+      "reverse": "Two emperors standing facing each holds sceptre, and jointly hold globe"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.24033.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24033.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24033.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24033.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.24033.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24033.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24033.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24033.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1905.57.185",
+    "coin_page_url": "https://numismatics.org/collection/1905.57.185",
+    "title": "Bronze AE3 of Theodosius I, Constantinople, 378–383. 1905.57.185",
+    "date_range": {
+      "from": "0378",
+      "to": "0383"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae3",
+    "cat": "RIC IX Constantinople 57E",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "(palm)/I//CONS[ ]",
+    "measurements": {
+      "weight": "2.09 g",
+      "diameter": "19 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust rosette-diademed draped cuirassed right",
+      "reverse": "Constantinopolis helmeted seated holding globe and spear"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1905/1905.57.185.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.185.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.185.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.185.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1905/1905.57.185.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.185.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.185.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.185.rev.width175.jpg"
+      }
+    ]
+  }
+}

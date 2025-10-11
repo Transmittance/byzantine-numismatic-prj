@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.5531",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.5531",
+    "title": "Bronze AE2 of Maximinus Daia, Nicomedia, 312. 1944.100.5531",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VI Nicomedia 73c",
+    "Obverse_leg": "IMP C FL VAL CONSTANTINVS P F AVG",
+    "rev_symbol": "B/-//SMN",
+    "measurements": {
+      "weight": "5.11 g",
+      "diameter": "20.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate right",
+      "reverse": "Sol standing left in long robe raising right and holding head of Sarapis in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.5531.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5531.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5531.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5531.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.5531.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5531.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5531.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5531.rev.width175.jpg"
+      }
+    ]
+  }
+}

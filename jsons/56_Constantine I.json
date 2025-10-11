@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1933.999.417",
+    "coin_page_url": "https://numismatics.org/collection/1933.999.417",
+    "title": "Bronze AE2 of Constantine I, Arelate, 315–316. 1933.999.417",
+    "date_range": {
+      "from": "0315",
+      "to": "0316"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VII Arelate 58",
+    "Obverse_leg": "IMP CONSTANTINVS P F AVG",
+    "rev_symbol": "S/F//QARL",
+    "measurements": {
+      "weight": "3.51 g",
+      "diameter": "19.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, cuirassed right",
+      "reverse": "Sol standing left, chlamys across left shoulder, globe in left hand, raising right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.417.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.417.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.417.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.417.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.417.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.417.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.417.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.417.rev.width175.jpg"
+      }
+    ]
+  }
+}

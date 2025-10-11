@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1947.2.263",
+    "coin_page_url": "https://numismatics.org/collection/1947.2.263",
+    "title": "Bronze AE2 of Constantine I, Antioch, Syria, 327–328. 1947.2.263",
+    "date_range": {
+      "from": "0327",
+      "to": "0328"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VII Antioch 78",
+    "Obverse_leg": "CONSTAN-TINVS AVG",
+    "rev_symbol": "-/-//SMANT∈",
+    "measurements": {
+      "weight": "2.72 g",
+      "diameter": "18.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head rosette-diademed right",
+      "reverse": "Camp gate, two turrets, no doors, star above"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1947/1947.2.263.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1947/1947.2.263.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1947/1947.2.263.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1947/1947.2.263.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1947/1947.2.263.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1947/1947.2.263.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1947/1947.2.263.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1947/1947.2.263.rev.width175.jpg"
+      }
+    ]
+  }
+}

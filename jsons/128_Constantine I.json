@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.3136",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.3136",
+    "title": "Bronze AE3 of Constantine I, Ostia, 312–313. 1944.100.3136",
+    "date_range": {
+      "from": "0312",
+      "to": "0313"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae3",
+    "cat": "RIC VI Ostia 74",
+    "Obverse_leg": "IMP C CONSTANTINVS P F AVG",
+    "rev_symbol": "-/-//MOSTS",
+    "measurements": {
+      "weight": "2.681 g",
+      "diameter": "20 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, cuirassed right",
+      "reverse": "Genius standing left holding patera in right and cornucopiae in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.3136.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3136.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3136.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3136.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.3136.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3136.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3136.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3136.rev.width175.jpg"
+      }
+    ]
+  }
+}

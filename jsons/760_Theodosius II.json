@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1980.109.226",
+    "coin_page_url": "https://numismatics.org/collection/1980.109.226",
+    "title": "Gold Tremissis of Theodosius II, Constantinople, 408–450. 1980.109.226",
+    "date_range": {
+      "from": "0408",
+      "to": "0450"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/tremissis",
+    "cat": "RIC X Theodosius II (East) 249",
+    "Obverse_leg": "D N THEODOSIVS P F AVG",
+    "rev_symbol": "-/*//CONOB",
+    "measurements": {
+      "weight": "1.488 g",
+      "diameter": "15 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Victory advancing front holding cross on globe and wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1980/1980.109.226.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.109.226.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.109.226.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.109.226.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1980/1980.109.226.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.109.226.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.109.226.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.109.226.rev.width175.jpg"
+      }
+    ]
+  }
+}

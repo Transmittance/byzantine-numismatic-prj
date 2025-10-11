@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.24027",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.24027",
+    "title": "Bronze AE3 of Arcadius, 401–403. 0000.999.24027",
+    "date_range": {
+      "from": "0401",
+      "to": "0403"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae3",
+    "cat": "\n        ",
+    "Obverse_leg": "[D N THE]ODOSIVS P F [AVG]",
+    "rev_symbol": "-/-//[ ]",
+    "measurements": {
+      "weight": "2.379 g",
+      "diameter": "16 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust facing helmeted cuir. holding spear and shield",
+      "reverse": "Concordia std. front, holding sceptre and Vicotory on globe, prow l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.24027.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24027.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24027.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24027.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.24027.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24027.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24027.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.24027.rev.width175.jpg"
+      }
+    ]
+  }
+}

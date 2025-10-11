@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1977.158.976",
+    "coin_page_url": "https://numismatics.org/collection/1977.158.976",
+    "title": "Gold Solidus of Theodosius II, Constantinople, 425–429. 1977.158.976",
+    "date_range": {
+      "from": "0425",
+      "to": "0429"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/solidus",
+    "cat": "RIC X Theodosius II (East) 237",
+    "Obverse_leg": "D N THEODOSIVS P F AVG",
+    "rev_symbol": "A\\-/-//CONOB",
+    "measurements": {
+      "weight": "4.512 g",
+      "diameter": "20 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust facing helmeted cuirassed holding spear and shield",
+      "reverse": "Two figures nimbate standing facing each holding a cross with a star above and between them"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1977/1977.158.976.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.976.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.976.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.976.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1977/1977.158.976.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.976.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.976.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.976.rev.width175.jpg"
+      }
+    ]
+  }
+}

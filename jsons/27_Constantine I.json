@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1933.999.361",
+    "coin_page_url": "https://numismatics.org/collection/1933.999.361",
+    "title": "Bronze AE2 of Constantine I, Aquileia, 322. 1933.999.361",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VII Aquileia 104",
+    "Obverse_leg": "CONSTAN-TINVS AVG",
+    "rev_symbol": "(palm left)/(palm right)//AQP",
+    "measurements": {
+      "weight": "3.59 g",
+      "diameter": "19 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate, right",
+      "reverse": "Laurel wreath enclosing VOT / XX"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.361.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.361.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.361.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.361.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.361.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.361.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.361.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.361.rev.width175.jpg"
+      }
+    ]
+  }
+}

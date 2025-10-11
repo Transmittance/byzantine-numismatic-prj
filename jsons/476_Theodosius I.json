@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.25518",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.25518",
+    "title": "Gold Solidus of Theodosius I, Sirmium, 393–395. 1944.100.25518",
+    "date_range": {
+      "from": "0393",
+      "to": "0395"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/solidus",
+    "cat": "RIC IX Sirmium 14A",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "B\\S/M//COMOB",
+    "measurements": {
+      "weight": "4.41 g",
+      "diameter": "20 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Emperor standing right, holding standard and Victory on globe, foot on captive"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.25518.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25518.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25518.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25518.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.25518.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25518.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25518.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25518.rev.width175.jpg"
+      }
+    ]
+  }
+}

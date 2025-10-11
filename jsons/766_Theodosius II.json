@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1994.123.343",
+    "coin_page_url": "https://numismatics.org/collection/1994.123.343",
+    "title": "Bronze AE4 of Theodosius II, Cyzicus, 425–450. 1994.123.343",
+    "date_range": {
+      "from": "0425",
+      "to": "0450"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae4",
+    "cat": "RIC X Theodosius II (East) 449",
+    "Obverse_leg": "D N THEODO-SIYS P F AVG",
+    "rev_symbol": "-/-//SMKA",
+    "measurements": {
+      "weight": "0.85 g",
+      "diameter": "14 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Cross in wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1994/1994.123.343.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.343.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.343.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.343.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1994/1994.123.343.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.343.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.343.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1994/1994.123.343.rev.width175.jpg"
+      }
+    ]
+  }
+}

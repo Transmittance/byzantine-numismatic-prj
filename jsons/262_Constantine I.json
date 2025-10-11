@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.3054",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.3054",
+    "title": "Bronze AE2 of Constantine I, Rome, 312–313. 1944.100.3054",
+    "date_range": {
+      "from": "0312",
+      "to": "0313"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VI Rome 319",
+    "Obverse_leg": "IMP C CONSTANTINVS P F AVG",
+    "rev_symbol": "-/-//RT",
+    "measurements": {
+      "weight": "3.58 g",
+      "diameter": "21 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, draped cuirassed right seen from behind",
+      "reverse": "Sol standing left holding globe in left and raising right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.3054.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3054.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3054.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3054.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.3054.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3054.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3054.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3054.rev.width175.jpg"
+      }
+    ]
+  }
+}

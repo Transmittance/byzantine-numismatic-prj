@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1923.157.5",
+    "coin_page_url": "https://numismatics.org/collection/1923.157.5",
+    "title": "Bronze AE4 of Valentinian II, Thessalonica, 388–393. 1923.157.5",
+    "date_range": {
+      "from": "0388",
+      "to": "0393"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae4",
+    "cat": "RIC IX Thessalonica 65B",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "-/-//TESB",
+    "measurements": {
+      "weight": "1.19 g",
+      "diameter": "22.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Victory advancing left, carrying trophy and dragging captive, Chi Ro in field"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1923/1923.157.5.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1923/1923.157.5.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1923/1923.157.5.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1923/1923.157.5.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1923/1923.157.5.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1923/1923.157.5.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1923/1923.157.5.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1923/1923.157.5.rev.width175.jpg"
+      }
+    ]
+  }
+}

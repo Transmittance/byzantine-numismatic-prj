@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1968.131.447",
+    "coin_page_url": "https://numismatics.org/collection/1968.131.447",
+    "title": "Gold Solidus of Theodosius II, Constantinople, 408–450. 1968.131.447",
+    "date_range": {
+      "from": "0408",
+      "to": "0450"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/solidus",
+    "cat": "RIC X Theodosius II (East) 284",
+    "Obverse_leg": "D N THEODOSIVS P F AVG",
+    "rev_symbol": "Γ\\-/*//CONOB",
+    "measurements": {
+      "weight": "4.385 g",
+      "diameter": "20.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust facing helmeted cuirassed holding spear and shield",
+      "reverse": "Emperor advancing right holding trophy and dragging captive"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1968/1968.131.447.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.447.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.447.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.447.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1968/1968.131.447.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.447.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.447.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.447.rev.width175.jpg"
+      }
+    ]
+  }
+}

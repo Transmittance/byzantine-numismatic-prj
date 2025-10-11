@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1968.131.457",
+    "coin_page_url": "https://numismatics.org/collection/1968.131.457",
+    "title": "Gold Semissis of Theodosius II, Constantinople, 408–450. 1968.131.457",
+    "date_range": {
+      "from": "0408",
+      "to": "0450"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/semissis",
+    "cat": "RIC X Theodosius II (East) 270",
+    "Obverse_leg": "D N THEODOSIVS P F AVG",
+    "rev_symbol": "*/☧//CONOB",
+    "measurements": {
+      "weight": "2.225 g",
+      "diameter": "17.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl diademed draped cuirassed right",
+      "reverse": "Victory seated right inscribing shield XX/XXX"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1968/1968.131.457.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.457.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.457.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.457.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1968/1968.131.457.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.457.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.457.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1968/1968.131.457.rev.width175.jpg"
+      }
+    ]
+  }
+}

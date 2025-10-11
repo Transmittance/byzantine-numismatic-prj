@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1976.136.31",
+    "coin_page_url": "https://numismatics.org/collection/1976.136.31",
+    "title": "Bronze AE3 of Theodosius II, Nicomedia, 408–423. 1976.136.31",
+    "date_range": {
+      "from": "0408",
+      "to": "0423"
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae3",
+    "cat": "RIC X Theodosius II (East) 412",
+    "Obverse_leg": "[D N] HONORIUS P F AVG",
+    "rev_symbol": "-/-//SMNB",
+    "measurements": {
+      "weight": "1.94 g",
+      "diameter": "14.5 mm"
+    },
+    "descriptions": {
+      "obverse": "bust diademed cuirassed draped right star in left field",
+      "reverse": "two figures standing supporting a globe between them"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1976/1976.136.31.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1976/1976.136.31.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1976/1976.136.31.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1976/1976.136.31.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1976/1976.136.31.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1976/1976.136.31.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1976/1976.136.31.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1976/1976.136.31.rev.width175.jpg"
+      }
+    ]
+  }
+}

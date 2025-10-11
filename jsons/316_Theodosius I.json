@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.25696",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.25696",
+    "title": "Bronze AE2 of Theodosius I, Constantinople, 383–388. 1944.100.25696",
+    "date_range": {
+      "from": "0383",
+      "to": "0388"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC IX Constantinople 79B",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "T/-//CONA",
+    "measurements": {
+      "weight": "5.58 g",
+      "diameter": "23 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust helmeted with pearl diadem draped curiassed right holding spear and shield in front",
+      "reverse": "Emperor standing facing, on ship, raising right hand. Victory seated right at helm"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.25696.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25696.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25696.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25696.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.25696.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25696.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25696.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.25696.rev.width175.jpg"
+      }
+    ]
+  }
+}

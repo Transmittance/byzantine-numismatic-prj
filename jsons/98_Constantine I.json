@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1933.999.63",
+    "coin_page_url": "https://numismatics.org/collection/1933.999.63",
+    "title": "Bronze Nummus of Constantine I, Ticinum, 312–313. 1933.999.63",
+    "date_range": {
+      "from": "0312",
+      "to": "0313"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/nummus",
+    "cat": "RIC VI Ticinum 124a",
+    "Obverse_leg": "CONSTANTINVS P F AVG",
+    "rev_symbol": "-/-//ST",
+    "measurements": {
+      "weight": "4.67 g",
+      "diameter": "21 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, cuirassed right",
+      "reverse": "Mars standing facing head right holding reversed spear in right and shield in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.63.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.63.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.63.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.63.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.63.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.63.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.63.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.63.rev.width175.jpg"
+      }
+    ]
+  }
+}

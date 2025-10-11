@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1948.19.1929",
+    "coin_page_url": "https://numismatics.org/collection/1948.19.1929",
+    "title": "Gold Solidus of Theodosius II, Thessalonica, 408–450. 1948.19.1929",
+    "date_range": {
+      "from": "0408",
+      "to": "0450"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/solidus",
+    "cat": "RIC X Theodosius II (East) 361",
+    "Obverse_leg": "D N THEODOSIVS P F AVG",
+    "rev_symbol": "*/-//TESOB",
+    "measurements": {
+      "weight": "4.334 g",
+      "diameter": "21.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust facing helmeted cuirassed holding spear and shield",
+      "reverse": "Emperor standing facing, holding standard and cross on globe"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1948/1948.19.1929.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.19.1929.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.19.1929.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.19.1929.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1948/1948.19.1929.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.19.1929.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.19.1929.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1948/1948.19.1929.rev.width175.jpg"
+      }
+    ]
+  }
+}

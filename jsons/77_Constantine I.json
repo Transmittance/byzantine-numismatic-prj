@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1933.999.451",
+    "coin_page_url": "https://numismatics.org/collection/1933.999.451",
+    "title": "Bronze AE2 of Constantine I, Alexandria, 317–320. 1933.999.451",
+    "date_range": {
+      "from": "0317",
+      "to": "0320"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VII Alexandria 22",
+    "Obverse_leg": "IMP CONSTA-NTINVS AVG",
+    "rev_symbol": "(crescent)/A//SMAL",
+    "measurements": {
+      "weight": "2.91 g",
+      "diameter": "18 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, draped left holding mappa in right and globe and sceptre in left.",
+      "reverse": "Jupiter standing left, leaning on sceptre, globe in right hand"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.451.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.451.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.451.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.451.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.451.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.451.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.451.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.451.rev.width175.jpg"
+      }
+    ]
+  }
+}

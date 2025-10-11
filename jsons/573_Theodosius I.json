@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1978.999.9",
+    "coin_page_url": "https://numismatics.org/collection/1978.999.9",
+    "title": "Bronze AE2 of Theodosius I, Thessalonica, 383–384. 1978.999.9",
+    "date_range": {
+      "from": "0383",
+      "to": "0384"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC IX Thessalonica 44B",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "(wreath)/-//TES[ ]",
+    "measurements": {
+      "weight": "5.62 g",
+      "diameter": "21 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust helmeted with pearl diadem draped cuirassed right holding spear and shield in front",
+      "reverse": "Emperor standing left, on ship. Victory seated at helm"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1978/1978.999.9.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.999.9.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.999.9.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.999.9.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1978/1978.999.9.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.999.9.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.999.9.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.999.9.rev.width175.jpg"
+      }
+    ]
+  }
+}

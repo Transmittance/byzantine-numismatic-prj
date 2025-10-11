@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.10200",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.10200",
+    "title": "Gold Solidus of Valentinian II, Mediolanum, 383–394. 0000.999.10200",
+    "date_range": {
+      "from": "0383",
+      "to": "0394"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/solidus",
+    "cat": "RIC IX Mediolanum 8B",
+    "Obverse_leg": "D N THEODO-SIUS P F AVG",
+    "rev_symbol": "M/D//COM",
+    "measurements": {
+      "weight": "4.44 g",
+      "diameter": "21.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Two emperors seated holding globe, Victory above"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.10200.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.10200.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.10200.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.10200.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.10200.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.10200.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.10200.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.10200.rev.width175.jpg"
+      }
+    ]
+  }
+}

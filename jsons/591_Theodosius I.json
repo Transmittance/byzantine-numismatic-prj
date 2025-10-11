@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2004.14.213",
+    "coin_page_url": "https://numismatics.org/collection/2004.14.213",
+    "title": "Bronze AE2 of Theodosius I, Constantinople, 383. 2004.14.213",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC IX Constantinople 52C",
+    "Obverse_leg": "DN THEODO-SIVS PF AVG",
+    "rev_symbol": "(wreath)/-//CONB",
+    "measurements": {
+      "weight": "4.81 g",
+      "diameter": "23 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust helmeted with pearl diadem draped cuirassed right holding spear and shield in front",
+      "reverse": "Emperor standing facing head right on ship raising right hand. Victory seated right at helm"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2004/2004.14.213.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2004/2004.14.213.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2004/2004.14.213.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2004/2004.14.213.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2004/2004.14.213.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2004/2004.14.213.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2004/2004.14.213.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2004/2004.14.213.rev.width175.jpg"
+      }
+    ]
+  }
+}

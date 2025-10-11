@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1977.158.952",
+    "coin_page_url": "https://numismatics.org/collection/1977.158.952",
+    "title": "Gold Solidus of Theodosius I, Constantinople, 378–383. 1977.158.952",
+    "date_range": {
+      "from": "0378",
+      "to": "0383"
+    },
+    "obverse_portrait": "Theodosius I",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/solidus",
+    "cat": "RIC IX Constantinople 45D",
+    "Obverse_leg": "D N THEODO-SIVS P F AVG",
+    "rev_symbol": "S\\-/-//CONOB",
+    "measurements": {
+      "weight": "4.51 g",
+      "diameter": "22 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust pearl-diademed draped cuirassed right",
+      "reverse": "Constantinopolis seated facing, on throne holding sceptre, globe. Foot on prow"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1977/1977.158.952.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.952.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.952.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.952.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1977/1977.158.952.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.952.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.952.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1977/1977.158.952.rev.width175.jpg"
+      }
+    ]
+  }
+}

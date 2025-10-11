@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1930.198.82",
+    "coin_page_url": "https://numismatics.org/collection/1930.198.82",
+    "title": "Bronze AE4 of Theodosius II, Nicomedia, 425–4335. 1930.198.82",
+    "date_range": {
+      "from": "0425",
+      "to": "4335"
+    },
+    "obverse_portrait": "Theodosius II",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae4",
+    "cat": "RIC X Theodosius II (East) 458",
+    "Obverse_leg": "]S PF AV",
+    "rev_symbol": "-/-//[S]MN[A]",
+    "measurements": {
+      "weight": "0.94 g",
+      "diameter": "13 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust right",
+      "reverse": "Legend in wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1930/1930.198.82.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1930/1930.198.82.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1930/1930.198.82.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1930/1930.198.82.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1930/1930.198.82.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1930/1930.198.82.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1930/1930.198.82.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1930/1930.198.82.rev.width175.jpg"
+      }
+    ]
+  }
+}

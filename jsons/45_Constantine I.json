@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1933.999.392",
+    "coin_page_url": "https://numismatics.org/collection/1933.999.392",
+    "title": "Bronze AE2 of Constantine I, Heraclea, 327–329. 1933.999.392",
+    "date_range": {
+      "from": "0327",
+      "to": "0329"
+    },
+    "obverse_portrait": "Constantine I",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VII Heraclea 92",
+    "Obverse_leg": "CONSTAN-TINVS AVG",
+    "rev_symbol": "-/-//•SMHB",
+    "measurements": {
+      "weight": "3.09 g",
+      "diameter": "18.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head diademed gazing upward right",
+      "reverse": "Laurel wreath enclosing VOT / XXX"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.392.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.392.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.392.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.392.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.392.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.392.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.392.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.392.rev.width175.jpg"
+      }
+    ]
+  }
+}
