@@ -1,12 +1,12 @@
 [
-  {
-    "filename": "666_obv_Valentinian III__Theodosius II.jpg",
-    "bbox": [
-      72.01924896240234,
-      21.122745513916016,
-      240.61050415039062,
-      229.72833251953125
-    ],
-    "confidence": 0.3100903630256653
-  }
+    {
+        "filename": "666_obv_Valentinian III__Theodosius II.jpg",
+        "bbox": [
+            69,
+            60,
+            220,
+            258
+        ],
+        "confidence": 0.3100903630256653
+    }
 ]

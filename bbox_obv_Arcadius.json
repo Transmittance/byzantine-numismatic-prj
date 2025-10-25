@@ -1,62 +1,62 @@
 [
-  {
-    "filename": "635_obv_Arcadius__Honorius__Theodosius II.jpg",
-    "bbox": [
-      29.224166870117188,
-      30.180843353271484,
-      263.6094665527344,
-      294.5890808105469
-    ],
-    "confidence": 0.625714123249054
-  },
-  {
-    "filename": "636_obv_Arcadius__Honorius__Theodosius II.jpg",
-    "bbox": [
-      4.224443435668945,
-      45.46908950805664,
-      248.6436309814453,
-      294.10821533203125
-    ],
-    "confidence": 0.6591044068336487
-  },
-  {
-    "filename": "637_obv_Arcadius__Honorius__Theodosius II.jpg",
-    "bbox": [
-      0.0,
-      14.858807563781738,
-      234.38018798828125,
-      286.49560546875
-    ],
-    "confidence": 0.5616496205329895
-  },
-  {
-    "filename": "638_obv_Arcadius__Honorius__Theodosius II.jpg",
-    "bbox": [
-      44.171443939208984,
-      17.95884132385254,
-      290.24114990234375,
-      289.4706115722656
-    ],
-    "confidence": 0.4806770086288452
-  },
-  {
-    "filename": "765_obv_Arcadius__Honorius__Theodosius II.jpg",
-    "bbox": [
-      30.521305084228516,
-      10.70417308807373,
-      278.2255554199219,
-      293.72027587890625
-    ],
-    "confidence": 0.3506926894187927
-  },
-  {
-    "filename": "769_obv_Arcadius__Honorius__Theodosius II.jpg",
-    "bbox": [
-      30.04620361328125,
-      20.01125144958496,
-      264.6641540527344,
-      287.7347106933594
-    ],
-    "confidence": 0.7304706573486328
-  }
+    {
+        "filename": "635_obv_Arcadius__Honorius__Theodosius II.jpg",
+        "bbox": [
+            29.224166870117188,
+            30.180843353271484,
+            263.6094665527344,
+            294.5890808105469
+        ],
+        "confidence": 0.625714123249054
+    },
+    {
+        "filename": "636_obv_Arcadius__Honorius__Theodosius II.jpg",
+        "bbox": [
+            64,
+            67,
+            219,
+            284
+        ],
+        "confidence": 0.6591044068336487
+    },
+    {
+        "filename": "637_obv_Arcadius__Honorius__Theodosius II.jpg",
+        "bbox": [
+            62,
+            55,
+            201,
+            293
+        ],
+        "confidence": 0.5616496205329895
+    },
+    {
+        "filename": "638_obv_Arcadius__Honorius__Theodosius II.jpg",
+        "bbox": [
+            73,
+            98,
+            224,
+            286
+        ],
+        "confidence": 0.4806770086288452
+    },
+    {
+        "filename": "765_obv_Arcadius__Honorius__Theodosius II.jpg",
+        "bbox": [
+            74,
+            71,
+            223,
+            286
+        ],
+        "confidence": 0.3506926894187927
+    },
+    {
+        "filename": "769_obv_Arcadius__Honorius__Theodosius II.jpg",
+        "bbox": [
+            73,
+            53,
+            228,
+            275
+        ],
+        "confidence": 0.7304706573486328
+    }
 ]
