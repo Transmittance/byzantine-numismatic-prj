@@ -1,0 +1,7792 @@
+[
+  {
+    "filename": "667_obv_Honorius__Theodosius II.jpg",
+    "bbox": [
+      63,
+      48,
+      234,
+      287
+    ],
+    "confidence": 0.6605168581008911
+  },
+  {
+    "filename": "668_obv_Honorius__Theodosius II.jpg",
+    "bbox": [
+      28.974607467651367,
+      30.44903564453125,
+      264.3536376953125,
+      293.6191101074219
+    ],
+    "confidence": 0.7508653998374939
+  },
+  {
+    "filename": "669_obv_Honorius__Arcadius__Theodosius II.jpg",
+    "bbox": [
+      15.885993957519531,
+      63.41143035888672,
+      238.73260498046875,
+      300.0
+    ],
+    "confidence": 0.5838810205459595
+  },
+  {
+    "filename": "670_obv_Honorius__Arcadius__Theodosius II.jpg",
+    "bbox": [
+      0.0,
+      15.46634578704834,
+      234.91336059570312,
+      280.2764892578125
+    ],
+    "confidence": 0.561595618724823
+  },
+  {
+    "filename": "671_obv_Honorius__Theodosius II.jpg",
+    "bbox": [
+      4.3828582763671875,
+      47.137638092041016,
+      246.96981811523438,
+      291.725341796875
+    ],
+    "confidence": 0.7123844623565674
+  },
+  {
+    "filename": "672_obv_Honorius__Arcadius__Theodosius II.jpg",
+    "bbox": [
+      16.983003616333008,
+      16.012916564941406,
+      265.4208984375,
+      297.69073486328125
+    ],
+    "confidence": 0.7264589667320251
+  },
+  {
+    "filename": "673_obv_Honorius__Arcadius__Theodosius II.jpg",
+    "bbox": [
+      42.04119110107422,
+      45.88551330566406,
+      280.5104064941406,
+      300.0
+    ],
+    "confidence": 0.6632461547851562
+  },
+  {
+    "filename": "674_obv_Honorius__Arcadius__Theodosius II.jpg",
+    "bbox": [
+      12.927302360534668,
+      26.83530616760254,
+      263.5233154296875,
+      285.76141357421875
+    ],
+    "confidence": 0.6012731194496155
+  },
+  {
+    "filename": "675_obv_Honorius__Arcadius__Theodosius II.jpg",
+    "bbox": [
+      46.35174560546875,
+      32.04285430908203,
+      268.09417724609375,
+      291.8758239746094
+    ],
+    "confidence": 0.7446840405464172
+  },
+  {
+    "filename": "676_obv_Honorius__Arcadius__Theodosius II.jpg",
+    "bbox": [
+      38.48725128173828,
+      5.178107738494873,
+      259.8072204589844,
+      279.7113342285156
+    ],
+    "confidence": 0.6724246144294739
+  },
+  {
+    "filename": "713_obv_Honorius__Arcadius__Theodosius II.jpg",
+    "bbox": [
+      42.30577087402344,
+      0.0,
+      289.92498779296875,
+      277.2409973144531
+    ],
+    "confidence": 0.6221559643745422
+  },
+  {
+    "filename": "714_obv_Honorius__Arcadius__Theodosius II.jpg",
+    "bbox": [
+      15.972088813781738,
+      26.618268966674805,
+      260.7041931152344,
+      291.04315185546875
+    ],
+    "confidence": 0.7149873971939087
+  },
+  {
+    "filename": "732_obv_Honorius__Theodosius II.jpg",
+    "bbox": [
+      73,
+      48,
+      220,
+      281
+    ],
+    "confidence": 0.7687031030654907
+  },
+  {
+    "filename": "733_obv_Honorius__Theodosius II.jpg",
+    "bbox": [
+      75,
+      63,
+      211,
+      283
+    ],
+    "confidence": 0.27632227540016174
+  },
+  {
+    "filename": "734_obv_Honorius__Theodosius II.jpg",
+    "bbox": [
+      74,
+      71,
+      225,
+      282
+    ],
+    "confidence": 0.7065147757530212
+  },
+  {
+    "filename": "735_obv_Honorius__Arcadius__Theodosius II.jpg",
+    "bbox": [
+      94,
+      59,
+      233,
+      282
+    ],
+    "confidence": 0.5216429233551025
+  },
+  {
+    "filename": "736_obv_Honorius__Arcadius__Theodosius II.jpg",
+    "bbox": [
+      110,
+      36,
+      266,
+      270
+    ],
+    "confidence": 0.748982310295105
+  },
+  {
+    "filename": "746_obv_Honorius__Theodosius II.jpg",
+    "bbox": [
+      77,
+      30,
+      243,
+      258
+    ],
+    "confidence": 0.7619284987449646
+  },
+  {
+    "filename": "764_obv_Honorius__Arcadius__Theodosius II.jpg",
+    "bbox": [
+      66,
+      52,
+      226,
+      263
+    ],
+    "confidence": 0.696960985660553
+  },
+  {
+    "filename": "298_obv_Theodosius I.jpg",
+    "bbox": [
+      72,
+      40,
+      237,
+      283
+    ],
+    "confidence": 0.7557050585746765
+  },
+  {
+    "filename": "299_obv_Theodosius I.jpg",
+    "bbox": [
+      68,
+      27,
+      225,
+      273
+    ],
+    "confidence": 0.5272756814956665
+  },
+  {
+    "filename": "300_obv_Theodosius I.jpg",
+    "bbox": [
+      76,
+      35,
+      236,
+      268
+    ],
+    "confidence": 0.7197462320327759
+  },
+  {
+    "filename": "301_obv_Theodosius I.jpg",
+    "bbox": [
+      70,
+      29,
+      227,
+      270
+    ],
+    "confidence": 0.5829309225082397
+  },
+  {
+    "filename": "302_obv_Theodosius I.jpg",
+    "bbox": [
+      71,
+      35,
+      221,
+      268
+    ],
+    "confidence": 0.7624154090881348
+  },
+  {
+    "filename": "303_obv_Theodosius I.jpg",
+    "bbox": [
+      68,
+      34,
+      234,
+      286
+    ],
+    "confidence": 0.5369035601615906
+  },
+  {
+    "filename": "304_obv_Theodosius I.jpg",
+    "bbox": [
+      76,
+      55,
+      230,
+      275
+    ],
+    "confidence": 0.7090171575546265
+  },
+  {
+    "filename": "305_obv_Theodosius I.jpg",
+    "bbox": [
+      76,
+      22,
+      234,
+      290
+    ],
+    "confidence": 0.609110951423645
+  },
+  {
+    "filename": "306_obv_Theodosius I.jpg",
+    "bbox": [
+      65,
+      28,
+      231,
+      288
+    ],
+    "confidence": 0.5346785187721252
+  },
+  {
+    "filename": "307_obv_Theodosius I.jpg",
+    "bbox": [
+      49,
+      24,
+      221,
+      281
+    ],
+    "confidence": 0.5624597072601318
+  },
+  {
+    "filename": "308_obv_Theodosius I.jpg",
+    "bbox": [
+      67,
+      53,
+      215,
+      283
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "309_obv_Theodosius I.jpg",
+    "bbox": [
+      59,
+      39,
+      228,
+      280
+    ],
+    "confidence": 0.6628045439720154
+  },
+  {
+    "filename": "310_obv_Theodosius I.jpg",
+    "bbox": [
+      39.16963195800781,
+      37.09822463989258,
+      262.1723937988281,
+      289.8844909667969
+    ],
+    "confidence": 0.6318020820617676
+  },
+  {
+    "filename": "311_obv_Theodosius I.jpg",
+    "bbox": [
+      74,
+      20,
+      251,
+      263
+    ],
+    "confidence": 0.6692975759506226
+  },
+  {
+    "filename": "312_obv_Theodosius I.jpg",
+    "bbox": [
+      86,
+      47,
+      233,
+      271
+    ],
+    "confidence": 0.6718127131462097
+  },
+  {
+    "filename": "313_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      24,
+      233,
+      279
+    ],
+    "confidence": 0.6237067580223083
+  },
+  {
+    "filename": "314_obv_Theodosius I.jpg",
+    "bbox": [
+      75,
+      49,
+      234,
+      274
+    ],
+    "confidence": 0.7002180218696594
+  },
+  {
+    "filename": "315_obv_Theodosius I.jpg",
+    "bbox": [
+      80,
+      54,
+      219,
+      261
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "316_obv_Theodosius I.jpg",
+    "bbox": [
+      54,
+      43,
+      234,
+      276
+    ],
+    "confidence": 0.6312660574913025
+  },
+  {
+    "filename": "317_obv_Theodosius I.jpg",
+    "bbox": [
+      52,
+      39,
+      233,
+      272
+    ],
+    "confidence": 0.6682128310203552
+  },
+  {
+    "filename": "318_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      40,
+      231,
+      279
+    ],
+    "confidence": 0.5499274134635925
+  },
+  {
+    "filename": "319_obv_Theodosius I.jpg",
+    "bbox": [
+      63,
+      27,
+      233,
+      279
+    ],
+    "confidence": 0.7844350337982178
+  },
+  {
+    "filename": "320_obv_Theodosius I.jpg",
+    "bbox": [
+      75,
+      31,
+      227,
+      261
+    ],
+    "confidence": 0.645294189453125
+  },
+  {
+    "filename": "321_obv_Theodosius I.jpg",
+    "bbox": [
+      80,
+      53,
+      248,
+      283
+    ],
+    "confidence": 0.7147970795631409
+  },
+  {
+    "filename": "322_obv_Theodosius I.jpg",
+    "bbox": [
+      69,
+      45,
+      245,
+      267
+    ],
+    "confidence": 0.4533695578575134
+  },
+  {
+    "filename": "323_obv_Theodosius I.jpg",
+    "bbox": [
+      32,
+      36,
+      223,
+      256
+    ],
+    "confidence": 0.7515624761581421
+  },
+  {
+    "filename": "324_obv_Theodosius I.jpg",
+    "bbox": [
+      58,
+      38,
+      230,
+      273
+    ],
+    "confidence": 0.5308355689048767
+  },
+  {
+    "filename": "325_obv_Theodosius I.jpg",
+    "bbox": [
+      81,
+      50,
+      251,
+      263
+    ],
+    "confidence": 0.6500421762466431
+  },
+  {
+    "filename": "326_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      34,
+      238,
+      268
+    ],
+    "confidence": 0.3561997413635254
+  },
+  {
+    "filename": "327_obv_Theodosius I.jpg",
+    "bbox": [
+      65,
+      53,
+      242,
+      283
+    ],
+    "confidence": 0.5946895480155945
+  },
+  {
+    "filename": "328_obv_Theodosius I.jpg",
+    "bbox": [
+      69,
+      35,
+      213,
+      282
+    ],
+    "confidence": 0.6773422956466675
+  },
+  {
+    "filename": "329_obv_Theodosius I.jpg",
+    "bbox": [
+      74,
+      40,
+      224,
+      263
+    ],
+    "confidence": 0.7298752665519714
+  },
+  {
+    "filename": "330_obv_Theodosius I.jpg",
+    "bbox": [
+      40,
+      50,
+      222,
+      280
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "331_obv_Theodosius I.jpg",
+    "bbox": [
+      55,
+      56,
+      202,
+      282
+    ],
+    "confidence": 0.5191454291343689
+  },
+  {
+    "filename": "332_obv_Theodosius I.jpg",
+    "bbox": [
+      50,
+      45,
+      210,
+      286
+    ],
+    "confidence": 0.4319545328617096
+  },
+  {
+    "filename": "333_obv_Theodosius I.jpg",
+    "bbox": [
+      68,
+      64,
+      225,
+      281
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "334_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      39,
+      206,
+      273
+    ],
+    "confidence": 0.5707968473434448
+  },
+  {
+    "filename": "335_obv_Theodosius I.jpg",
+    "bbox": [
+      58,
+      25,
+      221,
+      267
+    ],
+    "confidence": 0.4996204972267151
+  },
+  {
+    "filename": "336_obv_Theodosius I.jpg",
+    "bbox": [
+      66,
+      35,
+      226,
+      268
+    ],
+    "confidence": 0.5034934282302856
+  },
+  {
+    "filename": "337_obv_Theodosius I.jpg",
+    "bbox": [
+      36,
+      21,
+      203,
+      252
+    ],
+    "confidence": 0.5590952634811401
+  },
+  {
+    "filename": "338_obv_Theodosius I.jpg",
+    "bbox": [
+      67,
+      55,
+      237,
+      256
+    ],
+    "confidence": 0.5199894905090332
+  },
+  {
+    "filename": "339_obv_Theodosius I.jpg",
+    "bbox": [
+      54,
+      42,
+      225,
+      283
+    ],
+    "confidence": 0.5901544094085693
+  },
+  {
+    "filename": "340_obv_Theodosius I.jpg",
+    "bbox": [
+      99,
+      66,
+      250,
+      270
+    ],
+    "confidence": 0.5995987057685852
+  },
+  {
+    "filename": "341_obv_Theodosius I.jpg",
+    "bbox": [
+      53,
+      43,
+      200,
+      272
+    ],
+    "confidence": 0.467926025390625
+  },
+  {
+    "filename": "342_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      35,
+      220,
+      272
+    ],
+    "confidence": 0.2563505172729492
+  },
+  {
+    "filename": "343_obv_Theodosius I.jpg",
+    "bbox": [
+      67,
+      41,
+      221,
+      271
+    ],
+    "confidence": 0.7302055954933167
+  },
+  {
+    "filename": "344_obv_Theodosius I.jpg",
+    "bbox": [
+      44,
+      37,
+      204,
+      275
+    ],
+    "confidence": 0.6914584040641785
+  },
+  {
+    "filename": "345_obv_Theodosius I.jpg",
+    "bbox": [
+      62,
+      53,
+      223,
+      280
+    ],
+    "confidence": 0.7303600907325745
+  },
+  {
+    "filename": "346_obv_Theodosius I.jpg",
+    "bbox": [
+      72,
+      49,
+      214,
+      274
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "347_obv_Theodosius I.jpg",
+    "bbox": [
+      46.72948455810547,
+      59.21767807006836,
+      270.0066223144531,
+      283.1163635253906
+    ],
+    "confidence": 0.34320566058158875
+  },
+  {
+    "filename": "348_obv_Theodosius I.jpg",
+    "bbox": [
+      49,
+      25,
+      201,
+      276
+    ],
+    "confidence": 0.6222342252731323
+  },
+  {
+    "filename": "349_obv_Theodosius I.jpg",
+    "bbox": [
+      51.00642776489258,
+      46.43720245361328,
+      259.04669189453125,
+      284.3661193847656
+    ],
+    "confidence": 0.6530826687812805
+  },
+  {
+    "filename": "350_obv_Theodosius I.jpg",
+    "bbox": [
+      37.85542297363281,
+      51.74577331542969,
+      256.6730041503906,
+      290.7149353027344
+    ],
+    "confidence": 0.7534573078155518
+  },
+  {
+    "filename": "351_obv_Theodosius I.jpg",
+    "bbox": [
+      56,
+      34,
+      226,
+      265
+    ],
+    "confidence": 0.6151816248893738
+  },
+  {
+    "filename": "352_obv_Theodosius I.jpg",
+    "bbox": [
+      55.326229095458984,
+      58.33119201660156,
+      269.5058288574219,
+      294.7462463378906
+    ],
+    "confidence": 0.7440734505653381
+  },
+  {
+    "filename": "353_obv_Theodosius I.jpg",
+    "bbox": [
+      73,
+      53,
+      213,
+      282
+    ],
+    "confidence": 0.7106317281723022
+  },
+  {
+    "filename": "354_obv_Theodosius I.jpg",
+    "bbox": [
+      54,
+      83,
+      198,
+      292
+    ],
+    "confidence": 0.6940286159515381
+  },
+  {
+    "filename": "355_obv_Theodosius I.jpg",
+    "bbox": [
+      40,
+      65,
+      229,
+      282
+    ],
+    "confidence": 0.7459760904312134
+  },
+  {
+    "filename": "356_obv_Theodosius I.jpg",
+    "bbox": [
+      43,
+      37,
+      235,
+      287
+    ],
+    "confidence": 0.6004417538642883
+  },
+  {
+    "filename": "357_obv_Theodosius I.jpg",
+    "bbox": [
+      74,
+      42,
+      247,
+      283
+    ],
+    "confidence": 0.6776055693626404
+  },
+  {
+    "filename": "358_obv_Theodosius I.jpg",
+    "bbox": [
+      51,
+      45,
+      231,
+      283
+    ],
+    "confidence": 0.6485906839370728
+  },
+  {
+    "filename": "359_obv_Theodosius I.jpg",
+    "bbox": [
+      58,
+      66,
+      200,
+      266
+    ],
+    "confidence": 0.7435665726661682
+  },
+  {
+    "filename": "360_obv_Theodosius I.jpg",
+    "bbox": [
+      57,
+      26,
+      207,
+      288
+    ],
+    "confidence": 0.7380217909812927
+  },
+  {
+    "filename": "361_obv_Theodosius I.jpg",
+    "bbox": [
+      56,
+      36,
+      211,
+      282
+    ],
+    "confidence": 0.5701053142547607
+  },
+  {
+    "filename": "362_obv_Theodosius I.jpg",
+    "bbox": [
+      21.002103805541992,
+      23.541839599609375,
+      256.9773254394531,
+      272.5661926269531
+    ],
+    "confidence": 0.6390971541404724
+  },
+  {
+    "filename": "363_obv_Theodosius I.jpg",
+    "bbox": [
+      46.47734451293945,
+      33.55896759033203,
+      257.9603576660156,
+      290.79656982421875
+    ],
+    "confidence": 0.7396320700645447
+  },
+  {
+    "filename": "364_obv_Theodosius I.jpg",
+    "bbox": [
+      72.94140625,
+      29.55324935913086,
+      300.0,
+      287.31024169921875
+    ],
+    "confidence": 0.6828052401542664
+  },
+  {
+    "filename": "365_obv_Theodosius I.jpg",
+    "bbox": [
+      50.135711669921875,
+      51.58149337768555,
+      262.8903503417969,
+      287.0636901855469
+    ],
+    "confidence": 0.6990018486976624
+  },
+  {
+    "filename": "366_obv_Theodosius I.jpg",
+    "bbox": [
+      13.23546314239502,
+      44.31718063354492,
+      248.89193725585938,
+      283.04974365234375
+    ],
+    "confidence": 0.6746153235435486
+  },
+  {
+    "filename": "367_obv_Theodosius I.jpg",
+    "bbox": [
+      13.15738582611084,
+      46.80427169799805,
+      263.36962890625,
+      292.8409118652344
+    ],
+    "confidence": 0.7264343500137329
+  },
+  {
+    "filename": "368_obv_Theodosius I.jpg",
+    "bbox": [
+      56,
+      35,
+      228,
+      290
+    ],
+    "confidence": 0.7667918801307678
+  },
+  {
+    "filename": "369_obv_Theodosius I.jpg",
+    "bbox": [
+      68,
+      42,
+      215,
+      271
+    ],
+    "confidence": 0.5941177606582642
+  },
+  {
+    "filename": "370_obv_Theodosius I.jpg",
+    "bbox": [
+      73,
+      44,
+      243,
+      282
+    ],
+    "confidence": 0.7628839015960693
+  },
+  {
+    "filename": "371_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      33,
+      229,
+      281
+    ],
+    "confidence": 0.3418692946434021
+  },
+  {
+    "filename": "372_obv_Theodosius I.jpg",
+    "bbox": [
+      61,
+      35,
+      225,
+      279
+    ],
+    "confidence": 0.7329737544059753
+  },
+  {
+    "filename": "373_obv_Theodosius I.jpg",
+    "bbox": [
+      79,
+      34,
+      251,
+      251
+    ],
+    "confidence": 0.6234725713729858
+  },
+  {
+    "filename": "374_obv_Theodosius I.jpg",
+    "bbox": [
+      74,
+      25,
+      240,
+      281
+    ],
+    "confidence": 0.6152235269546509
+  },
+  {
+    "filename": "375_obv_Theodosius I.jpg",
+    "bbox": [
+      59,
+      32,
+      238,
+      274
+    ],
+    "confidence": 0.6872531771659851
+  },
+  {
+    "filename": "376_obv_Theodosius I.jpg",
+    "bbox": [
+      47,
+      42,
+      217,
+      284
+    ],
+    "confidence": 0.6075529456138611
+  },
+  {
+    "filename": "377_obv_Theodosius I.jpg",
+    "bbox": [
+      65,
+      35,
+      223,
+      278
+    ],
+    "confidence": 0.7235958576202393
+  },
+  {
+    "filename": "378_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      96,
+      205,
+      292
+    ],
+    "confidence": 0.3692440688610077
+  },
+  {
+    "filename": "379_obv_Theodosius I.jpg",
+    "bbox": [
+      54,
+      42,
+      222,
+      280
+    ],
+    "confidence": 0.5440773963928223
+  },
+  {
+    "filename": "380_obv_Theodosius I.jpg",
+    "bbox": [
+      45,
+      43,
+      225,
+      282
+    ],
+    "confidence": 0.553560733795166
+  },
+  {
+    "filename": "381_obv_Theodosius I.jpg",
+    "bbox": [
+      63,
+      30,
+      217,
+      281
+    ],
+    "confidence": 0.7485891580581665
+  },
+  {
+    "filename": "382_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      44,
+      244,
+      281
+    ],
+    "confidence": 0.7295518517494202
+  },
+  {
+    "filename": "383_obv_Theodosius I.jpg",
+    "bbox": [
+      52,
+      42,
+      227,
+      272
+    ],
+    "confidence": 0.5664323568344116
+  },
+  {
+    "filename": "384_obv_Theodosius I.jpg",
+    "bbox": [
+      74,
+      45,
+      248,
+      285
+    ],
+    "confidence": 0.37169674038887024
+  },
+  {
+    "filename": "385_obv_Theodosius I.jpg",
+    "bbox": [
+      69,
+      57,
+      238,
+      284
+    ],
+    "confidence": 0.6516953110694885
+  },
+  {
+    "filename": "386_obv_Theodosius I.jpg",
+    "bbox": [
+      79,
+      25,
+      246,
+      279
+    ],
+    "confidence": 0.6131591200828552
+  },
+  {
+    "filename": "387_obv_Theodosius I.jpg",
+    "bbox": [
+      94,
+      23,
+      248,
+      284
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "388_obv_Theodosius I.jpg",
+    "bbox": [
+      60.70963668823242,
+      17.552146911621094,
+      289.2007751464844,
+      288.6094665527344
+    ],
+    "confidence": 0.4025523364543915
+  },
+  {
+    "filename": "389_obv_Theodosius I.jpg",
+    "bbox": [
+      41.47971725463867,
+      37.45768356323242,
+      275.5835266113281,
+      290.5478210449219
+    ],
+    "confidence": 0.7518773674964905
+  },
+  {
+    "filename": "390_obv_Theodosius I.jpg",
+    "bbox": [
+      52,
+      25,
+      238,
+      279
+    ],
+    "confidence": 0.7325294017791748
+  },
+  {
+    "filename": "391_obv_Theodosius I.jpg",
+    "bbox": [
+      36.57510757446289,
+      20.433652877807617,
+      263.16046142578125,
+      292.7530822753906
+    ],
+    "confidence": 0.7678653597831726
+  },
+  {
+    "filename": "392_obv_Theodosius I.jpg",
+    "bbox": [
+      32.23520278930664,
+      51.75530242919922,
+      262.5597229003906,
+      291.3130798339844
+    ],
+    "confidence": 0.6685715913772583
+  },
+  {
+    "filename": "393_obv_Theodosius I.jpg",
+    "bbox": [
+      61,
+      39,
+      244,
+      283
+    ],
+    "confidence": 0.697664737701416
+  },
+  {
+    "filename": "394_obv_Theodosius I.jpg",
+    "bbox": [
+      27.01668930053711,
+      32.23554611206055,
+      261.36285400390625,
+      276.1329345703125
+    ],
+    "confidence": 0.6088962554931641
+  },
+  {
+    "filename": "395_obv_Theodosius I.jpg",
+    "bbox": [
+      67,
+      58,
+      259,
+      278
+    ],
+    "confidence": 0.7645304799079895
+  },
+  {
+    "filename": "396_obv_Theodosius I.jpg",
+    "bbox": [
+      53,
+      35,
+      237,
+      268
+    ],
+    "confidence": 0.7966523766517639
+  },
+  {
+    "filename": "397_obv_Theodosius I.jpg",
+    "bbox": [
+      74,
+      73,
+      220,
+      276
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "398_obv_Theodosius I.jpg",
+    "bbox": [
+      56,
+      45,
+      237,
+      278
+    ],
+    "confidence": 0.6311343908309937
+  },
+  {
+    "filename": "399_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      40,
+      234,
+      283
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "400_obv_Theodosius I.jpg",
+    "bbox": [
+      58,
+      56,
+      238,
+      275
+    ],
+    "confidence": 0.6705160737037659
+  },
+  {
+    "filename": "401_obv_Theodosius I.jpg",
+    "bbox": [
+      49,
+      54,
+      232,
+      286
+    ],
+    "confidence": 0.6319406628608704
+  },
+  {
+    "filename": "402_obv_Theodosius I.jpg",
+    "bbox": [
+      53,
+      47,
+      250,
+      268
+    ],
+    "confidence": 0.68525230884552
+  },
+  {
+    "filename": "403_obv_Theodosius I.jpg",
+    "bbox": [
+      81,
+      52,
+      246,
+      274
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "404_obv_Theodosius I.jpg",
+    "bbox": [
+      66,
+      48,
+      235,
+      281
+    ],
+    "confidence": 0.7045066356658936
+  },
+  {
+    "filename": "405_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      45,
+      214,
+      268
+    ],
+    "confidence": 0.7035523653030396
+  },
+  {
+    "filename": "406_obv_Theodosius I.jpg",
+    "bbox": [
+      71,
+      35,
+      262,
+      254
+    ],
+    "confidence": 0.6989713907241821
+  },
+  {
+    "filename": "407_obv_Theodosius I.jpg",
+    "bbox": [
+      82,
+      54,
+      240,
+      268
+    ],
+    "confidence": 0.46070602536201477
+  },
+  {
+    "filename": "408_obv_Theodosius I.jpg",
+    "bbox": [
+      67.18579864501953,
+      74.69367218017578,
+      241.42938232421875,
+      295.638671875
+    ],
+    "confidence": 0.5911756753921509
+  },
+  {
+    "filename": "409_obv_Theodosius I.jpg",
+    "bbox": [
+      52.92211151123047,
+      38.85672378540039,
+      234.5952911376953,
+      280.27081298828125
+    ],
+    "confidence": 0.5539803504943848
+  },
+  {
+    "filename": "410_obv_Theodosius I.jpg",
+    "bbox": [
+      38,
+      57,
+      214,
+      268
+    ],
+    "confidence": 0.4908847510814667
+  },
+  {
+    "filename": "411_obv_Theodosius I.jpg",
+    "bbox": [
+      35.49095916748047,
+      41.2461051940918,
+      263.4700012207031,
+      296.4131164550781
+    ],
+    "confidence": 0.7012612819671631
+  },
+  {
+    "filename": "412_obv_Theodosius I.jpg",
+    "bbox": [
+      70,
+      51,
+      237,
+      273
+    ],
+    "confidence": 0.6903691291809082
+  },
+  {
+    "filename": "413_obv_Theodosius I.jpg",
+    "bbox": [
+      59,
+      50,
+      241,
+      270
+    ],
+    "confidence": 0.5323897004127502
+  },
+  {
+    "filename": "414_obv_Theodosius I.jpg",
+    "bbox": [
+      49,
+      59,
+      235,
+      283
+    ],
+    "confidence": 0.5467088222503662
+  },
+  {
+    "filename": "415_obv_Theodosius I.jpg",
+    "bbox": [
+      38,
+      43,
+      240,
+      267
+    ],
+    "confidence": 0.4031909704208374
+  },
+  {
+    "filename": "416_obv_Theodosius I.jpg",
+    "bbox": [
+      53,
+      39,
+      231,
+      274
+    ],
+    "confidence": 0.5968723893165588
+  },
+  {
+    "filename": "417_obv_Theodosius I.jpg",
+    "bbox": [
+      67,
+      54,
+      228,
+      270
+    ],
+    "confidence": 0.7779889702796936
+  },
+  {
+    "filename": "418_obv_Theodosius I.jpg",
+    "bbox": [
+      56,
+      47,
+      234,
+      281
+    ],
+    "confidence": 0.6505751013755798
+  },
+  {
+    "filename": "419_obv_Theodosius I.jpg",
+    "bbox": [
+      58,
+      57,
+      236,
+      275
+    ],
+    "confidence": 0.5285084247589111
+  },
+  {
+    "filename": "420_obv_Theodosius I.jpg",
+    "bbox": [
+      76,
+      71,
+      235,
+      283
+    ],
+    "confidence": 0.537463903427124
+  },
+  {
+    "filename": "421_obv_Theodosius I.jpg",
+    "bbox": [
+      76,
+      81,
+      239,
+      288
+    ],
+    "confidence": 0.6903388500213623
+  },
+  {
+    "filename": "422_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      54,
+      236,
+      290
+    ],
+    "confidence": 0.7013416886329651
+  },
+  {
+    "filename": "423_obv_Theodosius I.jpg",
+    "bbox": [
+      67,
+      80,
+      228,
+      286
+    ],
+    "confidence": 0.6977113485336304
+  },
+  {
+    "filename": "424_obv_Theodosius I.jpg",
+    "bbox": [
+      61,
+      72,
+      220,
+      288
+    ],
+    "confidence": 0.6646040081977844
+  },
+  {
+    "filename": "425_obv_Theodosius I.jpg",
+    "bbox": [
+      73,
+      71,
+      230,
+      284
+    ],
+    "confidence": 0.4491358995437622
+  },
+  {
+    "filename": "426_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      54,
+      222,
+      280
+    ],
+    "confidence": 0.7193864583969116
+  },
+  {
+    "filename": "427_obv_Theodosius I.jpg",
+    "bbox": [
+      54,
+      48,
+      212,
+      275
+    ],
+    "confidence": 0.606987476348877
+  },
+  {
+    "filename": "428_obv_Theodosius I.jpg",
+    "bbox": [
+      88,
+      84,
+      235,
+      282
+    ],
+    "confidence": 0.5816832184791565
+  },
+  {
+    "filename": "429_obv_Theodosius I.jpg",
+    "bbox": [
+      88,
+      52,
+      247,
+      296
+    ],
+    "confidence": 0.6373783349990845
+  },
+  {
+    "filename": "430_obv_Theodosius I.jpg",
+    "bbox": [
+      72,
+      58,
+      196,
+      269
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "431_obv_Theodosius I.jpg",
+    "bbox": [
+      88,
+      89,
+      215,
+      267
+    ],
+    "confidence": 0.591267466545105
+  },
+  {
+    "filename": "432_obv_Theodosius I.jpg",
+    "bbox": [
+      35.80793380737305,
+      15.05724811553955,
+      263.5455322265625,
+      273.3289489746094
+    ],
+    "confidence": 0.7002682089805603
+  },
+  {
+    "filename": "433_obv_Theodosius I.jpg",
+    "bbox": [
+      97,
+      72,
+      211,
+      291
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "434_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      53,
+      215,
+      279
+    ],
+    "confidence": 0.6574501991271973
+  },
+  {
+    "filename": "435_obv_Theodosius I.jpg",
+    "bbox": [
+      58,
+      21,
+      229,
+      268
+    ],
+    "confidence": 0.44177931547164917
+  },
+  {
+    "filename": "436_obv_Theodosius I.jpg",
+    "bbox": [
+      73,
+      52,
+      226,
+      283
+    ],
+    "confidence": 0.6858997344970703
+  },
+  {
+    "filename": "437_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      34,
+      234,
+      283
+    ],
+    "confidence": 0.4191552698612213
+  },
+  {
+    "filename": "438_obv_Theodosius I.jpg",
+    "bbox": [
+      72,
+      36,
+      246,
+      274
+    ],
+    "confidence": 0.4464483857154846
+  },
+  {
+    "filename": "439_obv_Theodosius I.jpg",
+    "bbox": [
+      52,
+      52,
+      230,
+      288
+    ],
+    "confidence": 0.26290133595466614
+  },
+  {
+    "filename": "440_obv_Theodosius I.jpg",
+    "bbox": [
+      55,
+      29,
+      225,
+      286
+    ],
+    "confidence": 0.6000074148178101
+  },
+  {
+    "filename": "441_obv_Theodosius I.jpg",
+    "bbox": [
+      71,
+      47,
+      236,
+      284
+    ],
+    "confidence": 0.6982386708259583
+  },
+  {
+    "filename": "442_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      25,
+      239,
+      268
+    ],
+    "confidence": 0.3616275489330292
+  },
+  {
+    "filename": "443_obv_Theodosius I.jpg",
+    "bbox": [
+      69,
+      45,
+      232,
+      275
+    ],
+    "confidence": 0.6801605224609375
+  },
+  {
+    "filename": "444_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      42,
+      227,
+      282
+    ],
+    "confidence": 0.5959916114807129
+  },
+  {
+    "filename": "445_obv_Theodosius I.jpg",
+    "bbox": [
+      56,
+      35,
+      236,
+      275
+    ],
+    "confidence": 0.5757603645324707
+  },
+  {
+    "filename": "446_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      46,
+      214,
+      284
+    ],
+    "confidence": 0.7607375979423523
+  },
+  {
+    "filename": "447_obv_Theodosius I.jpg",
+    "bbox": [
+      71,
+      38,
+      219,
+      267
+    ],
+    "confidence": 0.5231680870056152
+  },
+  {
+    "filename": "448_obv_Theodosius I.jpg",
+    "bbox": [
+      73,
+      41,
+      232,
+      269
+    ],
+    "confidence": 0.5001674294471741
+  },
+  {
+    "filename": "449_obv_Theodosius I.jpg",
+    "bbox": [
+      71,
+      52,
+      217,
+      279
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "450_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      42,
+      232,
+      269
+    ],
+    "confidence": 0.6387520432472229
+  },
+  {
+    "filename": "451_obv_Theodosius I.jpg",
+    "bbox": [
+      69,
+      32,
+      238,
+      273
+    ],
+    "confidence": 0.5992351770401001
+  },
+  {
+    "filename": "452_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      44,
+      219,
+      273
+    ],
+    "confidence": 0.7039512395858765
+  },
+  {
+    "filename": "453_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      54,
+      207,
+      279
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "454_obv_Theodosius I.jpg",
+    "bbox": [
+      39.873130798339844,
+      30.834901809692383,
+      260.5089416503906,
+      293.9476013183594
+    ],
+    "confidence": 0.7549611330032349
+  },
+  {
+    "filename": "455_obv_Theodosius I.jpg",
+    "bbox": [
+      0.0,
+      65.22419738769531,
+      219.218505859375,
+      288.12371826171875
+    ],
+    "confidence": 0.5683218836784363
+  },
+  {
+    "filename": "456_obv_Theodosius I.jpg",
+    "bbox": [
+      34,
+      26,
+      211,
+      273
+    ],
+    "confidence": 0.3840606212615967
+  },
+  {
+    "filename": "457_obv_Theodosius I.jpg",
+    "bbox": [
+      78,
+      42,
+      246,
+      265
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "458_obv_Theodosius I.jpg",
+    "bbox": [
+      62,
+      36,
+      239,
+      274
+    ],
+    "confidence": 0.5928149819374084
+  },
+  {
+    "filename": "459_obv_Theodosius I.jpg",
+    "bbox": [
+      47,
+      34,
+      214,
+      269
+    ],
+    "confidence": 0.5943887829780579
+  },
+  {
+    "filename": "460_obv_Theodosius I.jpg",
+    "bbox": [
+      65,
+      75,
+      222,
+      304
+    ],
+    "confidence": 0.7179521322250366
+  },
+  {
+    "filename": "461_obv_Theodosius I.jpg",
+    "bbox": [
+      69,
+      61,
+      224,
+      281
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "462_obv_Theodosius I.jpg",
+    "bbox": [
+      85,
+      37,
+      211,
+      243
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "463_obv_Theodosius I.jpg",
+    "bbox": [
+      85.87025451660156,
+      37.97772979736328,
+      257.8616943359375,
+      287.6283264160156
+    ],
+    "confidence": 0.4803386330604553
+  },
+  {
+    "filename": "464_obv_Theodosius I.jpg",
+    "bbox": [
+      70,
+      55,
+      217,
+      280
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "465_obv_Theodosius I.jpg",
+    "bbox": [
+      29.30791664123535,
+      50.630889892578125,
+      255.54592895507812,
+      294.2055969238281
+    ],
+    "confidence": 0.7399949431419373
+  },
+  {
+    "filename": "466_obv_Theodosius I.jpg",
+    "bbox": [
+      57.18455123901367,
+      24.525087356567383,
+      279.8246765136719,
+      292.1029968261719
+    ],
+    "confidence": 0.6152324080467224
+  },
+  {
+    "filename": "467_obv_Theodosius I.jpg",
+    "bbox": [
+      20.559080123901367,
+      29.997594833374023,
+      264.6739501953125,
+      285.0340576171875
+    ],
+    "confidence": 0.6577022075653076
+  },
+  {
+    "filename": "468_obv_Theodosius I.jpg",
+    "bbox": [
+      99.43547058105469,
+      54.407718658447266,
+      265.7218933105469,
+      294.3019714355469
+    ],
+    "confidence": 0.6278040409088135
+  },
+  {
+    "filename": "469_obv_Theodosius I.jpg",
+    "bbox": [
+      25.964353561401367,
+      44.781795501708984,
+      226.83462524414062,
+      283.1007385253906
+    ],
+    "confidence": 0.2730346620082855
+  },
+  {
+    "filename": "470_obv_Theodosius I.jpg",
+    "bbox": [
+      45.32283401489258,
+      13.964194297790527,
+      288.75048828125,
+      289.3870544433594
+    ],
+    "confidence": 0.6732168793678284
+  },
+  {
+    "filename": "471_obv_Theodosius I.jpg",
+    "bbox": [
+      20.30276107788086,
+      23.8343505859375,
+      249.21136474609375,
+      295.8328552246094
+    ],
+    "confidence": 0.6598730087280273
+  },
+  {
+    "filename": "472_obv_Theodosius I.jpg",
+    "bbox": [
+      31.583574295043945,
+      50.630210876464844,
+      256.08111572265625,
+      285.70819091796875
+    ],
+    "confidence": 0.7188071608543396
+  },
+  {
+    "filename": "473_obv_Theodosius I.jpg",
+    "bbox": [
+      73,
+      49,
+      220,
+      273
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "474_obv_Theodosius I.jpg",
+    "bbox": [
+      44.10624313354492,
+      57.137123107910156,
+      281.3765869140625,
+      287.0860900878906
+    ],
+    "confidence": 0.40051940083503723
+  },
+  {
+    "filename": "475_obv_Theodosius I.jpg",
+    "bbox": [
+      32.12230682373047,
+      30.849578857421875,
+      272.0616455078125,
+      288.76837158203125
+    ],
+    "confidence": 0.5983660221099854
+  },
+  {
+    "filename": "476_obv_Theodosius I.jpg",
+    "bbox": [
+      85.70305633544922,
+      33.815860748291016,
+      240.2625732421875,
+      268.7702331542969
+    ],
+    "confidence": 0.41012105345726013
+  },
+  {
+    "filename": "477_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      43,
+      220,
+      265
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "478_obv_Theodosius I.jpg",
+    "bbox": [
+      33,
+      63,
+      235,
+      284
+    ],
+    "confidence": 0.6588143110275269
+  },
+  {
+    "filename": "479_obv_Theodosius I.jpg",
+    "bbox": [
+      65,
+      38,
+      215,
+      283
+    ],
+    "confidence": 0.7277051210403442
+  },
+  {
+    "filename": "480_obv_Theodosius I.jpg",
+    "bbox": [
+      57,
+      46,
+      226,
+      264
+    ],
+    "confidence": 0.28334370255470276
+  },
+  {
+    "filename": "481_obv_Theodosius I.jpg",
+    "bbox": [
+      45.45911407470703,
+      39.42372131347656,
+      265.4759826660156,
+      282.2313537597656
+    ],
+    "confidence": 0.7401332259178162
+  },
+  {
+    "filename": "482_obv_Theodosius I.jpg",
+    "bbox": [
+      27.7324161529541,
+      31.392744064331055,
+      264.7544860839844,
+      294.652587890625
+    ],
+    "confidence": 0.7085219621658325
+  },
+  {
+    "filename": "483_obv_Theodosius I.jpg",
+    "bbox": [
+      43.29899978637695,
+      37.85121536254883,
+      262.150146484375,
+      292.199462890625
+    ],
+    "confidence": 0.7010689377784729
+  },
+  {
+    "filename": "484_obv_Theodosius I.jpg",
+    "bbox": [
+      74,
+      45,
+      226,
+      280
+    ],
+    "confidence": 0.6291659474372864
+  },
+  {
+    "filename": "485_obv_Theodosius I.jpg",
+    "bbox": [
+      77,
+      103,
+      239,
+      283
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "486_obv_Theodosius I.jpg",
+    "bbox": [
+      55,
+      68,
+      199,
+      254
+    ],
+    "confidence": 0.5414958596229553
+  },
+  {
+    "filename": "487_obv_Theodosius I.jpg",
+    "bbox": [
+      63,
+      67,
+      203,
+      285
+    ],
+    "confidence": 0.7141998410224915
+  },
+  {
+    "filename": "488_obv_Theodosius I.jpg",
+    "bbox": [
+      66,
+      97,
+      219,
+      270
+    ],
+    "confidence": 0.7521972060203552
+  },
+  {
+    "filename": "489_obv_Theodosius I.jpg",
+    "bbox": [
+      73,
+      73,
+      256,
+      271
+    ],
+    "confidence": 0.6771897673606873
+  },
+  {
+    "filename": "490_obv_Theodosius I.jpg",
+    "bbox": [
+      20.314319610595703,
+      70.15888977050781,
+      248.62693786621094,
+      282.7828369140625
+    ],
+    "confidence": 0.6963317394256592
+  },
+  {
+    "filename": "491_obv_Theodosius I.jpg",
+    "bbox": [
+      62,
+      51,
+      247,
+      229
+    ],
+    "confidence": 0.2784677743911743
+  },
+  {
+    "filename": "492_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      29,
+      263,
+      266
+    ],
+    "confidence": 0.716964840888977
+  },
+  {
+    "filename": "493_obv_Theodosius I.jpg",
+    "bbox": [
+      37.79545593261719,
+      32.065284729003906,
+      257.057861328125,
+      289.4112243652344
+    ],
+    "confidence": 0.7509174346923828
+  },
+  {
+    "filename": "494_obv_Theodosius I.jpg",
+    "bbox": [
+      30.813880920410156,
+      37.14540100097656,
+      251.20864868164062,
+      294.64874267578125
+    ],
+    "confidence": 0.754667341709137
+  },
+  {
+    "filename": "495_obv_Theodosius I.jpg",
+    "bbox": [
+      41.60553741455078,
+      31.06767463684082,
+      264.880859375,
+      285.11444091796875
+    ],
+    "confidence": 0.7331990003585815
+  },
+  {
+    "filename": "496_obv_Theodosius I.jpg",
+    "bbox": [
+      31.131275177001953,
+      50.255897521972656,
+      271.7452087402344,
+      289.075927734375
+    ],
+    "confidence": 0.7039839625358582
+  },
+  {
+    "filename": "497_obv_Theodosius I.jpg",
+    "bbox": [
+      38.16532897949219,
+      51.38563537597656,
+      261.36602783203125,
+      286.607666015625
+    ],
+    "confidence": 0.5638626217842102
+  },
+  {
+    "filename": "498_obv_Theodosius I.jpg",
+    "bbox": [
+      30.311134338378906,
+      52.4964714050293,
+      265.7196044921875,
+      291.6727294921875
+    ],
+    "confidence": 0.6594393253326416
+  },
+  {
+    "filename": "499_obv_Theodosius I.jpg",
+    "bbox": [
+      66,
+      56,
+      236,
+      257
+    ],
+    "confidence": 0.7211936116218567
+  },
+  {
+    "filename": "500_obv_Theodosius I.jpg",
+    "bbox": [
+      63,
+      41,
+      243,
+      263
+    ],
+    "confidence": 0.33137670159339905
+  },
+  {
+    "filename": "501_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      65,
+      235,
+      270
+    ],
+    "confidence": 0.7362774610519409
+  },
+  {
+    "filename": "502_obv_Theodosius I.jpg",
+    "bbox": [
+      54,
+      41,
+      249,
+      257
+    ],
+    "confidence": 0.3849169611930847
+  },
+  {
+    "filename": "503_obv_Theodosius I.jpg",
+    "bbox": [
+      39.5235710144043,
+      32.2551155090332,
+      258.4313049316406,
+      286.88385009765625
+    ],
+    "confidence": 0.7511642575263977
+  },
+  {
+    "filename": "504_obv_Theodosius I.jpg",
+    "bbox": [
+      71,
+      36,
+      229,
+      271
+    ],
+    "confidence": 0.7093163728713989
+  },
+  {
+    "filename": "505_obv_Theodosius I.jpg",
+    "bbox": [
+      69,
+      53,
+      223,
+      274
+    ],
+    "confidence": 0.7147131562232971
+  },
+  {
+    "filename": "506_obv_Theodosius I.jpg",
+    "bbox": [
+      39.29862976074219,
+      64.50536346435547,
+      270.04058837890625,
+      280.79132080078125
+    ],
+    "confidence": 0.7174393534660339
+  },
+  {
+    "filename": "507_obv_Theodosius I.jpg",
+    "bbox": [
+      66,
+      66,
+      233,
+      275
+    ],
+    "confidence": 0.6187017560005188
+  },
+  {
+    "filename": "508_obv_Theodosius I.jpg",
+    "bbox": [
+      84,
+      79,
+      231,
+      273
+    ],
+    "confidence": 0.5640590190887451
+  },
+  {
+    "filename": "509_obv_Theodosius I.jpg",
+    "bbox": [
+      43.96576690673828,
+      32.555809020996094,
+      264.3962707519531,
+      298.02850341796875
+    ],
+    "confidence": 0.772444486618042
+  },
+  {
+    "filename": "510_obv_Theodosius I.jpg",
+    "bbox": [
+      54,
+      34,
+      234,
+      277
+    ],
+    "confidence": 0.25498026609420776
+  },
+  {
+    "filename": "511_obv_Theodosius I.jpg",
+    "bbox": [
+      49,
+      45,
+      222,
+      270
+    ],
+    "confidence": 0.6095665097236633
+  },
+  {
+    "filename": "512_obv_Theodosius I.jpg",
+    "bbox": [
+      71,
+      54,
+      235,
+      250
+    ],
+    "confidence": 0.7189098596572876
+  },
+  {
+    "filename": "513_obv_Theodosius I.jpg",
+    "bbox": [
+      87,
+      44,
+      231,
+      268
+    ],
+    "confidence": 0.6355881690979004
+  },
+  {
+    "filename": "514_obv_Theodosius I.jpg",
+    "bbox": [
+      70,
+      67,
+      225,
+      264
+    ],
+    "confidence": 0.6799653172492981
+  },
+  {
+    "filename": "515_obv_Theodosius I.jpg",
+    "bbox": [
+      67,
+      44,
+      244,
+      276
+    ],
+    "confidence": 0.7018876671791077
+  },
+  {
+    "filename": "516_obv_Theodosius I.jpg",
+    "bbox": [
+      76,
+      52,
+      248,
+      272
+    ],
+    "confidence": 0.6846544742584229
+  },
+  {
+    "filename": "517_obv_Theodosius I.jpg",
+    "bbox": [
+      76,
+      68,
+      240,
+      261
+    ],
+    "confidence": 0.6961736083030701
+  },
+  {
+    "filename": "518_obv_Theodosius I.jpg",
+    "bbox": [
+      75,
+      62,
+      214,
+      279
+    ],
+    "confidence": 0.7391733527183533
+  },
+  {
+    "filename": "519_obv_Theodosius I.jpg",
+    "bbox": [
+      54,
+      62,
+      221,
+      260
+    ],
+    "confidence": 0.7764069437980652
+  },
+  {
+    "filename": "520_obv_Theodosius I.jpg",
+    "bbox": [
+      72,
+      39,
+      234,
+      248
+    ],
+    "confidence": 0.7381093502044678
+  },
+  {
+    "filename": "521_obv_Theodosius I.jpg",
+    "bbox": [
+      71,
+      37,
+      234,
+      262
+    ],
+    "confidence": 0.703532874584198
+  },
+  {
+    "filename": "522_obv_Theodosius I.jpg",
+    "bbox": [
+      61,
+      49,
+      250,
+      287
+    ],
+    "confidence": 0.5811804533004761
+  },
+  {
+    "filename": "523_obv_Theodosius I.jpg",
+    "bbox": [
+      61,
+      37,
+      245,
+      277
+    ],
+    "confidence": 0.6716899275779724
+  },
+  {
+    "filename": "524_obv_Theodosius I.jpg",
+    "bbox": [
+      57,
+      69,
+      221,
+      285
+    ],
+    "confidence": 0.3797335922718048
+  },
+  {
+    "filename": "525_obv_Theodosius I.jpg",
+    "bbox": [
+      73,
+      63,
+      225,
+      267
+    ],
+    "confidence": 0.5102536082267761
+  },
+  {
+    "filename": "526_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      40,
+      219,
+      275
+    ],
+    "confidence": 0.5335429906845093
+  },
+  {
+    "filename": "527_obv_Theodosius I.jpg",
+    "bbox": [
+      69,
+      53,
+      223,
+      270
+    ],
+    "confidence": 0.44678592681884766
+  },
+  {
+    "filename": "528_obv_Theodosius I.jpg",
+    "bbox": [
+      62,
+      41,
+      224,
+      255
+    ],
+    "confidence": 0.6990224123001099
+  },
+  {
+    "filename": "529_obv_Theodosius I.jpg",
+    "bbox": [
+      81,
+      55,
+      229,
+      266
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "530_obv_Theodosius I.jpg",
+    "bbox": [
+      48,
+      19,
+      209,
+      254
+    ],
+    "confidence": 0.7360514998435974
+  },
+  {
+    "filename": "531_obv_Theodosius I.jpg",
+    "bbox": [
+      69,
+      44,
+      231,
+      253
+    ],
+    "confidence": 0.5930517315864563
+  },
+  {
+    "filename": "532_obv_Theodosius I.jpg",
+    "bbox": [
+      83.31098937988281,
+      40.685516357421875,
+      242.18197631835938,
+      287.8180847167969
+    ],
+    "confidence": 0.6891371011734009
+  },
+  {
+    "filename": "533_obv_Theodosius I.jpg",
+    "bbox": [
+      74,
+      38,
+      221,
+      265
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "534_obv_Theodosius I.jpg",
+    "bbox": [
+      108.34066772460938,
+      54.88039779663086,
+      264.1244201660156,
+      296.409912109375
+    ],
+    "confidence": 0.5078616738319397
+  },
+  {
+    "filename": "535_obv_Theodosius I.jpg",
+    "bbox": [
+      83.90836334228516,
+      22.435253143310547,
+      261.1838073730469,
+      276.3735656738281
+    ],
+    "confidence": 0.434829443693161
+  },
+  {
+    "filename": "536_obv_Theodosius I.jpg",
+    "bbox": [
+      87,
+      53,
+      242,
+      259
+    ],
+    "confidence": 0.7080267071723938
+  },
+  {
+    "filename": "537_obv_Theodosius I.jpg",
+    "bbox": [
+      96,
+      52,
+      248,
+      272
+    ],
+    "confidence": 0.454912930727005
+  },
+  {
+    "filename": "538_obv_Theodosius I.jpg",
+    "bbox": [
+      54,
+      50,
+      221,
+      257
+    ],
+    "confidence": 0.4680488407611847
+  },
+  {
+    "filename": "539_obv_Theodosius I.jpg",
+    "bbox": [
+      50,
+      51,
+      228,
+      271
+    ],
+    "confidence": 0.7543339133262634
+  },
+  {
+    "filename": "540_obv_Theodosius I__Arcadius.jpg",
+    "bbox": [
+      98,
+      88,
+      230,
+      247
+    ],
+    "confidence": 0.7170507907867432
+  },
+  {
+    "filename": "541_obv_Theodosius I.jpg",
+    "bbox": [
+      76,
+      17,
+      217,
+      249
+    ],
+    "confidence": 0.752193033695221
+  },
+  {
+    "filename": "542_obv_Theodosius I.jpg",
+    "bbox": [
+      72,
+      33,
+      239,
+      276
+    ],
+    "confidence": 0.7110634446144104
+  },
+  {
+    "filename": "543_obv_Theodosius I.jpg",
+    "bbox": [
+      30.00148582458496,
+      36.10688018798828,
+      248.7921142578125,
+      300.0
+    ],
+    "confidence": 0.5188230276107788
+  },
+  {
+    "filename": "544_obv_Theodosius I.jpg",
+    "bbox": [
+      59,
+      37,
+      249,
+      275
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "545_obv_Theodosius I.jpg",
+    "bbox": [
+      24.459455490112305,
+      20.98405647277832,
+      249.29840087890625,
+      279.4407958984375
+    ],
+    "confidence": 0.673881471157074
+  },
+  {
+    "filename": "546_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      33,
+      228,
+      274
+    ],
+    "confidence": 0.46444234251976013
+  },
+  {
+    "filename": "547_obv_Theodosius I.jpg",
+    "bbox": [
+      77,
+      31,
+      221,
+      258
+    ],
+    "confidence": 0.5081623792648315
+  },
+  {
+    "filename": "548_obv_Theodosius I.jpg",
+    "bbox": [
+      43.60691452026367,
+      28.278606414794922,
+      255.2744140625,
+      277.8142395019531
+    ],
+    "confidence": 0.34393587708473206
+  },
+  {
+    "filename": "549_obv_Theodosius I.jpg",
+    "bbox": [
+      93.66688537597656,
+      2.59354567527771,
+      264.4779052734375,
+      258.30072021484375
+    ],
+    "confidence": 0.5314909815788269
+  },
+  {
+    "filename": "550_obv_Theodosius I.jpg",
+    "bbox": [
+      42.73812484741211,
+      17.130889892578125,
+      267.9396057128906,
+      296.38812255859375
+    ],
+    "confidence": 0.5566015839576721
+  },
+  {
+    "filename": "551_obv_Theodosius I.jpg",
+    "bbox": [
+      21.411029815673828,
+      34.90467834472656,
+      259.09747314453125,
+      286.61151123046875
+    ],
+    "confidence": 0.6893283724784851
+  },
+  {
+    "filename": "552_obv_Theodosius I.jpg",
+    "bbox": [
+      61.98870086669922,
+      48.05294418334961,
+      283.6359558105469,
+      272.512939453125
+    ],
+    "confidence": 0.6624917984008789
+  },
+  {
+    "filename": "553_obv_Theodosius I.jpg",
+    "bbox": [
+      27.86647605895996,
+      15.259722709655762,
+      266.0491638183594,
+      293.47369384765625
+    ],
+    "confidence": 0.6350818276405334
+  },
+  {
+    "filename": "554_obv_Theodosius I.jpg",
+    "bbox": [
+      30.685956954956055,
+      43.663612365722656,
+      265.58154296875,
+      291.3008728027344
+    ],
+    "confidence": 0.7539740800857544
+  },
+  {
+    "filename": "555_obv_Theodosius I.jpg",
+    "bbox": [
+      17.44182586669922,
+      28.530548095703125,
+      262.5394592285156,
+      283.4999084472656
+    ],
+    "confidence": 0.5503759980201721
+  },
+  {
+    "filename": "556_obv_Theodosius I.jpg",
+    "bbox": [
+      37.96944046020508,
+      49.465396881103516,
+      261.3140869140625,
+      300.0
+    ],
+    "confidence": 0.6570450067520142
+  },
+  {
+    "filename": "557_obv_Theodosius I.jpg",
+    "bbox": [
+      71,
+      21,
+      242,
+      268
+    ],
+    "confidence": 0.5918424725532532
+  },
+  {
+    "filename": "558_obv_Theodosius I.jpg",
+    "bbox": [
+      66,
+      41,
+      233,
+      275
+    ],
+    "confidence": 0.4127405285835266
+  },
+  {
+    "filename": "559_obv_Theodosius I.jpg",
+    "bbox": [
+      61,
+      39,
+      242,
+      265
+    ],
+    "confidence": 0.7363581657409668
+  },
+  {
+    "filename": "560_obv_Theodosius I.jpg",
+    "bbox": [
+      73,
+      51,
+      239,
+      276
+    ],
+    "confidence": 0.717086911201477
+  },
+  {
+    "filename": "561_obv_Theodosius I.jpg",
+    "bbox": [
+      96,
+      74,
+      232,
+      279
+    ],
+    "confidence": 0.6847929358482361
+  },
+  {
+    "filename": "562_obv_Theodosius I.jpg",
+    "bbox": [
+      78,
+      38,
+      247,
+      262
+    ],
+    "confidence": 0.3979376256465912
+  },
+  {
+    "filename": "563_obv_Theodosius I.jpg",
+    "bbox": [
+      70,
+      36,
+      250,
+      287
+    ],
+    "confidence": 0.6558821201324463
+  },
+  {
+    "filename": "564_obv_Theodosius I.jpg",
+    "bbox": [
+      77,
+      45,
+      232,
+      274
+    ],
+    "confidence": 0.7252732515335083
+  },
+  {
+    "filename": "565_obv_Theodosius I.jpg",
+    "bbox": [
+      57,
+      35,
+      224,
+      275
+    ],
+    "confidence": 0.6742011308670044
+  },
+  {
+    "filename": "566_obv_Theodosius I.jpg",
+    "bbox": [
+      61,
+      48,
+      227,
+      257
+    ],
+    "confidence": 0.6124739050865173
+  },
+  {
+    "filename": "567_obv_Theodosius I.jpg",
+    "bbox": [
+      83,
+      31,
+      235,
+      262
+    ],
+    "confidence": 0.37350666522979736
+  },
+  {
+    "filename": "568_obv_Theodosius I.jpg",
+    "bbox": [
+      68,
+      23,
+      235,
+      257
+    ],
+    "confidence": 0.7566471695899963
+  },
+  {
+    "filename": "569_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      18,
+      230,
+      265
+    ],
+    "confidence": 0.559881329536438
+  },
+  {
+    "filename": "570_obv_Theodosius I.jpg",
+    "bbox": [
+      65,
+      21,
+      238,
+      279
+    ],
+    "confidence": 0.5990156531333923
+  },
+  {
+    "filename": "571_obv_Theodosius I.jpg",
+    "bbox": [
+      49,
+      26,
+      219,
+      269
+    ],
+    "confidence": 0.7094495296478271
+  },
+  {
+    "filename": "572_obv_Theodosius I.jpg",
+    "bbox": [
+      69,
+      33,
+      215,
+      240
+    ],
+    "confidence": 0.44563791155815125
+  },
+  {
+    "filename": "573_obv_Theodosius I.jpg",
+    "bbox": [
+      83,
+      30,
+      244,
+      275
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "574_obv_Theodosius I.jpg",
+    "bbox": [
+      61,
+      53,
+      215,
+      267
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "575_obv_Theodosius I.jpg",
+    "bbox": [
+      7.027029514312744,
+      32.55497741699219,
+      231.67434692382812,
+      288.6603698730469
+    ],
+    "confidence": 0.7214515209197998
+  },
+  {
+    "filename": "576_obv_Theodosius I.jpg",
+    "bbox": [
+      72,
+      55,
+      217,
+      280
+    ],
+    "confidence": 0.629962146282196
+  },
+  {
+    "filename": "577_obv_Theodosius I.jpg",
+    "bbox": [
+      92.87000274658203,
+      41.83409881591797,
+      243.00909423828125,
+      272.7301025390625
+    ],
+    "confidence": 0.5711795687675476
+  },
+  {
+    "filename": "578_obv_Theodosius I.jpg",
+    "bbox": [
+      62,
+      50,
+      223,
+      275
+    ],
+    "confidence": 0.732096791267395
+  },
+  {
+    "filename": "579_obv_Theodosius I.jpg",
+    "bbox": [
+      70,
+      25,
+      227,
+      263
+    ],
+    "confidence": 0.49038630723953247
+  },
+  {
+    "filename": "580_obv_Theodosius I.jpg",
+    "bbox": [
+      44,
+      40,
+      219,
+      275
+    ],
+    "confidence": 0.7584402561187744
+  },
+  {
+    "filename": "581_obv_Theodosius I.jpg",
+    "bbox": [
+      55,
+      63,
+      213,
+      284
+    ],
+    "confidence": 0.6397173404693604
+  },
+  {
+    "filename": "582_obv_Theodosius I.jpg",
+    "bbox": [
+      70,
+      42,
+      239,
+      274
+    ],
+    "confidence": 0.529849648475647
+  },
+  {
+    "filename": "583_obv_Theodosius I.jpg",
+    "bbox": [
+      61,
+      53,
+      237,
+      280
+    ],
+    "confidence": 0.553225576877594
+  },
+  {
+    "filename": "584_obv_Theodosius I.jpg",
+    "bbox": [
+      57,
+      34,
+      228,
+      265
+    ],
+    "confidence": 0.6857998371124268
+  },
+  {
+    "filename": "585_obv_Theodosius I.jpg",
+    "bbox": [
+      60,
+      36,
+      241,
+      280
+    ],
+    "confidence": 0.6943660974502563
+  },
+  {
+    "filename": "586_obv_Theodosius I.jpg",
+    "bbox": [
+      53,
+      29,
+      232,
+      273
+    ],
+    "confidence": 0.6092804670333862
+  },
+  {
+    "filename": "587_obv_Theodosius I.jpg",
+    "bbox": [
+      74,
+      46,
+      242,
+      278
+    ],
+    "confidence": 0.7368558049201965
+  },
+  {
+    "filename": "588_obv_Theodosius I.jpg",
+    "bbox": [
+      57,
+      45,
+      238,
+      261
+    ],
+    "confidence": 0.5177856683731079
+  },
+  {
+    "filename": "589_obv_Theodosius I.jpg",
+    "bbox": [
+      65,
+      65,
+      216,
+      284
+    ],
+    "confidence": 0.5851081013679504
+  },
+  {
+    "filename": "590_obv_Theodosius I.jpg",
+    "bbox": [
+      67,
+      50,
+      253,
+      265
+    ],
+    "confidence": 0.6501010656356812
+  },
+  {
+    "filename": "591_obv_Theodosius I.jpg",
+    "bbox": [
+      48,
+      26,
+      251,
+      277
+    ],
+    "confidence": 0.4984774589538574
+  },
+  {
+    "filename": "592_obv_Theodosius I.jpg",
+    "bbox": [
+      80,
+      49,
+      239,
+      279
+    ],
+    "confidence": 0.7280250191688538
+  },
+  {
+    "filename": "593_obv_Theodosius I.jpg",
+    "bbox": [
+      66,
+      49,
+      234,
+      248
+    ],
+    "confidence": 0.7501299381256104
+  },
+  {
+    "filename": "594_obv_Theodosius I.jpg",
+    "bbox": [
+      73,
+      36,
+      234,
+      263
+    ],
+    "confidence": 0.7137404680252075
+  },
+  {
+    "filename": "595_obv_Theodosius I.jpg",
+    "bbox": [
+      90,
+      47,
+      230,
+      254
+    ],
+    "confidence": 0.663605272769928
+  },
+  {
+    "filename": "596_obv_Theodosius I.jpg",
+    "bbox": [
+      66,
+      38,
+      224,
+      283
+    ],
+    "confidence": 0.7619491219520569
+  },
+  {
+    "filename": "597_obv_Theodosius I.jpg",
+    "bbox": [
+      85,
+      39,
+      238,
+      246
+    ],
+    "confidence": 0.7719644904136658
+  },
+  {
+    "filename": "598_obv_Theodosius I.jpg",
+    "bbox": [
+      73,
+      35,
+      215,
+      273
+    ],
+    "confidence": 0.7050806879997253
+  },
+  {
+    "filename": "599_obv_Theodosius I.jpg",
+    "bbox": [
+      71,
+      21,
+      228,
+      281
+    ],
+    "confidence": 0.7410355806350708
+  },
+  {
+    "filename": "600_obv_Theodosius I.jpg",
+    "bbox": [
+      72,
+      50,
+      214,
+      298
+    ],
+    "confidence": 0.7464303374290466
+  },
+  {
+    "filename": "601_obv_Theodosius I.jpg",
+    "bbox": [
+      97,
+      48,
+      242,
+      284
+    ],
+    "confidence": 0.7507374286651611
+  },
+  {
+    "filename": "602_obv_Theodosius I.jpg",
+    "bbox": [
+      76,
+      45,
+      220,
+      275
+    ],
+    "confidence": 0.5660118460655212
+  },
+  {
+    "filename": "603_obv_Theodosius I.jpg",
+    "bbox": [
+      71,
+      42,
+      208,
+      272
+    ],
+    "confidence": 0.6840468049049377
+  },
+  {
+    "filename": "604_obv_Theodosius I.jpg",
+    "bbox": [
+      75,
+      45,
+      219,
+      287
+    ],
+    "confidence": 0.6516170501708984
+  },
+  {
+    "filename": "605_obv_Theodosius I.jpg",
+    "bbox": [
+      69,
+      34,
+      230,
+      281
+    ],
+    "confidence": 0.7500739693641663
+  },
+  {
+    "filename": "606_obv_Theodosius I.jpg",
+    "bbox": [
+      70,
+      55,
+      211,
+      255
+    ],
+    "confidence": 0.4654786288738251
+  },
+  {
+    "filename": "607_obv_Theodosius I.jpg",
+    "bbox": [
+      80,
+      50,
+      211,
+      266
+    ],
+    "confidence": 0.7789525985717773
+  },
+  {
+    "filename": "608_obv_Theodosius I.jpg",
+    "bbox": [
+      27.85405921936035,
+      57.30765914916992,
+      249.0045928955078,
+      283.1446838378906
+    ],
+    "confidence": 0.6872186064720154
+  },
+  {
+    "filename": "609_obv_Theodosius I.jpg",
+    "bbox": [
+      35.739524841308594,
+      30.464141845703125,
+      263.6408386230469,
+      291.0779724121094
+    ],
+    "confidence": 0.7487857937812805
+  },
+  {
+    "filename": "610_obv_Theodosius I.jpg",
+    "bbox": [
+      28.925025939941406,
+      26.940277099609375,
+      270.457275390625,
+      287.5144348144531
+    ],
+    "confidence": 0.6879905462265015
+  },
+  {
+    "filename": "611_obv_Theodosius I.jpg",
+    "bbox": [
+      38.485904693603516,
+      37.47530746459961,
+      251.9447021484375,
+      292.681640625
+    ],
+    "confidence": 0.5073186755180359
+  },
+  {
+    "filename": "612_obv_Theodosius I.jpg",
+    "bbox": [
+      47.331607818603516,
+      15.005721092224121,
+      279.1279602050781,
+      282.9705505371094
+    ],
+    "confidence": 0.767558753490448
+  },
+  {
+    "filename": "613_obv_Theodosius I.jpg",
+    "bbox": [
+      41.472354888916016,
+      34.45692825317383,
+      243.7106170654297,
+      289.41107177734375
+    ],
+    "confidence": 0.7385589480400085
+  },
+  {
+    "filename": "614_obv_Theodosius I.jpg",
+    "bbox": [
+      33.46590042114258,
+      28.69268226623535,
+      277.54449462890625,
+      296.6505126953125
+    ],
+    "confidence": 0.6968395113945007
+  },
+  {
+    "filename": "615_obv_Theodosius I.jpg",
+    "bbox": [
+      15.376309394836426,
+      29.1850643157959,
+      264.2244567871094,
+      287.5347900390625
+    ],
+    "confidence": 0.6625922918319702
+  },
+  {
+    "filename": "616_obv_Theodosius I.jpg",
+    "bbox": [
+      59,
+      23,
+      226,
+      278
+    ],
+    "confidence": 0.5538250803947449
+  },
+  {
+    "filename": "617_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      41,
+      215,
+      258
+    ],
+    "confidence": 0.3006511330604553
+  },
+  {
+    "filename": "618_obv_Theodosius I.jpg",
+    "bbox": [
+      58,
+      35,
+      221,
+      278
+    ],
+    "confidence": 0.5249621868133545
+  },
+  {
+    "filename": "619_obv_Theodosius I.jpg",
+    "bbox": [
+      70,
+      53,
+      236,
+      274
+    ],
+    "confidence": 0.7377916574478149
+  },
+  {
+    "filename": "620_obv_Theodosius I.jpg",
+    "bbox": [
+      78,
+      37,
+      223,
+      281
+    ],
+    "confidence": 0.7138158082962036
+  },
+  {
+    "filename": "621_obv_Theodosius I.jpg",
+    "bbox": [
+      69,
+      45,
+      232,
+      258
+    ],
+    "confidence": 0.7164976596832275
+  },
+  {
+    "filename": "622_obv_Theodosius I.jpg",
+    "bbox": [
+      31.602256774902344,
+      12.734383583068848,
+      272.5970153808594,
+      279.44464111328125
+    ],
+    "confidence": 0.6978327035903931
+  },
+  {
+    "filename": "623_obv_Theodosius I.jpg",
+    "bbox": [
+      50,
+      33,
+      228,
+      285
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "624_obv_Theodosius I.jpg",
+    "bbox": [
+      70.32440185546875,
+      44.73249053955078,
+      252.82302856445312,
+      287.87188720703125
+    ],
+    "confidence": 0.45335328578948975
+  },
+  {
+    "filename": "625_obv_Theodosius I.jpg",
+    "bbox": [
+      59,
+      40,
+      226,
+      271
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "626_obv_Theodosius I.jpg",
+    "bbox": [
+      75,
+      42,
+      227,
+      254
+    ],
+    "confidence": 0.6894699931144714
+  },
+  {
+    "filename": "627_obv_Theodosius I.jpg",
+    "bbox": [
+      72,
+      51,
+      204,
+      264
+    ],
+    "confidence": 0.5845678448677063
+  },
+  {
+    "filename": "628_obv_Theodosius I.jpg",
+    "bbox": [
+      66,
+      34,
+      218,
+      268
+    ],
+    "confidence": 0.6653149724006653
+  },
+  {
+    "filename": "629_obv_Theodosius I.jpg",
+    "bbox": [
+      66,
+      54,
+      223,
+      275
+    ],
+    "confidence": 0.5009737610816956
+  },
+  {
+    "filename": "630_obv_Theodosius I.jpg",
+    "bbox": [
+      65,
+      51,
+      226,
+      270
+    ],
+    "confidence": 0.6557929515838623
+  },
+  {
+    "filename": "631_obv_Theodosius I.jpg",
+    "bbox": [
+      67,
+      47,
+      216,
+      266
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "632_obv_Theodosius I.jpg",
+    "bbox": [
+      77,
+      33,
+      240,
+      285
+    ],
+    "confidence": 0.5645191073417664
+  },
+  {
+    "filename": "633_obv_Theodosius I.jpg",
+    "bbox": [
+      64,
+      32,
+      244,
+      265
+    ],
+    "confidence": 0.6101289987564087
+  },
+  {
+    "filename": "634_obv_Theodosius I.jpg",
+    "bbox": [
+      73,
+      31,
+      233,
+      251
+    ],
+    "confidence": 0.5998010039329529
+  },
+  {
+    "filename": "666_obv_Valentinian III__Theodosius II.jpg",
+    "bbox": [
+      69,
+      60,
+      220,
+      258
+    ],
+    "confidence": 0.3100903630256653
+  },
+  {
+    "filename": "639_obv_Theodosius II.jpg",
+    "bbox": [
+      88,
+      49,
+      226,
+      265
+    ],
+    "confidence": 0.2930179834365845
+  },
+  {
+    "filename": "640_obv_Theodosius II.jpg",
+    "bbox": [
+      63,
+      46,
+      228,
+      269
+    ],
+    "confidence": 0.2873418629169464
+  },
+  {
+    "filename": "641_obv_Theodosius II.jpg",
+    "bbox": [
+      67,
+      43,
+      234,
+      261
+    ],
+    "confidence": 0.35677388310432434
+  },
+  {
+    "filename": "642_obv_Theodosius II.jpg",
+    "bbox": [
+      68,
+      52,
+      233,
+      248
+    ],
+    "confidence": 0.260738730430603
+  },
+  {
+    "filename": "643_obv_Theodosius II.jpg",
+    "bbox": [
+      72,
+      42,
+      255,
+      280
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "644_obv_Theodosius II.jpg",
+    "bbox": [
+      54,
+      39,
+      259,
+      270
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "645_obv_Theodosius II.jpg",
+    "bbox": [
+      71,
+      30,
+      242,
+      258
+    ],
+    "confidence": 0.8193652629852295
+  },
+  {
+    "filename": "646_obv_Theodosius II.jpg",
+    "bbox": [
+      12.082542419433594,
+      59.81480407714844,
+      147.27911376953125,
+      284.7207946777344
+    ],
+    "confidence": 0.4381762742996216
+  },
+  {
+    "filename": "647_obv_Theodosius II__Valentinian III.jpg",
+    "bbox": [
+      55,
+      48,
+      235,
+      267
+    ],
+    "confidence": 0.39637815952301025
+  },
+  {
+    "filename": "648_obv_Theodosius II__Honorius.jpg",
+    "bbox": [
+      68,
+      43,
+      258,
+      271
+    ],
+    "confidence": 0.6930596232414246
+  },
+  {
+    "filename": "649_obv_Theodosius II__Honorius.jpg",
+    "bbox": [
+      113.40242004394531,
+      22.086694717407227,
+      290.03509521484375,
+      288.46405029296875
+    ],
+    "confidence": 0.28270551562309265
+  },
+  {
+    "filename": "650_obv_Theodosius II.jpg",
+    "bbox": [
+      63,
+      36,
+      230,
+      265
+    ],
+    "confidence": 0.5362382531166077
+  },
+  {
+    "filename": "651_obv_Theodosius II__Honorius.jpg",
+    "bbox": [
+      67,
+      31,
+      253,
+      270
+    ],
+    "confidence": 0.3336458206176758
+  },
+  {
+    "filename": "652_obv_Theodosius II__Honorius.jpg",
+    "bbox": [
+      63,
+      35,
+      240,
+      284
+    ],
+    "confidence": 0.6880736351013184
+  },
+  {
+    "filename": "653_obv_Theodosius II__Honorius.jpg",
+    "bbox": [
+      75,
+      92,
+      228,
+      281
+    ],
+    "confidence": 0.6792442798614502
+  },
+  {
+    "filename": "654_obv_Theodosius II.jpg",
+    "bbox": [
+      49,
+      32,
+      237,
+      275
+    ],
+    "confidence": 0.6308726072311401
+  },
+  {
+    "filename": "655_obv_Theodosius II.jpg",
+    "bbox": [
+      70,
+      37,
+      230,
+      281
+    ],
+    "confidence": 0.5266053080558777
+  },
+  {
+    "filename": "656_obv_Theodosius II.jpg",
+    "bbox": [
+      86,
+      37,
+      229,
+      251
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "657_obv_Theodosius II.jpg",
+    "bbox": [
+      77,
+      40,
+      215,
+      278
+    ],
+    "confidence": 0.770117998123169
+  },
+  {
+    "filename": "658_obv_Theodosius II.jpg",
+    "bbox": [
+      74,
+      45,
+      217,
+      266
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "659_obv_Theodosius II.jpg",
+    "bbox": [
+      53,
+      22,
+      217,
+      292
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "660_obv_Theodosius II.jpg",
+    "bbox": [
+      31.610811233520508,
+      61.82630157470703,
+      276.0042419433594,
+      299.7645263671875
+    ],
+    "confidence": 0.5619948506355286
+  },
+  {
+    "filename": "661_obv_Theodosius II__Arcadius__Honorius.jpg",
+    "bbox": [
+      75,
+      36,
+      220,
+      267
+    ],
+    "confidence": 0.6761208176612854
+  },
+  {
+    "filename": "662_obv_Theodosius II.jpg",
+    "bbox": [
+      62,
+      40,
+      233,
+      284
+    ],
+    "confidence": 0.6648004055023193
+  },
+  {
+    "filename": "663_obv_Theodosius II.jpg",
+    "bbox": [
+      54,
+      54,
+      192,
+      259
+    ],
+    "confidence": 0.6508469581604004
+  },
+  {
+    "filename": "664_obv_Theodosius II.jpg",
+    "bbox": [
+      41,
+      47,
+      211,
+      285
+    ],
+    "confidence": 0.636527955532074
+  },
+  {
+    "filename": "665_obv_Theodosius II.jpg",
+    "bbox": [
+      64,
+      42,
+      252,
+      260
+    ],
+    "confidence": 0.6691296696662903
+  },
+  {
+    "filename": "677_obv_Theodosius II__Valentinian III.jpg",
+    "bbox": [
+      65,
+      37,
+      248,
+      271
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "678_obv_Theodosius II.jpg",
+    "bbox": [
+      70,
+      45,
+      236,
+      272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "679_obv_Theodosius II.jpg",
+    "bbox": [
+      86,
+      75,
+      221,
+      280
+    ],
+    "confidence": 0.3247678577899933
+  },
+  {
+    "filename": "680_obv_Theodosius II.jpg",
+    "bbox": [
+      98,
+      74,
+      255,
+      266
+    ],
+    "confidence": 0.6845725178718567
+  },
+  {
+    "filename": "681_obv_Theodosius II.jpg",
+    "bbox": [
+      65,
+      54,
+      235,
+      277
+    ],
+    "confidence": 0.7570921182632446
+  },
+  {
+    "filename": "682_obv_Theodosius II.jpg",
+    "bbox": [
+      79,
+      29,
+      264,
+      259
+    ],
+    "confidence": 0.6784369945526123
+  },
+  {
+    "filename": "683_obv_Theodosius II.jpg",
+    "bbox": [
+      107,
+      61,
+      253,
+      267
+    ],
+    "confidence": 0.7544846534729004
+  },
+  {
+    "filename": "684_obv_Theodosius II.jpg",
+    "bbox": [
+      63,
+      50,
+      240,
+      268
+    ],
+    "confidence": 0.2701054811477661
+  },
+  {
+    "filename": "685_obv_Theodosius II.jpg",
+    "bbox": [
+      60,
+      27,
+      232,
+      261
+    ],
+    "confidence": 0.31192904710769653
+  },
+  {
+    "filename": "686_obv_Theodosius II.jpg",
+    "bbox": [
+      57,
+      42,
+      199,
+      250
+    ],
+    "confidence": 0.7013777494430542
+  },
+  {
+    "filename": "687_obv_Theodosius II.jpg",
+    "bbox": [
+      70,
+      49,
+      238,
+      260
+    ],
+    "confidence": 0.7292407751083374
+  },
+  {
+    "filename": "688_obv_Theodosius II.jpg",
+    "bbox": [
+      73,
+      28,
+      243,
+      263
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "689_obv_Theodosius II__Valentinian III.jpg",
+    "bbox": [
+      95.6511459350586,
+      44.89848709106445,
+      241.5057373046875,
+      287.3272705078125
+    ],
+    "confidence": 0.5535140037536621
+  },
+  {
+    "filename": "690_obv_Theodosius II.jpg",
+    "bbox": [
+      58.085113525390625,
+      36.79784393310547,
+      247.02774047851562,
+      280.6196594238281
+    ],
+    "confidence": 0.6009628772735596
+  },
+  {
+    "filename": "691_obv_Theodosius II.jpg",
+    "bbox": [
+      6.857585430145264,
+      31.242311477661133,
+      154.83737182617188,
+      273.5989074707031
+    ],
+    "confidence": 0.6026250720024109
+  },
+  {
+    "filename": "692_obv_Theodosius II.jpg",
+    "bbox": [
+      74,
+      53,
+      230,
+      289
+    ],
+    "confidence": 0.32329875230789185
+  },
+  {
+    "filename": "693_obv_Theodosius II.jpg",
+    "bbox": [
+      71,
+      19,
+      237,
+      250
+    ],
+    "confidence": 0.5192564725875854
+  },
+  {
+    "filename": "694_obv_Theodosius II.jpg",
+    "bbox": [
+      56.4899787902832,
+      48.65472412109375,
+      234.09632873535156,
+      295.0024108886719
+    ],
+    "confidence": 0.4451313018798828
+  },
+  {
+    "filename": "695_obv_Theodosius II.jpg",
+    "bbox": [
+      50.42046356201172,
+      41.43610763549805,
+      237.54977416992188,
+      280.8976745605469
+    ],
+    "confidence": 0.7008958458900452
+  },
+  {
+    "filename": "696_obv_Theodosius II.jpg",
+    "bbox": [
+      67,
+      22,
+      235,
+      241
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "697_obv_Theodosius II.jpg",
+    "bbox": [
+      64,
+      47,
+      223,
+      267
+    ],
+    "confidence": 0.25118890404701233
+  },
+  {
+    "filename": "698_obv_Theodosius II.jpg",
+    "bbox": [
+      61,
+      35,
+      235,
+      242
+    ],
+    "confidence": 0.5050725936889648
+  },
+  {
+    "filename": "699_obv_Theodosius II.jpg",
+    "bbox": [
+      68,
+      52,
+      234,
+      261
+    ],
+    "confidence": 0.46018069982528687
+  },
+  {
+    "filename": "700_obv_Theodosius II.jpg",
+    "bbox": [
+      61,
+      48,
+      245,
+      246
+    ],
+    "confidence": 0.8137035369873047
+  },
+  {
+    "filename": "701_obv_Theodosius II__Valentinian III.jpg",
+    "bbox": [
+      61,
+      51,
+      257,
+      263
+    ],
+    "confidence": 0.5837768912315369
+  },
+  {
+    "filename": "702_obv_Theodosius II.jpg",
+    "bbox": [
+      83,
+      60,
+      219,
+      265
+    ],
+    "confidence": 0.5922242403030396
+  },
+  {
+    "filename": "703_obv_Theodosius II.jpg",
+    "bbox": [
+      76,
+      38,
+      217,
+      253
+    ],
+    "confidence": 0.29594460129737854
+  },
+  {
+    "filename": "704_obv_Theodosius II.jpg",
+    "bbox": [
+      76,
+      42,
+      218,
+      272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "705_obv_Theodosius II.jpg",
+    "bbox": [
+      42.29312515258789,
+      36.620033264160156,
+      250.3104248046875,
+      293.26495361328125
+    ],
+    "confidence": 0.41599732637405396
+  },
+  {
+    "filename": "706_obv_Theodosius II.jpg",
+    "bbox": [
+      77,
+      58,
+      214,
+      292
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "707_obv_Theodosius II.jpg",
+    "bbox": [
+      78,
+      44,
+      239,
+      264
+    ],
+    "confidence": 0.4245985150337219
+  },
+  {
+    "filename": "708_obv_Theodosius II.jpg",
+    "bbox": [
+      69,
+      47,
+      240,
+      277
+    ],
+    "confidence": 0.5159550309181213
+  },
+  {
+    "filename": "709_obv_Theodosius II.jpg",
+    "bbox": [
+      67,
+      40,
+      232,
+      261
+    ],
+    "confidence": 0.6298641562461853
+  },
+  {
+    "filename": "710_obv_Theodosius II.jpg",
+    "bbox": [
+      69,
+      67,
+      236,
+      276
+    ],
+    "confidence": 0.44827452301979065
+  },
+  {
+    "filename": "711_obv_Theodosius II.jpg",
+    "bbox": [
+      20.01059341430664,
+      65.73463439941406,
+      235.83956909179688,
+      298.96343994140625
+    ],
+    "confidence": 0.41046902537345886
+  },
+  {
+    "filename": "712_obv_Theodosius II.jpg",
+    "bbox": [
+      73,
+      44,
+      225,
+      261
+    ],
+    "confidence": 0.6300510168075562
+  },
+  {
+    "filename": "715_obv_Theodosius II.jpg",
+    "bbox": [
+      74,
+      64,
+      231,
+      262
+    ],
+    "confidence": 0.32055971026420593
+  },
+  {
+    "filename": "716_obv_Theodosius II.jpg",
+    "bbox": [
+      57.10664367675781,
+      39.98725509643555,
+      267.27020263671875,
+      287.8182067871094
+    ],
+    "confidence": 0.610824465751648
+  },
+  {
+    "filename": "717_obv_Theodosius II.jpg",
+    "bbox": [
+      76,
+      40,
+      242,
+      255
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "718_obv_Theodosius II__Valentinian III.jpg",
+    "bbox": [
+      58,
+      60,
+      248,
+      262
+    ],
+    "confidence": 0.6037457585334778
+  },
+  {
+    "filename": "719_obv_Theodosius II.jpg",
+    "bbox": [
+      79,
+      55,
+      247,
+      253
+    ],
+    "confidence": 0.28396108746528625
+  },
+  {
+    "filename": "720_obv_Theodosius II.jpg",
+    "bbox": [
+      90,
+      59,
+      215,
+      283
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "721_obv_Theodosius II.jpg",
+    "bbox": [
+      67,
+      61,
+      217,
+      266
+    ],
+    "confidence": 0.38405460119247437
+  },
+  {
+    "filename": "722_obv_Theodosius II.jpg",
+    "bbox": [
+      37,
+      65,
+      253,
+      277
+    ],
+    "confidence": 0.48514610528945923
+  },
+  {
+    "filename": "723_obv_Theodosius II.jpg",
+    "bbox": [
+      39.5920295715332,
+      50.818660736083984,
+      239.30801391601562,
+      282.7092590332031
+    ],
+    "confidence": 0.7201588153839111
+  },
+  {
+    "filename": "724_obv_Theodosius II__Valentinian III.jpg",
+    "bbox": [
+      75,
+      56,
+      243,
+      257
+    ],
+    "confidence": 0.4161221385002136
+  },
+  {
+    "filename": "725_obv_Theodosius II__Valentinian III.jpg",
+    "bbox": [
+      88.1489486694336,
+      44.647403717041016,
+      253.8348388671875,
+      287.9243469238281
+    ],
+    "confidence": 0.5457273125648499
+  },
+  {
+    "filename": "726_obv_Theodosius II.jpg",
+    "bbox": [
+      56,
+      43,
+      250,
+      258
+    ],
+    "confidence": 0.47171321511268616
+  },
+  {
+    "filename": "727_obv_Theodosius II.jpg",
+    "bbox": [
+      63,
+      59,
+      239,
+      256
+    ],
+    "confidence": 0.3375791609287262
+  },
+  {
+    "filename": "728_obv_Theodosius II.jpg",
+    "bbox": [
+      54,
+      34,
+      205,
+      266
+    ],
+    "confidence": 0.31079408526420593
+  },
+  {
+    "filename": "729_obv_Theodosius II.jpg",
+    "bbox": [
+      82,
+      65,
+      226,
+      270
+    ],
+    "confidence": 0.49500614404678345
+  },
+  {
+    "filename": "730_obv_Theodosius II.jpg",
+    "bbox": [
+      56,
+      42,
+      234,
+      264
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "731_obv_Theodosius II.jpg",
+    "bbox": [
+      69,
+      47,
+      208,
+      257
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "737_obv_Theodosius II.jpg",
+    "bbox": [
+      72,
+      34,
+      250,
+      261
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "738_obv_Theodosius II.jpg",
+    "bbox": [
+      19.237258911132812,
+      22.193668365478516,
+      261.94610595703125,
+      270.2020263671875
+    ],
+    "confidence": 0.6711922883987427
+  },
+  {
+    "filename": "739_obv_Theodosius II.jpg",
+    "bbox": [
+      31.04163932800293,
+      31.20474624633789,
+      271.5316162109375,
+      289.3945007324219
+    ],
+    "confidence": 0.6552205085754395
+  },
+  {
+    "filename": "740_obv_Theodosius II__Honorius.jpg",
+    "bbox": [
+      62,
+      63,
+      250,
+      268
+    ],
+    "confidence": 0.681510865688324
+  },
+  {
+    "filename": "741_obv_Theodosius II.jpg",
+    "bbox": [
+      51,
+      75,
+      213,
+      288
+    ],
+    "confidence": 0.6634653806686401
+  },
+  {
+    "filename": "742_obv_Theodosius II.jpg",
+    "bbox": [
+      37.14505386352539,
+      31.8232421875,
+      259.38592529296875,
+      289.2958679199219
+    ],
+    "confidence": 0.7544124126434326
+  },
+  {
+    "filename": "743_obv_Theodosius II.jpg",
+    "bbox": [
+      63,
+      73,
+      216,
+      282
+    ],
+    "confidence": 0.705737829208374
+  },
+  {
+    "filename": "744_obv_Theodosius II.jpg",
+    "bbox": [
+      63,
+      85,
+      236,
+      278
+    ],
+    "confidence": 0.7322065234184265
+  },
+  {
+    "filename": "745_obv_Theodosius II.jpg",
+    "bbox": [
+      65,
+      61,
+      209,
+      282
+    ],
+    "confidence": 0.7949928641319275
+  },
+  {
+    "filename": "747_obv_Theodosius II.jpg",
+    "bbox": [
+      46.486106872558594,
+      46.539398193359375,
+      280.0715026855469,
+      294.81671142578125
+    ],
+    "confidence": 0.7010033130645752
+  },
+  {
+    "filename": "748_obv_Theodosius II.jpg",
+    "bbox": [
+      48,
+      65,
+      205,
+      279
+    ],
+    "confidence": 0.665964663028717
+  },
+  {
+    "filename": "749_obv_Theodosius II.jpg",
+    "bbox": [
+      62,
+      65,
+      220,
+      280
+    ],
+    "confidence": 0.5826078653335571
+  },
+  {
+    "filename": "750_obv_Theodosius II.jpg",
+    "bbox": [
+      62,
+      93,
+      215,
+      272
+    ],
+    "confidence": 0.7829424142837524
+  },
+  {
+    "filename": "751_obv_Theodosius II.jpg",
+    "bbox": [
+      63,
+      42,
+      252,
+      258
+    ],
+    "confidence": 0.4898388683795929
+  },
+  {
+    "filename": "752_obv_Theodosius II.jpg",
+    "bbox": [
+      97,
+      65,
+      260,
+      270
+    ],
+    "confidence": 0.7217846512794495
+  },
+  {
+    "filename": "753_obv_Theodosius II.jpg",
+    "bbox": [
+      72.30611419677734,
+      32.818763732910156,
+      257.5048828125,
+      289.60430908203125
+    ],
+    "confidence": 0.3954785466194153
+  },
+  {
+    "filename": "754_obv_Theodosius II.jpg",
+    "bbox": [
+      43,
+      35,
+      206,
+      263
+    ],
+    "confidence": 0.5151371955871582
+  },
+  {
+    "filename": "755_obv_Theodosius II.jpg",
+    "bbox": [
+      74,
+      62,
+      249,
+      270
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "756_obv_Theodosius II.jpg",
+    "bbox": [
+      66,
+      44,
+      252,
+      266
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "757_obv_Theodosius II.jpg",
+    "bbox": [
+      76,
+      42,
+      255,
+      266
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "758_obv_Theodosius II.jpg",
+    "bbox": [
+      66,
+      46,
+      255,
+      247
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "759_obv_Theodosius II.jpg",
+    "bbox": [
+      59,
+      45,
+      238,
+      264
+    ],
+    "confidence": 0.5292424559593201
+  },
+  {
+    "filename": "760_obv_Theodosius II.jpg",
+    "bbox": [
+      56,
+      57,
+      225,
+      266
+    ],
+    "confidence": 0.6265517473220825
+  },
+  {
+    "filename": "761_obv_Theodosius II__Honorius.jpg",
+    "bbox": [
+      44,
+      78,
+      233,
+      280
+    ],
+    "confidence": 0.3598576784133911
+  },
+  {
+    "filename": "762_obv_Theodosius II__Arcadius__Honorius.jpg",
+    "bbox": [
+      44,
+      78,
+      228,
+      270
+    ],
+    "confidence": 0.4597361087799072
+  },
+  {
+    "filename": "763_obv_Theodosius II__Arcadius__Honorius.jpg",
+    "bbox": [
+      48,
+      50,
+      241,
+      273
+    ],
+    "confidence": 0.739873468875885
+  },
+  {
+    "filename": "766_obv_Theodosius II.jpg",
+    "bbox": [
+      81,
+      52,
+      229,
+      257
+    ],
+    "confidence": 0.7639344930648804
+  },
+  {
+    "filename": "767_obv_Theodosius II.jpg",
+    "bbox": [
+      77,
+      69,
+      227,
+      295
+    ],
+    "confidence": 0.6775860786437988
+  },
+  {
+    "filename": "768_obv_Theodosius II.jpg",
+    "bbox": [
+      71,
+      31,
+      228,
+      275
+    ],
+    "confidence": 0.6643170118331909
+  },
+  {
+    "filename": "770_obv_Theodosius II.jpg",
+    "bbox": [
+      78,
+      34,
+      241,
+      266
+    ],
+    "confidence": 0.49705958366394043
+  },
+  {
+    "filename": "771_obv_Theodosius II.jpg",
+    "bbox": [
+      48,
+      43,
+      245,
+      260
+    ],
+    "confidence": 0.291596382856369
+  },
+  {
+    "filename": "772_obv_Theodosius II.jpg",
+    "bbox": [
+      57,
+      45,
+      237,
+      255
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "773_obv_Theodosius II__Valentinian III.jpg",
+    "bbox": [
+      70,
+      51,
+      252,
+      276
+    ],
+    "confidence": 0.5638667941093445
+  },
+  {
+    "filename": "774_obv_Theodosius II__Valentinian III.jpg",
+    "bbox": [
+      66,
+      43,
+      237,
+      257
+    ],
+    "confidence": 0.7284497022628784
+  },
+  {
+    "filename": "775_obv_Theodosius II__Valentinian III.jpg",
+    "bbox": [
+      59,
+      42,
+      249,
+      257
+    ],
+    "confidence": 0.34265953302383423
+  },
+  {
+    "filename": "776_obv_Theodosius II.jpg",
+    "bbox": [
+      72,
+      32,
+      209,
+      253
+    ],
+    "confidence": 0.6436923742294312
+  },
+  {
+    "filename": "777_obv_Theodosius II.jpg",
+    "bbox": [
+      49,
+      42,
+      234,
+      274
+    ],
+    "confidence": 0.7105841040611267
+  },
+  {
+    "filename": "778_obv_Theodosius II__Valentinian III.jpg",
+    "bbox": [
+      88,
+      45,
+      228,
+      236
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "0_obv_Constantine I.jpg",
+    "bbox": [
+      26.547531127929688,
+      33.39085388183594,
+      237.18109130859375,
+      293.1051330566406
+    ],
+    "confidence": 0.73378586769104
+  },
+  {
+    "filename": "100_obv_Constantine I.jpg",
+    "bbox": [
+      44,
+      71,
+      228,
+      291
+    ],
+    "confidence": 0.6383655667304993
+  },
+  {
+    "filename": "101_obv_Constantine I.jpg",
+    "bbox": [
+      50,
+      59,
+      222,
+      285
+    ],
+    "confidence": 0.7002731561660767
+  },
+  {
+    "filename": "102_obv_Constantine I.jpg",
+    "bbox": [
+      54,
+      66,
+      237,
+      273
+    ],
+    "confidence": 0.46417954564094543
+  },
+  {
+    "filename": "103_obv_Constantine I.jpg",
+    "bbox": [
+      42,
+      43,
+      220,
+      280
+    ],
+    "confidence": 0.7285805344581604
+  },
+  {
+    "filename": "104_obv_Constantine I.jpg",
+    "bbox": [
+      60,
+      66,
+      227,
+      279
+    ],
+    "confidence": 0.2804547846317291
+  },
+  {
+    "filename": "105_obv_Constantine I.jpg",
+    "bbox": [
+      59,
+      76,
+      251,
+      283
+    ],
+    "confidence": 0.3681354522705078
+  },
+  {
+    "filename": "106_obv_Constantine I.jpg",
+    "bbox": [
+      35,
+      44,
+      227,
+      288
+    ],
+    "confidence": 0.6791018843650818
+  },
+  {
+    "filename": "107_obv_Constantine I.jpg",
+    "bbox": [
+      60,
+      55,
+      246,
+      275
+    ],
+    "confidence": 0.6518926620483398
+  },
+  {
+    "filename": "108_obv_Constantine I.jpg",
+    "bbox": [
+      53,
+      47,
+      245,
+      266
+    ],
+    "confidence": 0.5378144979476929
+  },
+  {
+    "filename": "109_obv_Constantine I.jpg",
+    "bbox": [
+      47,
+      59,
+      234,
+      279
+    ],
+    "confidence": 0.7669104337692261
+  },
+  {
+    "filename": "10_obv_Constantine I.jpg",
+    "bbox": [
+      62,
+      46,
+      204,
+      268
+    ],
+    "confidence": 0.6214681267738342
+  },
+  {
+    "filename": "110_obv_Constantine I.jpg",
+    "bbox": [
+      41,
+      59,
+      222,
+      275
+    ],
+    "confidence": 0.39004677534103394
+  },
+  {
+    "filename": "111_obv_Constantine I.jpg",
+    "bbox": [
+      60,
+      70,
+      246,
+      283
+    ],
+    "confidence": 0.5101304054260254
+  },
+  {
+    "filename": "112_obv_Constantine I.jpg",
+    "bbox": [
+      46,
+      62,
+      228,
+      278
+    ],
+    "confidence": 0.6570113301277161
+  },
+  {
+    "filename": "113_obv_Constantine I.jpg",
+    "bbox": [
+      35,
+      49,
+      213,
+      255
+    ],
+    "confidence": 0.747551679611206
+  },
+  {
+    "filename": "114_obv_Constantine I.jpg",
+    "bbox": [
+      46,
+      61,
+      251,
+      282
+    ],
+    "confidence": 0.2565588355064392
+  },
+  {
+    "filename": "115_obv_Constantine I.jpg",
+    "bbox": [
+      94,
+      40,
+      245,
+      267
+    ],
+    "confidence": 0.6935118436813354
+  },
+  {
+    "filename": "116_obv_Constantine I.jpg",
+    "bbox": [
+      48,
+      30,
+      226,
+      274
+    ],
+    "confidence": 0.5480900406837463
+  },
+  {
+    "filename": "117_obv_Constantine I.jpg",
+    "bbox": [
+      57,
+      47,
+      237,
+      265
+    ],
+    "confidence": 0.3937584161758423
+  },
+  {
+    "filename": "118_obv_Constantine I.jpg",
+    "bbox": [
+      79,
+      52,
+      224,
+      266
+    ],
+    "confidence": 0.46987032890319824
+  },
+  {
+    "filename": "119_obv_Constantine I.jpg",
+    "bbox": [
+      58,
+      31,
+      212,
+      274
+    ],
+    "confidence": 0.7236579656600952
+  },
+  {
+    "filename": "11_obv_Constantine I.jpg",
+    "bbox": [
+      89,
+      26,
+      238,
+      271
+    ],
+    "confidence": 0.6416754722595215
+  },
+  {
+    "filename": "120_obv_Constantine I.jpg",
+    "bbox": [
+      84,
+      42,
+      235,
+      282
+    ],
+    "confidence": 0.6961641311645508
+  },
+  {
+    "filename": "121_obv_Constantine I.jpg",
+    "bbox": [
+      45,
+      14,
+      207,
+      282
+    ],
+    "confidence": 0.6362478137016296
+  },
+  {
+    "filename": "122_obv_Constantine I.jpg",
+    "bbox": [
+      85,
+      41,
+      250,
+      291
+    ],
+    "confidence": 0.5477918386459351
+  },
+  {
+    "filename": "123_obv_Constantine I.jpg",
+    "bbox": [
+      53,
+      43,
+      240,
+      286
+    ],
+    "confidence": 0.5864422917366028
+  },
+  {
+    "filename": "124_obv_Constantine I.jpg",
+    "bbox": [
+      91,
+      49,
+      245,
+      278
+    ],
+    "confidence": 0.5992639064788818
+  },
+  {
+    "filename": "125_obv_Constantine I.jpg",
+    "bbox": [
+      60,
+      71,
+      233,
+      292
+    ],
+    "confidence": 0.7768023610115051
+  },
+  {
+    "filename": "126_obv_Constantine I.jpg",
+    "bbox": [
+      55,
+      70,
+      229,
+      286
+    ],
+    "confidence": 0.6956079006195068
+  },
+  {
+    "filename": "127_obv_Constantine I.jpg",
+    "bbox": [
+      73,
+      60,
+      243,
+      286
+    ],
+    "confidence": 0.5934295058250427
+  },
+  {
+    "filename": "128_obv_Constantine I.jpg",
+    "bbox": [
+      51,
+      79,
+      243,
+      276
+    ],
+    "confidence": 0.6610004901885986
+  },
+  {
+    "filename": "129_obv_Constantine I.jpg",
+    "bbox": [
+      73,
+      75,
+      233,
+      277
+    ],
+    "confidence": 0.4807147979736328
+  },
+  {
+    "filename": "12_obv_Constantine I.jpg",
+    "bbox": [
+      69,
+      42,
+      233,
+      283
+    ],
+    "confidence": 0.4226338863372803
+  },
+  {
+    "filename": "130_obv_Constantine I.jpg",
+    "bbox": [
+      75,
+      62,
+      231,
+      275
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "131_obv_Constantine I.jpg",
+    "bbox": [
+      75,
+      58,
+      261,
+      279
+    ],
+    "confidence": 0.6080041527748108
+  },
+  {
+    "filename": "132_obv_Constantine I.jpg",
+    "bbox": [
+      80,
+      65,
+      240,
+      273
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "133_obv_Constantine I.jpg",
+    "bbox": [
+      88,
+      61,
+      246,
+      276
+    ],
+    "confidence": 0.7316746711730957
+  },
+  {
+    "filename": "134_obv_Constantine I.jpg",
+    "bbox": [
+      83,
+      51,
+      240,
+      267
+    ],
+    "confidence": 0.3570714294910431
+  },
+  {
+    "filename": "135_obv_Constantine I.jpg",
+    "bbox": [
+      89.59406280517578,
+      62.27119064331055,
+      204.74468994140625,
+      275.6568603515625
+    ],
+    "confidence": 0.3336000442504883
+  },
+  {
+    "filename": "136_obv_Constantine I.jpg",
+    "bbox": [
+      76,
+      41,
+      252,
+      280
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "137_obv_Constantine I.jpg",
+    "bbox": [
+      68,
+      62,
+      240,
+      283
+    ],
+    "confidence": 0.5964272618293762
+  },
+  {
+    "filename": "138_obv_Constantine I.jpg",
+    "bbox": [
+      30.715625762939453,
+      36.872318267822266,
+      239.60009765625,
+      286.7784423828125
+    ],
+    "confidence": 0.32713472843170166
+  },
+  {
+    "filename": "139_obv_Constantine I.jpg",
+    "bbox": [
+      66,
+      55,
+      218,
+      282
+    ],
+    "confidence": 0.6476709246635437
+  },
+  {
+    "filename": "13_obv_Constantine I.jpg",
+    "bbox": [
+      32.77081298828125,
+      31.52372169494629,
+      260.0487976074219,
+      298.74822998046875
+    ],
+    "confidence": 0.6753581166267395
+  },
+  {
+    "filename": "140_obv_Constantine I.jpg",
+    "bbox": [
+      76,
+      33,
+      229,
+      276
+    ],
+    "confidence": 0.7385523915290833
+  },
+  {
+    "filename": "141_obv_Constantine I.jpg",
+    "bbox": [
+      83,
+      63,
+      245,
+      287
+    ],
+    "confidence": 0.6966797113418579
+  },
+  {
+    "filename": "142_obv_Constantine I.jpg",
+    "bbox": [
+      64,
+      67,
+      234,
+      290
+    ],
+    "confidence": 0.6561607122421265
+  },
+  {
+    "filename": "143_obv_Constantine I.jpg",
+    "bbox": [
+      85,
+      50,
+      236,
+      278
+    ],
+    "confidence": 0.7264290452003479
+  },
+  {
+    "filename": "144_obv_Constantine I.jpg",
+    "bbox": [
+      74,
+      53,
+      224,
+      283
+    ],
+    "confidence": 0.6506972312927246
+  },
+  {
+    "filename": "145_obv_Constantine I.jpg",
+    "bbox": [
+      72,
+      35,
+      256,
+      269
+    ],
+    "confidence": 0.7264061570167542
+  },
+  {
+    "filename": "146_obv_Constantine I.jpg",
+    "bbox": [
+      69,
+      36,
+      231,
+      285
+    ],
+    "confidence": 0.7173815369606018
+  },
+  {
+    "filename": "147_obv_Constantine I.jpg",
+    "bbox": [
+      76,
+      52,
+      240,
+      288
+    ],
+    "confidence": 0.75690096616745
+  },
+  {
+    "filename": "148_obv_Constantine I.jpg",
+    "bbox": [
+      74,
+      43,
+      238,
+      283
+    ],
+    "confidence": 0.6427982449531555
+  },
+  {
+    "filename": "149_obv_Constantine I.jpg",
+    "bbox": [
+      33.380462646484375,
+      20.11287498474121,
+      261.533935546875,
+      293.80792236328125
+    ],
+    "confidence": 0.6012404561042786
+  },
+  {
+    "filename": "14_obv_Constantine I.jpg",
+    "bbox": [
+      53,
+      37,
+      241,
+      285
+    ],
+    "confidence": 0.6653904318809509
+  },
+  {
+    "filename": "150_obv_Constantine I.jpg",
+    "bbox": [
+      78,
+      24,
+      240,
+      287
+    ],
+    "confidence": 0.7198460102081299
+  },
+  {
+    "filename": "151_obv_Constantine I.jpg",
+    "bbox": [
+      41.96385955810547,
+      29.73060417175293,
+      275.43218994140625,
+      294.9555969238281
+    ],
+    "confidence": 0.7306742668151855
+  },
+  {
+    "filename": "152_obv_Constantine I.jpg",
+    "bbox": [
+      42.34685134887695,
+      17.58427619934082,
+      272.7301940917969,
+      294.28424072265625
+    ],
+    "confidence": 0.7382656931877136
+  },
+  {
+    "filename": "153_obv_Constantine I.jpg",
+    "bbox": [
+      70,
+      29,
+      224,
+      279
+    ],
+    "confidence": 0.7550007700920105
+  },
+  {
+    "filename": "154_obv_Constantine I.jpg",
+    "bbox": [
+      37.5861701965332,
+      34.35905456542969,
+      256.5462341308594,
+      292.99627685546875
+    ],
+    "confidence": 0.6039539575576782
+  },
+  {
+    "filename": "155_obv_Constantine I.jpg",
+    "bbox": [
+      78,
+      64,
+      227,
+      286
+    ],
+    "confidence": 0.5771890878677368
+  },
+  {
+    "filename": "156_obv_Constantine I.jpg",
+    "bbox": [
+      53,
+      22,
+      219,
+      270
+    ],
+    "confidence": 0.682315468788147
+  },
+  {
+    "filename": "157_obv_Constantine I.jpg",
+    "bbox": [
+      35.446590423583984,
+      30.38025665283203,
+      260.1080627441406,
+      285.280517578125
+    ],
+    "confidence": 0.7573649883270264
+  },
+  {
+    "filename": "158_obv_Constantine I.jpg",
+    "bbox": [
+      70,
+      37,
+      226,
+      274
+    ],
+    "confidence": 0.737461507320404
+  },
+  {
+    "filename": "159_obv_Constantine I.jpg",
+    "bbox": [
+      64,
+      49,
+      235,
+      269
+    ],
+    "confidence": 0.7488229870796204
+  },
+  {
+    "filename": "15_obv_Constantine I.jpg",
+    "bbox": [
+      41,
+      31,
+      229,
+      271
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "160_obv_Constantine I.jpg",
+    "bbox": [
+      86,
+      42,
+      240,
+      282
+    ],
+    "confidence": 0.5254515409469604
+  },
+  {
+    "filename": "161_obv_Constantine I.jpg",
+    "bbox": [
+      78.62966918945312,
+      30.336196899414062,
+      300.0,
+      282.6332092285156
+    ],
+    "confidence": 0.7323463559150696
+  },
+  {
+    "filename": "162_obv_Constantine I.jpg",
+    "bbox": [
+      83,
+      61,
+      234,
+      274
+    ],
+    "confidence": 0.7407789826393127
+  },
+  {
+    "filename": "163_obv_Constantine I.jpg",
+    "bbox": [
+      75,
+      54,
+      239,
+      286
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "164_obv_Constantine I.jpg",
+    "bbox": [
+      39.05979919433594,
+      50.552268981933594,
+      263.84844970703125,
+      297.8900451660156
+    ],
+    "confidence": 0.7540739178657532
+  },
+  {
+    "filename": "165_obv_Constantine I.jpg",
+    "bbox": [
+      78,
+      37,
+      222,
+      257
+    ],
+    "confidence": 0.2632519006729126
+  },
+  {
+    "filename": "166_obv_Constantine I.jpg",
+    "bbox": [
+      134.75537109375,
+      39.41782760620117,
+      287.7898864746094,
+      274.2135925292969
+    ],
+    "confidence": 0.7386040091514587
+  },
+  {
+    "filename": "167_obv_Constantine I.jpg",
+    "bbox": [
+      62,
+      45,
+      246,
+      267
+    ],
+    "confidence": 0.7176085114479065
+  },
+  {
+    "filename": "168_obv_Constantine I.jpg",
+    "bbox": [
+      68,
+      37,
+      226,
+      283
+    ],
+    "confidence": 0.5772679448127747
+  },
+  {
+    "filename": "169_obv_Constantine I.jpg",
+    "bbox": [
+      36.2664680480957,
+      19.987648010253906,
+      274.0572204589844,
+      267.3257141113281
+    ],
+    "confidence": 0.7482430934906006
+  },
+  {
+    "filename": "16_obv_Constantine I.jpg",
+    "bbox": [
+      73,
+      31,
+      243,
+      273
+    ],
+    "confidence": 0.7274317741394043
+  },
+  {
+    "filename": "170_obv_Constantine I.jpg",
+    "bbox": [
+      77.89652252197266,
+      23.10910987854004,
+      299.6744689941406,
+      279.1228942871094
+    ],
+    "confidence": 0.7494115233421326
+  },
+  {
+    "filename": "171_obv_Constantine I.jpg",
+    "bbox": [
+      67.03438568115234,
+      23.556230545043945,
+      286.6591491699219,
+      281.146484375
+    ],
+    "confidence": 0.6531665921211243
+  },
+  {
+    "filename": "172_obv_Constantine I.jpg",
+    "bbox": [
+      66.58160400390625,
+      15.874442100524902,
+      289.92974853515625,
+      282.85400390625
+    ],
+    "confidence": 0.3282746374607086
+  },
+  {
+    "filename": "173_obv_Constantine I.jpg",
+    "bbox": [
+      76,
+      35,
+      240,
+      283
+    ],
+    "confidence": 0.5165784358978271
+  },
+  {
+    "filename": "174_obv_Constantine I.jpg",
+    "bbox": [
+      91,
+      28,
+      253,
+      278
+    ],
+    "confidence": 0.27772676944732666
+  },
+  {
+    "filename": "175_obv_Constantine I.jpg",
+    "bbox": [
+      15.748442649841309,
+      10.908507347106934,
+      265.7708740234375,
+      285.8291320800781
+    ],
+    "confidence": 0.527739942073822
+  },
+  {
+    "filename": "176_obv_Constantine I.jpg",
+    "bbox": [
+      80,
+      47,
+      231,
+      283
+    ],
+    "confidence": 0.44759687781333923
+  },
+  {
+    "filename": "177_obv_Constantine I.jpg",
+    "bbox": [
+      75,
+      46,
+      217,
+      268
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "178_obv_Constantine I.jpg",
+    "bbox": [
+      36.859867095947266,
+      33.546295166015625,
+      255.33689880371094,
+      290.5564270019531
+    ],
+    "confidence": 0.5639708042144775
+  },
+  {
+    "filename": "179_obv_Constantine I.jpg",
+    "bbox": [
+      61.5112190246582,
+      52.396484375,
+      294.1383056640625,
+      282.2255859375
+    ],
+    "confidence": 0.6036116480827332
+  },
+  {
+    "filename": "17_obv_Constantine I.jpg",
+    "bbox": [
+      65,
+      38,
+      251,
+      276
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "180_obv_Constantine I.jpg",
+    "bbox": [
+      64,
+      38,
+      248,
+      284
+    ],
+    "confidence": 0.737669825553894
+  },
+  {
+    "filename": "181_obv_Constantine I.jpg",
+    "bbox": [
+      30.83643913269043,
+      29.79520606994629,
+      269.5527648925781,
+      292.854248046875
+    ],
+    "confidence": 0.6898574233055115
+  },
+  {
+    "filename": "182_obv_Constantine I.jpg",
+    "bbox": [
+      61,
+      42,
+      208,
+      273
+    ],
+    "confidence": 0.5845652222633362
+  },
+  {
+    "filename": "183_obv_Constantine I.jpg",
+    "bbox": [
+      81,
+      61,
+      241,
+      273
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "184_obv_Constantine I.jpg",
+    "bbox": [
+      94,
+      29,
+      242,
+      250
+    ],
+    "confidence": 0.5809346437454224
+  },
+  {
+    "filename": "185_obv_Constantine I.jpg",
+    "bbox": [
+      25.095232009887695,
+      16.651954650878906,
+      256.4199523925781,
+      294.5344543457031
+    ],
+    "confidence": 0.757460355758667
+  },
+  {
+    "filename": "186_obv_Constantine I.jpg",
+    "bbox": [
+      78,
+      45,
+      239,
+      275
+    ],
+    "confidence": 0.471516877412796
+  },
+  {
+    "filename": "187_obv_Constantine I.jpg",
+    "bbox": [
+      74.75660705566406,
+      36.58452606201172,
+      298.0207214355469,
+      289.3341979980469
+    ],
+    "confidence": 0.26476186513900757
+  },
+  {
+    "filename": "188_obv_Constantine I.jpg",
+    "bbox": [
+      81.77452850341797,
+      27.391632080078125,
+      274.8994140625,
+      273.7893371582031
+    ],
+    "confidence": 0.699884831905365
+  },
+  {
+    "filename": "189_obv_Constantine I.jpg",
+    "bbox": [
+      12.46844482421875,
+      43.99783706665039,
+      248.38748168945312,
+      292.8408508300781
+    ],
+    "confidence": 0.45728829503059387
+  },
+  {
+    "filename": "18_obv_Constantine I.jpg",
+    "bbox": [
+      56,
+      37,
+      232,
+      283
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "190_obv_Constantine I.jpg",
+    "bbox": [
+      98.95362091064453,
+      51.413665771484375,
+      260.22235107421875,
+      285.3870544433594
+    ],
+    "confidence": 0.6925373077392578
+  },
+  {
+    "filename": "191_obv_Constantine I.jpg",
+    "bbox": [
+      55,
+      35,
+      245,
+      273
+    ],
+    "confidence": 0.5002284646034241
+  },
+  {
+    "filename": "192_obv_Constantine I.jpg",
+    "bbox": [
+      57,
+      53,
+      247,
+      277
+    ],
+    "confidence": 0.5584788918495178
+  },
+  {
+    "filename": "193_obv_Constantine I.jpg",
+    "bbox": [
+      83,
+      27,
+      261,
+      274
+    ],
+    "confidence": 0.5379959940910339
+  },
+  {
+    "filename": "194_obv_Constantine I.jpg",
+    "bbox": [
+      51.858890533447266,
+      53.266456604003906,
+      242.8977508544922,
+      291.3034973144531
+    ],
+    "confidence": 0.5718799829483032
+  },
+  {
+    "filename": "195_obv_Constantine I.jpg",
+    "bbox": [
+      69,
+      45,
+      243,
+      276
+    ],
+    "confidence": 0.6398851871490479
+  },
+  {
+    "filename": "196_obv_Constantine I.jpg",
+    "bbox": [
+      32.272422790527344,
+      46.10000228881836,
+      270.4921875,
+      293.71002197265625
+    ],
+    "confidence": 0.4737055003643036
+  },
+  {
+    "filename": "197_obv_Constantine I.jpg",
+    "bbox": [
+      55.177772521972656,
+      11.379603385925293,
+      269.04132080078125,
+      276.868408203125
+    ],
+    "confidence": 0.7416348457336426
+  },
+  {
+    "filename": "198_obv_Constantine I.jpg",
+    "bbox": [
+      70,
+      27,
+      239,
+      277
+    ],
+    "confidence": 0.510014533996582
+  },
+  {
+    "filename": "199_obv_Constantine I.jpg",
+    "bbox": [
+      88.00011444091797,
+      29.519832611083984,
+      267.89056396484375,
+      272.1069030761719
+    ],
+    "confidence": 0.6633487939834595
+  },
+  {
+    "filename": "19_obv_Constantine I.jpg",
+    "bbox": [
+      72.25788116455078,
+      34.992427825927734,
+      264.94110107421875,
+      300.0
+    ],
+    "confidence": 0.7179768681526184
+  },
+  {
+    "filename": "1_obv_Constantine I.jpg",
+    "bbox": [
+      71.06254577636719,
+      30.3085880279541,
+      264.385986328125,
+      275.8971862792969
+    ],
+    "confidence": 0.7128824591636658
+  },
+  {
+    "filename": "200_obv_Constantine I.jpg",
+    "bbox": [
+      62,
+      37,
+      221,
+      282
+    ],
+    "confidence": 0.6697068214416504
+  },
+  {
+    "filename": "201_obv_Constantine I.jpg",
+    "bbox": [
+      43.088462829589844,
+      16.316986083984375,
+      270.7691955566406,
+      290.9974365234375
+    ],
+    "confidence": 0.7371051907539368
+  },
+  {
+    "filename": "202_obv_Constantine I.jpg",
+    "bbox": [
+      66,
+      34,
+      243,
+      263
+    ],
+    "confidence": 0.4955577850341797
+  },
+  {
+    "filename": "203_obv_Constantine I.jpg",
+    "bbox": [
+      90.63299560546875,
+      38.86104202270508,
+      297.24951171875,
+      289.1669921875
+    ],
+    "confidence": 0.3355832099914551
+  },
+  {
+    "filename": "204_obv_Constantine I.jpg",
+    "bbox": [
+      58,
+      63,
+      240,
+      288
+    ],
+    "confidence": 0.7496253252029419
+  },
+  {
+    "filename": "205_obv_Constantine I.jpg",
+    "bbox": [
+      48,
+      60,
+      218,
+      278
+    ],
+    "confidence": 0.4288397431373596
+  },
+  {
+    "filename": "206_obv_Constantine I.jpg",
+    "bbox": [
+      66,
+      59,
+      244,
+      266
+    ],
+    "confidence": 0.34898602962493896
+  },
+  {
+    "filename": "207_obv_Constantine I.jpg",
+    "bbox": [
+      52.61357879638672,
+      24.063833236694336,
+      262.61083984375,
+      290.2797546386719
+    ],
+    "confidence": 0.33485543727874756
+  },
+  {
+    "filename": "208_obv_Constantine I.jpg",
+    "bbox": [
+      27.346628189086914,
+      15.427321434020996,
+      276.8472595214844,
+      300.0
+    ],
+    "confidence": 0.5226746201515198
+  },
+  {
+    "filename": "209_obv_Constantine I.jpg",
+    "bbox": [
+      66,
+      68,
+      250,
+      273
+    ],
+    "confidence": 0.5264685153961182
+  },
+  {
+    "filename": "20_obv_Constantine I.jpg",
+    "bbox": [
+      68,
+      36,
+      231,
+      286
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "210_obv_Constantine I.jpg",
+    "bbox": [
+      58,
+      45,
+      252,
+      280
+    ],
+    "confidence": 0.7199954986572266
+  },
+  {
+    "filename": "211_obv_Constantine I.jpg",
+    "bbox": [
+      52,
+      73,
+      233,
+      278
+    ],
+    "confidence": 0.703841507434845
+  },
+  {
+    "filename": "212_obv_Constantine I.jpg",
+    "bbox": [
+      43,
+      51,
+      221,
+      278
+    ],
+    "confidence": 0.6246593594551086
+  },
+  {
+    "filename": "213_obv_Constantine I.jpg",
+    "bbox": [
+      61,
+      58,
+      234,
+      267
+    ],
+    "confidence": 0.6920221447944641
+  },
+  {
+    "filename": "214_obv_Constantine I.jpg",
+    "bbox": [
+      65,
+      55,
+      239,
+      265
+    ],
+    "confidence": 0.5680042505264282
+  },
+  {
+    "filename": "215_obv_Constantine I.jpg",
+    "bbox": [
+      45,
+      67,
+      226,
+      262
+    ],
+    "confidence": 0.5506381988525391
+  },
+  {
+    "filename": "216_obv_Constantine I.jpg",
+    "bbox": [
+      43,
+      62,
+      201,
+      276
+    ],
+    "confidence": 0.685055673122406
+  },
+  {
+    "filename": "217_obv_Constantine I.jpg",
+    "bbox": [
+      40,
+      48,
+      236,
+      273
+    ],
+    "confidence": 0.7481239438056946
+  },
+  {
+    "filename": "218_obv_Constantine I.jpg",
+    "bbox": [
+      45,
+      68,
+      236,
+      278
+    ],
+    "confidence": 0.5104306936264038
+  },
+  {
+    "filename": "219_obv_Constantine I.jpg",
+    "bbox": [
+      55,
+      73,
+      244,
+      276
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "21_obv_Constantine I.jpg",
+    "bbox": [
+      61,
+      43,
+      236,
+      277
+    ],
+    "confidence": 0.7734283208847046
+  },
+  {
+    "filename": "220_obv_Constantine I.jpg",
+    "bbox": [
+      55,
+      62,
+      243,
+      277
+    ],
+    "confidence": 0.786724865436554
+  },
+  {
+    "filename": "221_obv_Constantine I.jpg",
+    "bbox": [
+      54,
+      66,
+      253,
+      277
+    ],
+    "confidence": 0.6161292791366577
+  },
+  {
+    "filename": "222_obv_Constantine I.jpg",
+    "bbox": [
+      56,
+      66,
+      235,
+      275
+    ],
+    "confidence": 0.706419050693512
+  },
+  {
+    "filename": "223_obv_Constantine I.jpg",
+    "bbox": [
+      59,
+      61,
+      233,
+      267
+    ],
+    "confidence": 0.6672583818435669
+  },
+  {
+    "filename": "224_obv_Constantine I.jpg",
+    "bbox": [
+      63.8598518371582,
+      21.327951431274414,
+      269.6990661621094,
+      289.2160949707031
+    ],
+    "confidence": 0.7816358208656311
+  },
+  {
+    "filename": "225_obv_Constantine I.jpg",
+    "bbox": [
+      63,
+      49,
+      241,
+      278
+    ],
+    "confidence": 0.7301276922225952
+  },
+  {
+    "filename": "226_obv_Constantine I.jpg",
+    "bbox": [
+      35,
+      75,
+      217,
+      283
+    ],
+    "confidence": 0.7544934749603271
+  },
+  {
+    "filename": "227_obv_Constantine I.jpg",
+    "bbox": [
+      53,
+      72,
+      239,
+      281
+    ],
+    "confidence": 0.7015467882156372
+  },
+  {
+    "filename": "228_obv_Constantine I.jpg",
+    "bbox": [
+      71,
+      65,
+      235,
+      270
+    ],
+    "confidence": 0.7490819096565247
+  },
+  {
+    "filename": "229_obv_Constantine I.jpg",
+    "bbox": [
+      4.6270246505737305,
+      31.279104232788086,
+      112.40818786621094,
+      282.23681640625
+    ],
+    "confidence": 0.45385268330574036
+  },
+  {
+    "filename": "22_obv_Constantine I.jpg",
+    "bbox": [
+      66,
+      36,
+      219,
+      261
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "230_obv_Constantine I.jpg",
+    "bbox": [
+      55,
+      67,
+      237,
+      271
+    ],
+    "confidence": 0.4841216504573822
+  },
+  {
+    "filename": "231_obv_Constantine I.jpg",
+    "bbox": [
+      57,
+      59,
+      253,
+      272
+    ],
+    "confidence": 0.48031821846961975
+  },
+  {
+    "filename": "232_obv_Constantine I.jpg",
+    "bbox": [
+      71,
+      70,
+      242,
+      293
+    ],
+    "confidence": 0.6824710369110107
+  },
+  {
+    "filename": "233_obv_Constantine I.jpg",
+    "bbox": [
+      78,
+      75,
+      250,
+      273
+    ],
+    "confidence": 0.5869688391685486
+  },
+  {
+    "filename": "234_obv_Constantine I.jpg",
+    "bbox": [
+      54,
+      68,
+      235,
+      279
+    ],
+    "confidence": 0.5854626297950745
+  },
+  {
+    "filename": "235_obv_Constantine I.jpg",
+    "bbox": [
+      42,
+      54,
+      228,
+      282
+    ],
+    "confidence": 0.3939371109008789
+  },
+  {
+    "filename": "236_obv_Constantine I.jpg",
+    "bbox": [
+      47,
+      70,
+      225,
+      282
+    ],
+    "confidence": 0.5286750197410583
+  },
+  {
+    "filename": "237_obv_Constantine I.jpg",
+    "bbox": [
+      43,
+      62,
+      241,
+      294
+    ],
+    "confidence": 0.602336049079895
+  },
+  {
+    "filename": "238_obv_Constantine I.jpg",
+    "bbox": [
+      26,
+      66,
+      220,
+      290
+    ],
+    "confidence": 0.41971462965011597
+  },
+  {
+    "filename": "239_obv_Constantine I.jpg",
+    "bbox": [
+      43,
+      62,
+      249,
+      291
+    ],
+    "confidence": 0.47486090660095215
+  },
+  {
+    "filename": "23_obv_Constantine I.jpg",
+    "bbox": [
+      61,
+      44,
+      240,
+      277
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "240_obv_Constantine I.jpg",
+    "bbox": [
+      53.989437103271484,
+      42.958457946777344,
+      234.22061157226562,
+      298.61572265625
+    ],
+    "confidence": 0.7121886014938354
+  },
+  {
+    "filename": "241_obv_Constantine I.jpg",
+    "bbox": [
+      87.95172882080078,
+      38.440616607666016,
+      255.80101013183594,
+      282.58782958984375
+    ],
+    "confidence": 0.5959199666976929
+  },
+  {
+    "filename": "242_obv_Constantine I.jpg",
+    "bbox": [
+      56.136070251464844,
+      45.097930908203125,
+      247.86705017089844,
+      286.54925537109375
+    ],
+    "confidence": 0.4508645534515381
+  },
+  {
+    "filename": "243_obv_Constantine I.jpg",
+    "bbox": [
+      53.883880615234375,
+      58.982208251953125,
+      254.39871215820312,
+      295.26568603515625
+    ],
+    "confidence": 0.6175737380981445
+  },
+  {
+    "filename": "244_obv_Constantine I.jpg",
+    "bbox": [
+      56,
+      64,
+      244,
+      293
+    ],
+    "confidence": 0.44841811060905457
+  },
+  {
+    "filename": "245_obv_Constantine I.jpg",
+    "bbox": [
+      35,
+      63,
+      251,
+      289
+    ],
+    "confidence": 0.6968383193016052
+  },
+  {
+    "filename": "246_obv_Constantine I.jpg",
+    "bbox": [
+      31.174497604370117,
+      33.388423919677734,
+      261.77764892578125,
+      284.49444580078125
+    ],
+    "confidence": 0.4514024257659912
+  },
+  {
+    "filename": "247_obv_Constantine I.jpg",
+    "bbox": [
+      63.478858947753906,
+      43.30180740356445,
+      285.7508239746094,
+      282.8988037109375
+    ],
+    "confidence": 0.7081685066223145
+  },
+  {
+    "filename": "248_obv_Constantine I.jpg",
+    "bbox": [
+      27.047937393188477,
+      46.390655517578125,
+      260.86273193359375,
+      294.4171142578125
+    ],
+    "confidence": 0.4173029065132141
+  },
+  {
+    "filename": "249_obv_Constantine I.jpg",
+    "bbox": [
+      33.60442352294922,
+      45.93875503540039,
+      269.0270080566406,
+      298.74810791015625
+    ],
+    "confidence": 0.6051688194274902
+  },
+  {
+    "filename": "24_obv_Constantine I.jpg",
+    "bbox": [
+      28.851346969604492,
+      43.01882553100586,
+      262.80548095703125,
+      292.593017578125
+    ],
+    "confidence": 0.7257105112075806
+  },
+  {
+    "filename": "250_obv_Constantine I.jpg",
+    "bbox": [
+      7.194499492645264,
+      35.063209533691406,
+      230.10855102539062,
+      291.3274230957031
+    ],
+    "confidence": 0.6622505187988281
+  },
+  {
+    "filename": "251_obv_Constantine I.jpg",
+    "bbox": [
+      44.390628814697266,
+      51.542755126953125,
+      263.6216125488281,
+      295.2341613769531
+    ],
+    "confidence": 0.6017602682113647
+  },
+  {
+    "filename": "252_obv_Constantine I.jpg",
+    "bbox": [
+      30.913122177124023,
+      45.59983825683594,
+      278.8076477050781,
+      300.0
+    ],
+    "confidence": 0.6175397038459778
+  },
+  {
+    "filename": "253_obv_Constantine I.jpg",
+    "bbox": [
+      58,
+      59,
+      243,
+      288
+    ],
+    "confidence": 0.6239822506904602
+  },
+  {
+    "filename": "254_obv_Constantine I.jpg",
+    "bbox": [
+      36,
+      66,
+      214,
+      296
+    ],
+    "confidence": 0.754687488079071
+  },
+  {
+    "filename": "255_obv_Constantine I.jpg",
+    "bbox": [
+      47,
+      52,
+      243,
+      279
+    ],
+    "confidence": 0.7490172982215881
+  },
+  {
+    "filename": "256_obv_Constantine I.jpg",
+    "bbox": [
+      24.024723052978516,
+      44.38705062866211,
+      260.1602478027344,
+      293.6192321777344
+    ],
+    "confidence": 0.6757550835609436
+  },
+  {
+    "filename": "257_obv_Constantine I.jpg",
+    "bbox": [
+      40.1981201171875,
+      30.897729873657227,
+      263.7933349609375,
+      294.3899230957031
+    ],
+    "confidence": 0.7331104278564453
+  },
+  {
+    "filename": "258_obv_Constantine I.jpg",
+    "bbox": [
+      89.80004119873047,
+      37.69443130493164,
+      295.89178466796875,
+      289.41900634765625
+    ],
+    "confidence": 0.33644476532936096
+  },
+  {
+    "filename": "259_obv_Constantine I.jpg",
+    "bbox": [
+      51,
+      61,
+      222,
+      270
+    ],
+    "confidence": 0.4149862229824066
+  },
+  {
+    "filename": "25_obv_Constantine I.jpg",
+    "bbox": [
+      43,
+      32,
+      243,
+      278
+    ],
+    "confidence": 0.6969344019889832
+  },
+  {
+    "filename": "260_obv_Constantine I.jpg",
+    "bbox": [
+      47,
+      62,
+      251,
+      289
+    ],
+    "confidence": 0.7782192826271057
+  },
+  {
+    "filename": "261_obv_Constantine I.jpg",
+    "bbox": [
+      54,
+      49,
+      238,
+      280
+    ],
+    "confidence": 0.6579282879829407
+  },
+  {
+    "filename": "262_obv_Constantine I.jpg",
+    "bbox": [
+      56,
+      54,
+      253,
+      290
+    ],
+    "confidence": 0.6776477694511414
+  },
+  {
+    "filename": "263_obv_Constantine I.jpg",
+    "bbox": [
+      61.970298767089844,
+      48.44687271118164,
+      289.1459655761719,
+      295.6349792480469
+    ],
+    "confidence": 0.7543737888336182
+  },
+  {
+    "filename": "264_obv_Constantine I.jpg",
+    "bbox": [
+      52,
+      36,
+      253,
+      285
+    ],
+    "confidence": 0.5899357199668884
+  },
+  {
+    "filename": "265_obv_Constantine I.jpg",
+    "bbox": [
+      121.55667877197266,
+      44.458919525146484,
+      297.3274230957031,
+      270.44757080078125
+    ],
+    "confidence": 0.42960482835769653
+  },
+  {
+    "filename": "266_obv_Constantine I.jpg",
+    "bbox": [
+      73,
+      50,
+      239,
+      276
+    ],
+    "confidence": 0.7465531229972839
+  },
+  {
+    "filename": "267_obv_Constantine I.jpg",
+    "bbox": [
+      45,
+      45,
+      218,
+      290
+    ],
+    "confidence": 0.38144075870513916
+  },
+  {
+    "filename": "268_obv_Constantine I.jpg",
+    "bbox": [
+      73,
+      70,
+      249,
+      278
+    ],
+    "confidence": 0.6234148740768433
+  },
+  {
+    "filename": "269_obv_Constantine I.jpg",
+    "bbox": [
+      85,
+      51,
+      247,
+      282
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "26_obv_Constantine I.jpg",
+    "bbox": [
+      69.65895080566406,
+      0.8124160170555115,
+      297.5922546386719,
+      244.18685913085938
+    ],
+    "confidence": 0.6773970127105713
+  },
+  {
+    "filename": "270_obv_Constantine I.jpg",
+    "bbox": [
+      67,
+      49,
+      249,
+      288
+    ],
+    "confidence": 0.44244274497032166
+  },
+  {
+    "filename": "271_obv_Constantine I.jpg",
+    "bbox": [
+      58.28853225708008,
+      8.052606582641602,
+      247.57923889160156,
+      260.7568359375
+    ],
+    "confidence": 0.3893596827983856
+  },
+  {
+    "filename": "272_obv_Constantine I.jpg",
+    "bbox": [
+      54,
+      42,
+      245,
+      284
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "273_obv_Constantine I.jpg",
+    "bbox": [
+      57,
+      52,
+      249,
+      285
+    ],
+    "confidence": 0.4573323726654053
+  },
+  {
+    "filename": "274_obv_Constantine I.jpg",
+    "bbox": [
+      63,
+      67,
+      240,
+      270
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "275_obv_Constantine I.jpg",
+    "bbox": [
+      33.41276931762695,
+      20.734546661376953,
+      257.20257568359375,
+      281.6180419921875
+    ],
+    "confidence": 0.7396830320358276
+  },
+  {
+    "filename": "276_obv_Constantine I.jpg",
+    "bbox": [
+      63.00032424926758,
+      67.00257873535156,
+      271.6006164550781,
+      299.9147644042969
+    ],
+    "confidence": 0.5505691170692444
+  },
+  {
+    "filename": "277_obv_Constantine I.jpg",
+    "bbox": [
+      23.55431365966797,
+      48.81099319458008,
+      263.8648376464844,
+      288.9222717285156
+    ],
+    "confidence": 0.6737809777259827
+  },
+  {
+    "filename": "278_obv_Constantine I.jpg",
+    "bbox": [
+      74,
+      58,
+      247,
+      274
+    ],
+    "confidence": 0.3495030105113983
+  },
+  {
+    "filename": "279_obv_Constantine I.jpg",
+    "bbox": [
+      61,
+      53,
+      261,
+      282
+    ],
+    "confidence": 0.554742693901062
+  },
+  {
+    "filename": "27_obv_Constantine I.jpg",
+    "bbox": [
+      57,
+      43,
+      242,
+      272
+    ],
+    "confidence": 0.45802149176597595
+  },
+  {
+    "filename": "280_obv_Constantine I.jpg",
+    "bbox": [
+      48.19315719604492,
+      56.45633316040039,
+      250.0787353515625,
+      293.76922607421875
+    ],
+    "confidence": 0.7088979482650757
+  },
+  {
+    "filename": "281_obv_Constantine I.jpg",
+    "bbox": [
+      66,
+      66,
+      232,
+      277
+    ],
+    "confidence": 0.41788965463638306
+  },
+  {
+    "filename": "282_obv_Constantine I.jpg",
+    "bbox": [
+      23.78660011291504,
+      18.92071533203125,
+      258.1827392578125,
+      294.37841796875
+    ],
+    "confidence": 0.737640917301178
+  },
+  {
+    "filename": "283_obv_Constantine I.jpg",
+    "bbox": [
+      59,
+      59,
+      242,
+      270
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "284_obv_Constantine I.jpg",
+    "bbox": [
+      57,
+      41,
+      248,
+      267
+    ],
+    "confidence": 0.7730556726455688
+  },
+  {
+    "filename": "285_obv_Constantine I.jpg",
+    "bbox": [
+      69.27978515625,
+      51.892208099365234,
+      256.0113220214844,
+      280.0473937988281
+    ],
+    "confidence": 0.4093815088272095
+  },
+  {
+    "filename": "286_obv_Constantine I.jpg",
+    "bbox": [
+      33.95876693725586,
+      44.18489074707031,
+      250.59796142578125,
+      289.4651794433594
+    ],
+    "confidence": 0.4648114740848541
+  },
+  {
+    "filename": "287_obv_Constantine I.jpg",
+    "bbox": [
+      98.46372985839844,
+      55.620201110839844,
+      259.2469482421875,
+      286.0164489746094
+    ],
+    "confidence": 0.7111808061599731
+  },
+  {
+    "filename": "288_obv_Constantine I.jpg",
+    "bbox": [
+      61,
+      31,
+      240,
+      272
+    ],
+    "confidence": 0.6840760111808777
+  },
+  {
+    "filename": "289_obv_Constantine I.jpg",
+    "bbox": [
+      29.61954689025879,
+      13.585165977478027,
+      260.91943359375,
+      290.23004150390625
+    ],
+    "confidence": 0.6276246905326843
+  },
+  {
+    "filename": "28_obv_Constantine I.jpg",
+    "bbox": [
+      72,
+      53,
+      231,
+      261
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "290_obv_Constantine I.jpg",
+    "bbox": [
+      20.79334831237793,
+      29.406278610229492,
+      259.1386413574219,
+      288.1211853027344
+    ],
+    "confidence": 0.7126957178115845
+  },
+  {
+    "filename": "291_obv_Constantine I.jpg",
+    "bbox": [
+      61.03591537475586,
+      42.76156234741211,
+      287.66119384765625,
+      283.2391357421875
+    ],
+    "confidence": 0.6638308167457581
+  },
+  {
+    "filename": "292_obv_Constantine I.jpg",
+    "bbox": [
+      28.374879837036133,
+      32.02568817138672,
+      265.5271911621094,
+      293.1167907714844
+    ],
+    "confidence": 0.7533606886863708
+  },
+  {
+    "filename": "293_obv_Constantine I.jpg",
+    "bbox": [
+      45,
+      23,
+      252,
+      283
+    ],
+    "confidence": 0.7262415885925293
+  },
+  {
+    "filename": "294_obv_Constantine I.jpg",
+    "bbox": [
+      71,
+      29,
+      236,
+      262
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "295_obv_Constantine I.jpg",
+    "bbox": [
+      42.371368408203125,
+      29.817378997802734,
+      276.96356201171875,
+      288.64056396484375
+    ],
+    "confidence": 0.7072553038597107
+  },
+  {
+    "filename": "296_obv_Constantine I.jpg",
+    "bbox": [
+      74,
+      18,
+      252,
+      268
+    ],
+    "confidence": 0.7680853605270386
+  },
+  {
+    "filename": "297_obv_Constantine I.jpg",
+    "bbox": [
+      75,
+      11,
+      254,
+      267
+    ],
+    "confidence": 0.7023695707321167
+  },
+  {
+    "filename": "29_obv_Constantine I.jpg",
+    "bbox": [
+      27.90150260925293,
+      48.69303512573242,
+      265.07720947265625,
+      291.2657470703125
+    ],
+    "confidence": 0.6992801427841187
+  },
+  {
+    "filename": "2_obv_Constantine I.jpg",
+    "bbox": [
+      38.27018356323242,
+      19.1252498626709,
+      264.710693359375,
+      300.0
+    ],
+    "confidence": 0.647734522819519
+  },
+  {
+    "filename": "30_obv_Constantine I.jpg",
+    "bbox": [
+      62,
+      66,
+      260,
+      270
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "31_obv_Constantine I.jpg",
+    "bbox": [
+      33,
+      46,
+      235,
+      265
+    ],
+    "confidence": 0.5306750535964966
+  },
+  {
+    "filename": "32_obv_Constantine I.jpg",
+    "bbox": [
+      96,
+      35,
+      238,
+      265
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "33_obv_Constantine I.jpg",
+    "bbox": [
+      63,
+      86,
+      236,
+      277
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "34_obv_Constantine I.jpg",
+    "bbox": [
+      63,
+      53,
+      239,
+      285
+    ],
+    "confidence": 0.7162320017814636
+  },
+  {
+    "filename": "35_obv_Constantine I.jpg",
+    "bbox": [
+      62,
+      74,
+      226,
+      272
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "36_obv_Constantine I.jpg",
+    "bbox": [
+      36,
+      57,
+      246,
+      283
+    ],
+    "confidence": 0.6663938164710999
+  },
+  {
+    "filename": "37_obv_Constantine I.jpg",
+    "bbox": [
+      61,
+      57,
+      244,
+      282
+    ],
+    "confidence": 0.3323412537574768
+  },
+  {
+    "filename": "38_obv_Constantine I.jpg",
+    "bbox": [
+      54,
+      37,
+      241,
+      276
+    ],
+    "confidence": 0.6661482453346252
+  },
+  {
+    "filename": "39_obv_Constantine I.jpg",
+    "bbox": [
+      57,
+      51,
+      223,
+      271
+    ],
+    "confidence": 0.41734251379966736
+  },
+  {
+    "filename": "3_obv_Constantine I.jpg",
+    "bbox": [
+      63,
+      61,
+      233,
+      283
+    ],
+    "confidence": 0.6525676250457764
+  },
+  {
+    "filename": "40_obv_Constantine I.jpg",
+    "bbox": [
+      49,
+      38,
+      238,
+      272
+    ],
+    "confidence": 0.6937319040298462
+  },
+  {
+    "filename": "41_obv_Constantine I.jpg",
+    "bbox": [
+      56,
+      28,
+      232,
+      287
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "42_obv_Constantine I.jpg",
+    "bbox": [
+      65,
+      62,
+      242,
+      269
+    ],
+    "confidence": 0.7726691961288452
+  },
+  {
+    "filename": "43_obv_Constantine I.jpg",
+    "bbox": [
+      71,
+      34,
+      249,
+      259
+    ],
+    "confidence": 0.6442137360572815
+  },
+  {
+    "filename": "44_obv_Constantine I.jpg",
+    "bbox": [
+      27.577198028564453,
+      31.580198287963867,
+      271.93994140625,
+      285.3814697265625
+    ],
+    "confidence": 0.6938297152519226
+  },
+  {
+    "filename": "45_obv_Constantine I.jpg",
+    "bbox": [
+      78.42741394042969,
+      17.874183654785156,
+      300.0,
+      280.276611328125
+    ],
+    "confidence": 0.7659416794776917
+  },
+  {
+    "filename": "46_obv_Constantine I.jpg",
+    "bbox": [
+      43.62092590332031,
+      26.622045516967773,
+      289.4200439453125,
+      288.6647033691406
+    ],
+    "confidence": 0.7400565147399902
+  },
+  {
+    "filename": "47_obv_Constantine I.jpg",
+    "bbox": [
+      73,
+      46,
+      231,
+      284
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "48_obv_Constantine I.jpg",
+    "bbox": [
+      54.35625076293945,
+      37.61681365966797,
+      252.4101104736328,
+      286.75689697265625
+    ],
+    "confidence": 0.6819254159927368
+  },
+  {
+    "filename": "49_obv_Constantine I.jpg",
+    "bbox": [
+      64,
+      67,
+      234,
+      288
+    ],
+    "confidence": 0.6994691491127014
+  },
+  {
+    "filename": "4_obv_Constantine I.jpg",
+    "bbox": [
+      70,
+      61,
+      250,
+      286
+    ],
+    "confidence": 0.7660036087036133
+  },
+  {
+    "filename": "50_obv_Constantine I.jpg",
+    "bbox": [
+      50,
+      70,
+      247,
+      285
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "51_obv_Constantine I.jpg",
+    "bbox": [
+      67,
+      53,
+      228,
+      263
+    ],
+    "confidence": 0.44119471311569214
+  },
+  {
+    "filename": "52_obv_Constantine I.jpg",
+    "bbox": [
+      57,
+      55,
+      235,
+      269
+    ],
+    "confidence": 0.5297629833221436
+  },
+  {
+    "filename": "53_obv_Constantine I.jpg",
+    "bbox": [
+      80,
+      64,
+      235,
+      270
+    ],
+    "confidence": 0.5106420516967773
+  },
+  {
+    "filename": "54_obv_Constantine I.jpg",
+    "bbox": [
+      57,
+      33,
+      254,
+      270
+    ],
+    "confidence": 0.33493709564208984
+  },
+  {
+    "filename": "55_obv_Constantine I.jpg",
+    "bbox": [
+      60,
+      40,
+      250,
+      270
+    ],
+    "confidence": 0.7729241847991943
+  },
+  {
+    "filename": "56_obv_Constantine I.jpg",
+    "bbox": [
+      69,
+      82,
+      259,
+      288
+    ],
+    "confidence": 0.40729090571403503
+  },
+  {
+    "filename": "57_obv_Constantine I.jpg",
+    "bbox": [
+      41,
+      61,
+      238,
+      288
+    ],
+    "confidence": 0.3104061782360077
+  },
+  {
+    "filename": "58_obv_Constantine I.jpg",
+    "bbox": [
+      34.566226959228516,
+      44.99324417114258,
+      271.363525390625,
+      300.0
+    ],
+    "confidence": 0.5294370055198669
+  },
+  {
+    "filename": "59_obv_Constantine I.jpg",
+    "bbox": [
+      48,
+      58,
+      224,
+      283
+    ],
+    "confidence": 0.4195025563240051
+  },
+  {
+    "filename": "5_obv_Constantine I.jpg",
+    "bbox": [
+      67,
+      46,
+      236,
+      266
+    ],
+    "confidence": 0.5966609716415405
+  },
+  {
+    "filename": "60_obv_Constantine I.jpg",
+    "bbox": [
+      45,
+      55,
+      236,
+      276
+    ],
+    "confidence": 0.3075144290924072
+  },
+  {
+    "filename": "61_obv_Constantine I.jpg",
+    "bbox": [
+      51,
+      82,
+      238,
+      269
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "62_obv_Constantine I.jpg",
+    "bbox": [
+      48,
+      57,
+      231,
+      278
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "63_obv_Constantine I.jpg",
+    "bbox": [
+      66,
+      19,
+      241,
+      237
+    ],
+    "confidence": 0.43848586082458496
+  },
+  {
+    "filename": "64_obv_Constantine I.jpg",
+    "bbox": [
+      42,
+      53,
+      258,
+      275
+    ],
+    "confidence": 0.7271255850791931
+  },
+  {
+    "filename": "65_obv_Constantine I.jpg",
+    "bbox": [
+      66,
+      58,
+      249,
+      266
+    ],
+    "confidence": 0.3673759996891022
+  },
+  {
+    "filename": "66_obv_Constantine I.jpg",
+    "bbox": [
+      70,
+      56,
+      238,
+      290
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "67_obv_Constantine I.jpg",
+    "bbox": [
+      56,
+      34,
+      253,
+      267
+    ],
+    "confidence": 0.5191798806190491
+  },
+  {
+    "filename": "68_obv_Constantine I.jpg",
+    "bbox": [
+      62,
+      58,
+      257,
+      281
+    ],
+    "confidence": 0.6424953937530518
+  },
+  {
+    "filename": "69_obv_Constantine I.jpg",
+    "bbox": [
+      59,
+      68,
+      243,
+      267
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "6_obv_Constantine I.jpg",
+    "bbox": [
+      42.83360290527344,
+      37.30152893066406,
+      275.39508056640625,
+      280.67889404296875
+    ],
+    "confidence": 0.7345334887504578
+  },
+  {
+    "filename": "70_obv_Constantine I.jpg",
+    "bbox": [
+      23.818300247192383,
+      42.19504928588867,
+      264.1250915527344,
+      287.4823303222656
+    ],
+    "confidence": 0.4576292634010315
+  },
+  {
+    "filename": "71_obv_Constantine I.jpg",
+    "bbox": [
+      62,
+      71,
+      240,
+      280
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "72_obv_Constantine I.jpg",
+    "bbox": [
+      37.1474609375,
+      34.065425872802734,
+      248.7530517578125,
+      297.7759704589844
+    ],
+    "confidence": 0.5794848203659058
+  },
+  {
+    "filename": "73_obv_Constantine I.jpg",
+    "bbox": [
+      38,
+      46,
+      234,
+      265
+    ],
+    "confidence": 0.31616830825805664
+  },
+  {
+    "filename": "74_obv_Constantine I.jpg",
+    "bbox": [
+      82,
+      53,
+      246,
+      279
+    ],
+    "confidence": 0.5746794939041138
+  },
+  {
+    "filename": "75_obv_Constantine I.jpg",
+    "bbox": [
+      77,
+      91,
+      229,
+      265
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "76_obv_Constantine I.jpg",
+    "bbox": [
+      58,
+      44,
+      237,
+      266
+    ],
+    "confidence": 0.2831096053123474
+  },
+  {
+    "filename": "77_obv_Constantine I.jpg",
+    "bbox": [
+      65,
+      42,
+      254,
+      270
+    ],
+    "confidence": 0.7717220783233643
+  },
+  {
+    "filename": "78_obv_Constantine I.jpg",
+    "bbox": [
+      44.16925048828125,
+      35.18623352050781,
+      259.17059326171875,
+      290.2748107910156
+    ],
+    "confidence": 0.785402238368988
+  },
+  {
+    "filename": "79_obv_Constantine I.jpg",
+    "bbox": [
+      67,
+      71,
+      233,
+      268
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "7_obv_Constantine I.jpg",
+    "bbox": [
+      69,
+      79,
+      237,
+      293
+    ],
+    "confidence": 0.6994590163230896
+  },
+  {
+    "filename": "80_obv_Constantine I.jpg",
+    "bbox": [
+      54,
+      48,
+      236,
+      281
+    ],
+    "confidence": 0.2748139798641205
+  },
+  {
+    "filename": "81_obv_Constantine I.jpg",
+    "bbox": [
+      62,
+      77,
+      235,
+      279
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "82_obv_Constantine I.jpg",
+    "bbox": [
+      63,
+      55,
+      226,
+      274
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "83_obv_Constantine I.jpg",
+    "bbox": [
+      69,
+      75,
+      225,
+      267
+    ],
+    "confidence": 0.5980427265167236
+  },
+  {
+    "filename": "84_obv_Constantine I.jpg",
+    "bbox": [
+      71,
+      53,
+      242,
+      263
+    ],
+    "confidence": 0.5763980746269226
+  },
+  {
+    "filename": "85_obv_Constantine I.jpg",
+    "bbox": [
+      57,
+      43,
+      244,
+      259
+    ],
+    "confidence": 0.5874820351600647
+  },
+  {
+    "filename": "86_obv_Constantine I.jpg",
+    "bbox": [
+      58,
+      57,
+      225,
+      275
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "87_obv_Constantine I.jpg",
+    "bbox": [
+      51,
+      59,
+      225,
+      259
+    ],
+    "confidence": 0.43282216787338257
+  },
+  {
+    "filename": "88_obv_Constantine I.jpg",
+    "bbox": [
+      67,
+      64,
+      237,
+      270
+    ],
+    "confidence": 0.5284629464149475
+  },
+  {
+    "filename": "89_obv_Constantine I.jpg",
+    "bbox": [
+      41,
+      61,
+      226,
+      259
+    ],
+    "confidence": 0.6667284369468689
+  },
+  {
+    "filename": "8_obv_Constantine I.jpg",
+    "bbox": [
+      51,
+      75,
+      240,
+      289
+    ],
+    "confidence": 0.7660743594169617
+  },
+  {
+    "filename": "90_obv_Constantine I.jpg",
+    "bbox": [
+      31,
+      82,
+      234,
+      276
+    ],
+    "confidence": 0.49374425411224365
+  },
+  {
+    "filename": "91_obv_Constantine I.jpg",
+    "bbox": [
+      53,
+      55,
+      242,
+      284
+    ],
+    "confidence": 0.4324057698249817
+  },
+  {
+    "filename": "92_obv_Constantine I.jpg",
+    "bbox": [
+      51,
+      53,
+      238,
+      282
+    ],
+    "confidence": 0.401586651802063
+  },
+  {
+    "filename": "93_obv_Constantine I.jpg",
+    "bbox": [
+      68,
+      63,
+      266,
+      284
+    ],
+    "confidence": 0.5085945129394531
+  },
+  {
+    "filename": "94_obv_Constantine I.jpg",
+    "bbox": [
+      28,
+      42,
+      229,
+      287
+    ],
+    "confidence": 0.7398476004600525
+  },
+  {
+    "filename": "95_obv_Constantine I.jpg",
+    "bbox": [
+      64,
+      53,
+      236,
+      270
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "96_obv_Constantine I.jpg",
+    "bbox": [
+      53,
+      54,
+      234,
+      281
+    ],
+    "confidence": 1.0
+  },
+  {
+    "filename": "97_obv_Constantine I.jpg",
+    "bbox": [
+      59,
+      54,
+      230,
+      269
+    ],
+    "confidence": 0.6430391669273376
+  },
+  {
+    "filename": "98_obv_Constantine I.jpg",
+    "bbox": [
+      35.54013442993164,
+      34.80671691894531,
+      257.7440490722656,
+      288.614013671875
+    ],
+    "confidence": 0.6738190054893494
+  },
+  {
+    "filename": "99_obv_Constantine I.jpg",
+    "bbox": [
+      61,
+      53,
+      238,
+      292
+    ],
+    "confidence": 0.44738468527793884
+  },
+  {
+    "filename": "9_obv_Constantine I.jpg",
+    "bbox": [
+      69.58067321777344,
+      37.11724853515625,
+      270.3393859863281,
+      286.2220458984375
+    ],
+    "confidence": 0.5963945984840393
+  },
+  {
+    "filename": "635_obv_Arcadius__Honorius__Theodosius II.jpg",
+    "bbox": [
+      29.224166870117188,
+      30.180843353271484,
+      263.6094665527344,
+      294.5890808105469
+    ],
+    "confidence": 0.625714123249054
+  },
+  {
+    "filename": "636_obv_Arcadius__Honorius__Theodosius II.jpg",
+    "bbox": [
+      64,
+      67,
+      219,
+      284
+    ],
+    "confidence": 0.6591044068336487
+  },
+  {
+    "filename": "637_obv_Arcadius__Honorius__Theodosius II.jpg",
+    "bbox": [
+      62,
+      55,
+      201,
+      293
+    ],
+    "confidence": 0.5616496205329895
+  },
+  {
+    "filename": "638_obv_Arcadius__Honorius__Theodosius II.jpg",
+    "bbox": [
+      73,
+      98,
+      224,
+      286
+    ],
+    "confidence": 0.4806770086288452
+  },
+  {
+    "filename": "765_obv_Arcadius__Honorius__Theodosius II.jpg",
+    "bbox": [
+      74,
+      71,
+      223,
+      286
+    ],
+    "confidence": 0.3506926894187927
+  },
+  {
+    "filename": "769_obv_Arcadius__Honorius__Theodosius II.jpg",
+    "bbox": [
+      73,
+      53,
+      228,
+      275
+    ],
+    "confidence": 0.7304706573486328
+  }
+]
