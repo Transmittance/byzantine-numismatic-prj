@@ -147,163 +147,171 @@ def print_in_color(txt_msg, fore_tupple, back_tupple,):
 
 # Класс колбеков, он дает возможность выводить доп информацию во время обучения через переопределение методов родителя
 class LRA(keras.callbacks.Callback):
-    def __init__(self,model, base_model, patience, stop_patience, threshold, factor, dwell, batches, initial_epoch, epochs, ask_epoch):
+    def __init__(self, model, base_model, patience, stop_patience, threshold, factor, dwell, batches, initial_epoch, epochs, ask_epoch):
         super(LRA, self).__init__()
-        self.model=model
+        # НЕ присваиваем self.model = model — Keras сам выставит self.model
         self.base_model = base_model
-        self.patience = patience # specifies how many epochs without improvement before learning rate is adjusted
-        self.stop_patience = stop_patience # specifies how many times to adjust lr without improvement to stop training
-        self.threshold = threshold # specifies training accuracy threshold when lr will be adjusted based on validation loss
-        self.factor = factor # factor by which to reduce the learning rate
+        self.patience = patience
+        self.stop_patience = stop_patience
+        self.threshold = threshold
+        self.factor = factor
         self.dwell = dwell
-        self.batches = batches # number of training batch to run per epoch
+        self.batches = batches
         self.initial_epoch = initial_epoch
         self.epochs = epochs
         self.ask_epoch = ask_epoch
-        self.ask_epoch_initial = ask_epoch # save this value to restore if restarting training
-        # callback variables
-        self.count = 0 # how many times lr has been reduced without improvement
+        self.ask_epoch_initial = ask_epoch
+        # служебные счётчики
+        self.count = 0
         self.stop_count = 0
-        self.best_epoch = 1   # epoch with the lowest loss
-        self.initial_lr = float(tf.keras.backend.get_value(model.optimizer.lr)) # get the initial learning rate and save it
-        self.highest_tracc = 0.0 # set highest training accuracy to 0 initially
-        self.lowest_vloss = np.inf # set lowest validation loss to infinity initially
-        self.best_weights = self.model.get_weights() # set best weights to model's initial weights
-        self.initial_weights = self.model.get_weights()   # save initial weights if they have to get restored
+        self.best_epoch = 1
+        self.highest_tracc = 0.0
+        self.lowest_vloss = np.inf
+        # Эти поля заполним в on_train_begin(), когда self.model уже доступна
+        self.initial_lr = None
+        self.best_weights = None
+        self.initial_weights = None
 
-    def on_train_begin(self, logs = None):
-        if self.base_model != None:
-            status=self.base_model.trainable
-            if status:
-                msg = 'initializing callback starting train with base_model trainable'
-            else:
-                msg = 'initializing callback starting training with base_model not trainable'
+    def on_train_begin(self, logs=None):
+        # теперь self.model уже установлен Keras
+        lr_t = self.model.optimizer.learning_rate
+        self.initial_lr = float(tf.keras.backend.get_value(lr_t))
+        self.initial_weights = self.model.get_weights()
+        self.best_weights = self.model.get_weights()
+
+        if self.base_model is not None:
+            status = self.base_model.trainable
+            msg = 'initializing callback starting train with base_model trainable' if status else \
+                  'initializing callback starting training with base_model not trainable'
         else:
             msg = 'initialing callback and starting training'
-        print_in_color (msg, (244, 252, 3), (55,65,80))
-        msg = '{0:^8s}{1:^10s}{2:^9s}{3:^9s}{4:^9s}{5:^9s}{6:^9s}{7:^10s}{8:^8s}'.format('Epoch', 'Loss', 'Accuracy',
-                                                                                              'V_loss','V_acc', 'LR', 'Next LR', 'Monitor', 'Duration')
-        print_in_color(msg, (244,252,3), (55,65,80))
+        print_in_color(msg, (244, 252, 3), (55, 65, 80))
+        hdr = '{0:^8s}{1:^10s}{2:^9s}{3:^9s}{4:^9s}{5:^9s}{6:^9s}{7:^10s}{8:^8s}'.format(
+            'Epoch','Loss','Accuracy','V_loss','V_acc','LR','Next LR','Monitor','Duration'
+        )
+        print_in_color(hdr, (244,252,3), (55,65,80))
         self.start_time = time.time()
 
-    def on_train_end(self, logs = None):
+    def on_train_end(self, logs=None):
         stop_time = time.time()
-        tr_duration = stop_time- self.start_time
+        tr_duration = stop_time - self.start_time
         hours = tr_duration // 3600
         minutes = (tr_duration - (hours * 3600)) // 60
         seconds = tr_duration - ((hours * 3600) + (minutes * 60))
-
-        self.model.set_weights(self.best_weights) # set the weights of the model to the best weights
-        msg=f'Training is completed - model is set with weights from epoch {self.best_epoch} '
+        # восстановим лучшие веса
+        self.model.set_weights(self.best_weights)
+        msg = f'Training is completed - model is set with weights from epoch {self.best_epoch} '
         print_in_color(msg, (0,255,0), (55,65,80))
         msg = f'training elapsed time was {str(hours)} hours, {minutes:4.1f} minutes, {seconds:4.2f} seconds)'
         print_in_color(msg, (0,255,0), (55,65,80))
 
     def on_train_batch_end(self, batch, logs=None):
-        acc = logs.get('accuracy')* 100  # get training accuracy
+        acc = logs.get('accuracy') * 100
         loss = logs.get('loss')
-        msg = '{0:20s}processing batch {1:4s} of {2:5s} accuracy= {3:8.3f}  loss: {4:8.5f}'.format(' ', str(batch), str(self.batches), acc, loss)
-        print(msg, '\r', end='') # prints over on the same line to show running batch count
+        msg = '{0:20s}processing batch {1:4s} of {2:5s} accuracy= {3:8.3f}  loss: {4:8.5f}'.format(
+            ' ', str(batch), str(self.batches), acc, loss
+        )
+        print(msg, '\r', end='')
 
-    def on_epoch_begin(self,epoch, logs = None):
+    def on_epoch_begin(self, epoch, logs=None):
         self.now = time.time()
 
-    def on_epoch_end(self, epoch, logs = None):  # method runs on the end of each epoch
+    def on_epoch_end(self, epoch, logs=None):
         later = time.time()
-        duration = later-self.now
-        lr=float(tf.keras.backend.get_value(self.model.optimizer.lr)) # get the current learning rate
+        duration = later - self.now
+        # читаем и будем обновлять learning_rate
+        lr = float(tf.keras.backend.get_value(self.model.optimizer.learning_rate))
         current_lr = lr
-        v_loss = logs.get('val_loss')  # get the validation loss for this epoch
-        acc = logs.get('accuracy')  # get training accuracy
-        v_acc = logs.get('val_accuracy')
-        loss = logs.get('loss')
-        # if training accuracy is below threshold adjust lr based on training accuracy
+
+        v_loss = logs.get('val_loss')
+        acc    = logs.get('accuracy')
+        v_acc  = logs.get('val_accuracy')
+        loss   = logs.get('loss')
+
         if acc < self.threshold:
             monitor = 'accuracy'
-            if acc > self.highest_tracc: # training accuracy improved in the epoch
-                self.highest_tracc = acc # set new highest training accuracy
-                self.best_weights = self.model.get_weights() # traing accuracy improved so save the weights
-                self.count = 0 # set count to 0 since training accuracy improved
-                self.stop_count = 0 # set stop counter to 0
+            if acc > self.highest_tracc:
+                self.highest_tracc = acc
+                self.best_weights = self.model.get_weights()
+                self.count = 0
+                self.stop_count = 0
                 if v_loss < self.lowest_vloss:
                     self.lowest_vloss = v_loss
                 color = (0,255,0)
-                self.best_epoch=epoch + 1  # set the value of best epoch for this epoch
+                self.best_epoch = epoch + 1
             else:
-                # training accuracy did not improve check if this has happened for patience number of epochs
-                # if so adjust learning rate
-                if self.count >= self.patience -1: # lr should be adjusted
-                    color = (245, 170, 66)
-                    lr = lr * self.factor # adjust the learning by factor
-                    tf.keras.backend.set_value(self.model.optimizer.lr, lr) # set the learning rate in the optimizer
-                    self.count = 0 # reset the count to 0
-                    self.stop_count = self.stop_count + 1 # count the number of consecutive lr adjustments
-                    self.count = 0 # reset counter
+                if self.count >= self.patience - 1:
+                    color = (245,170,66)
+                    lr = lr * self.factor
+                    tf.keras.backend.set_value(self.model.optimizer.learning_rate, lr)
+                    self.count = 0
+                    self.stop_count += 1
                     if self.dwell:
-                        self.model.set_weights(self.best_weights) # return to better point in N space
+                        self.model.set_weights(self.best_weights)
                     else:
                         if v_loss < self.lowest_vloss:
                             self.lowest_vloss = v_loss
                 else:
-                    self.count=self.count +1 # increment patience counter
-        else: # training accuracy is above threshold so adjust learning rate based on validation loss
+                    self.count += 1
+        else:
             monitor = 'val_loss'
-            if v_loss < self.lowest_vloss: # check if the validation loss improved
-                self.lowest_vloss = v_loss # replace lowest validation loss with new validation loss
-                self.best_weights = self.model.get_weights() # validation loss improved so save the weights
-                self.count = 0 # reset count since validation loss improved
+            if v_loss < self.lowest_vloss:
+                self.lowest_vloss = v_loss
+                self.best_weights = self.model.get_weights()
+                self.count = 0
                 self.stop_count = 0
-                color=(0,255,0)
-                self.best_epoch = epoch + 1 # set the value of the best epoch to this epoch
-            else: # validation loss did not improve
-                if self.count >= self.patience-1: # need to adjust lr
-                    color = (245, 170, 66)
-                    lr = lr * self.factor # adjust the learning rate
-                    self.stop_count = self.stop_count + 1 # increment stop counter because lr was adjusted
-                    self.count = 0 # reset counter
-                    tf.keras.backend.set_value(self.model.optimizer.lr, lr) # set the learning rate in the optimizer
+                color = (0,255,0)
+                self.best_epoch = epoch + 1
+            else:
+                if self.count >= self.patience - 1:
+                    color = (245,170,66)
+                    lr = lr * self.factor
+                    tf.keras.backend.set_value(self.model.optimizer.learning_rate, lr)
+                    self.stop_count += 1
+                    self.count = 0
                     if self.dwell:
-                        self.model.set_weights(self.best_weights) # return to better point in N space
+                        self.model.set_weights(self.best_weights)
                 else:
-                    self.count = self.count + 1 # increment the patience counter
+                    self.count += 1
                 if acc > self.highest_tracc:
                     self.highest_tracc = acc
-        msg=f'{str(epoch+1):^3s}/{str(self.epochs):4s} {loss:^9.3f}{acc*100:^9.3f}{v_loss:^9.5f}{v_acc*100:^9.3f}{current_lr:^9.5f}{lr:^9.5f}{monitor:^11s}{duration:^8.2f}'
-        print_in_color (msg,color, (55,65,80))
+
+        msg = f'{str(epoch+1):^3s}/{str(self.epochs):4s} {loss:^9.3f}{acc*100:^9.3f}{v_loss:^9.5f}{v_acc*100:^9.3f}{current_lr:^9.5f}{lr:^9.5f}{monitor:^11s}{duration:^8.2f}'
+        print_in_color(msg, color, (55,65,80))
 
         with open('epoch statistics.txt', 'a') as epoch_stats:
             epoch_stats.write(msg + '\n')
 
-        if self.stop_count > self.stop_patience - 1: # check if learning rate has been adjusted stop_count times with no improvement
+        if self.stop_count > self.stop_patience - 1:
             msg = f' training has been halted at epoch {epoch + 1} after {self.stop_patience} adjustments of learning rate with no improvement'
             print_in_color(msg, (0,255,255), (55,65,80))
-            self.model.stop_training = True # stop training
+            self.model.stop_training = True
         else:
-            if self.ask_epoch != None:
-                if epoch + 1 >= self.ask_epoch:
-                    msg ='enter H to halt ,F to fine tune model, or an integer for number of epochs to run then ask again'
+            if self.ask_epoch is not None and epoch + 1 >= self.ask_epoch:
+                msg = 'enter H to halt ,F to fine tune model, or an integer for number of epochs to run then ask again'
+                print_in_color(msg, (0,255,255), (55,65,80))
+                ans = input('')
+                if ans in ('H','h'):
+                    msg = f'training has been halted at epoch {epoch + 1} due to user input'
                     print_in_color(msg, (0,255,255), (55,65,80))
-                    ans=input('')
-                    if ans =='H' or ans=='h':
-                        msg =f'training has been halted at epoch {epoch + 1} due to user input'
-                        print_in_color(msg, (0,255,255), (55,65,80))
-                        self.model.stop_training = True # stop training
-                    elif ans == 'F' or ans=='f':
-                        msg ='setting base_model as trainable for fine tuning of model'
-                        self.base_model.trainable = True
-                        print_in_color(msg, (0, 255,255), (55,65,80))
-                        msg='{0:^8s}{1:^10s}{2:^9s}{3:^9s}{4:^9s}{5:^9s}{6:^9s}{7:^10s}{8:^8s}'.format('Epoch', 'Loss', 'Accuracy',
-                                                                                              'V_loss','V_acc', 'LR', 'Next LR', 'Monitor', 'Duration')
-                        print_in_color(msg, (244,252,3), (55,65,80))
-                        self.count = 0
-                        self.stop_count = 0
-                        self.ask_epoch = epoch + 1 + self.ask_epoch_initial
-
-                    else:
-                        ans=int(ans)
-                        self.ask_epoch += ans
-                        msg = f' training will continue until epoch ' + str(self.ask_epoch)
-                        print_in_color(msg, (0, 255,255), (55,65,80))
-                        msg = '{0:^8s}{1:^10s}{2:^9s}{3:^9s}{4:^9s}{5:^9s}{6:^9s}{7:^10s}{8:^8s}'.format('Epoch', 'Loss', 'Accuracy',
-                                                                                              'V_loss','V_acc', 'LR', 'Next LR', 'Monitor', 'Duration')
-                        print_in_color(msg, (244,252,3), (55,65,80))
+                    self.model.stop_training = True
+                elif ans in ('F','f'):
+                    msg ='setting base_model as trainable for fine tuning of model'
+                    self.base_model.trainable = True
+                    print_in_color(msg, (0,255,255), (55,65,80))
+                    hdr = '{0:^8s}{1:^10s}{2:^9s}{3:^9s}{4:^9s}{5:^9s}{6:^9s}{7:^10s}{8:^8s}'.format(
+                        'Epoch','Loss','Accuracy','V_loss','V_acc','LR','Next LR','Monitor','Duration'
+                    )
+                    print_in_color(hdr, (244,252,3), (55,65,80))
+                    self.count = 0
+                    self.stop_count = 0
+                    self.ask_epoch = epoch + 1 + self.ask_epoch_initial
+                else:
+                    ans = int(ans)
+                    self.ask_epoch += ans
+                    msg = ' training will continue until epoch ' + str(self.ask_epoch)
+                    print_in_color(msg, (0,255,255), (55,65,80))
+                    hdr = '{0:^8s}{1:^10s}{2:^9s}{3:^9s}{4:^9s}{5:^9s}{6:^9s}{7:^10s}{8:^8s}'.format(
+                        'Epoch','Loss','Accuracy','V_loss','V_acc','LR','Next LR','Monitor','Duration'
+                    )
+                    print_in_color(hdr, (244,252,3), (55,65,80))
