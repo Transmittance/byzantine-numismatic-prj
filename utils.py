@@ -172,10 +172,27 @@ class LRA(keras.callbacks.Callback):
         self.best_weights = None
         self.initial_weights = None
 
+    def _read_lr(self):
+        lr_obj = self.model.optimizer.learning_rate
+        # если это Variable/Tensor — читаем через K.get_value; иначе (float/число) — просто каст
+        try:
+            return float(tf.keras.backend.get_value(lr_obj))
+        except Exception:
+            return float(lr_obj)
+
+    def _write_lr(self, new_lr: float):
+        lr_obj = self.model.optimizer.learning_rate
+        # если это Variable — меняем через assign; иначе просто переустанавливаем атрибут
+        if hasattr(lr_obj, "assign"):
+            lr_obj.assign(float(new_lr))
+        else:
+            self.model.optimizer.learning_rate = float(new_lr)
+
+
     def on_train_begin(self, logs=None):
         # теперь self.model уже установлен Keras
         lr_t = self.model.optimizer.learning_rate
-        self.initial_lr = float(tf.keras.backend.get_value(lr_t))
+        self.initial_lr = self._read_lr()
         self.initial_weights = self.model.get_weights()
         self.best_weights = self.model.get_weights()
 
@@ -220,8 +237,8 @@ class LRA(keras.callbacks.Callback):
         later = time.time()
         duration = later - self.now
         # читаем и будем обновлять learning_rate
-        lr = float(tf.keras.backend.get_value(self.model.optimizer.learning_rate))
-        current_lr = lr
+        current_lr = self._read_lr()
+        lr = current_lr
 
         v_loss = logs.get('val_loss')
         acc    = logs.get('accuracy')
@@ -243,7 +260,7 @@ class LRA(keras.callbacks.Callback):
                 if self.count >= self.patience - 1:
                     color = (245,170,66)
                     lr = lr * self.factor
-                    tf.keras.backend.set_value(self.model.optimizer.learning_rate, lr)
+                    self._write_lr(lr)
                     self.count = 0
                     self.stop_count += 1
                     if self.dwell:
@@ -266,7 +283,7 @@ class LRA(keras.callbacks.Callback):
                 if self.count >= self.patience - 1:
                     color = (245,170,66)
                     lr = lr * self.factor
-                    tf.keras.backend.set_value(self.model.optimizer.learning_rate, lr)
+                    self._write_lr(lr)
                     self.stop_count += 1
                     self.count = 0
                     if self.dwell:
