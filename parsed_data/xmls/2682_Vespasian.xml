@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>2012.82.63</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-16T17:53:17Z">May 16 2024 at 17:53:17</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Bronze Coin of Herod Agrippa II, Caesareia Panias, 75–77. 2012.82.63</title>
+    <descriptionSet>
+      <description xml:lang="en">Flavian coinage; Greek series.</description>
+    </descriptionSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <dateRange>
+        <fromDate standardDate="0075">75</fromDate>
+        <toDate standardDate="0077">77</toDate>
+      </dateRange>
+      <material xlink:href="http://nomisma.org/id/ae" xlink:type="simple">Bronze</material>
+      <authority>
+        <persname xlink:role="authority" xlink:href="http://nomisma.org/id/herod_agrippa_ii_judaea" xlink:type="simple">Herod Agrippa II</persname>
+        <corpname xlink:role="state" xlink:href="http://nomisma.org/id/judaean_kingdom" xlink:type="simple">Kingdom of Judaea</corpname>
+      </authority>
+      <geographic>
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/caesareia_panias" xlink:type="simple">Caesareia Panias</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/trachonitis" xlink:type="simple">Trachonitis</geogname>
+      </geographic>
+      <obverse>
+        <legend>ΑΥΤΟΚ[ΡΑ] ΟΥΕCΠΑCΙ -- ΑΝΩ ΚΑΙCΑ[Ρ CΕ]ΒΑC[ΤΩ]</legend>
+        <type>
+          <description xml:lang="en">Laureate bust of Vespasian to r.</description>
+        </type>
+        <persname xlink:href="http://nomisma.org/id/vespasian" xlink:role="portrait" xlink:type="simple">Vespasian</persname>
+      </obverse>
+      <reverse>
+        <legend>ΒΑC[ΙΛΕωC] ΑΓΡΙΠΠΑ -- ΕΤΟΥC ΚΖ</legend>
+        <type>
+          <description xml:lang="en">Tyche holding kalathos standing to l., in short dress, holding cornucopia in l. hand and resting her extended r. hand on rudder stemming from globe; star in upper l. field.</description>
+        </type>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>12</axis>
+      <measurementsSet>
+        <weight units="g">18.09</weight>
+        <diameter units="mm">35</diameter>
+      </measurementsSet>
+    </physDesc>
+    <refDesc>
+      <reference xlink:href="https://rpc.ashmus.ox.ac.uk/type/7862" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RPC II, 2282</reference>
+      <reference>
+        <tei:title>GBC.6316</tei:title>
+      </reference>
+      <reference>
+        <tei:title>Sofaer.237</tei:title>
+      </reference>
+      <reference>
+        <tei:title>M.Treasure.167(this coin)</tei:title>
+      </reference>
+      <citation>RPC.II.2282(this coin)</citation>
+    </refDesc>
+    <adminDesc>
+      <identifier>2012.82.63</identifier>
+      <lot>2012.82</lot>
+      <department>Greek</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F20002049%2F2012%2F2012.82.63.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2012/2012.82.63.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2012/2012.82.63.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2012/2012.82.63.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F20002049%2F2012%2F2012.82.63.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2012/2012.82.63.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2012/2012.82.63.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2012/2012.82.63.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

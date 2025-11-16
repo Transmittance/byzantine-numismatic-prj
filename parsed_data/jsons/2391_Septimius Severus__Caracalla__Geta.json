@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.50179",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.50179",
+    "title": "Gold Aureus of Septimius Severus, Rome, 200. 1944.100.50179",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Septimius Severus",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/aureus",
+    "cat": "RIC IV Septimius Severus 155A",
+    "Obverse_leg": "SEVERVS AVG PART MAX",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.15 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate right, with lion-skin",
+      "reverse": "Caracalla and Geta busts confronted"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50179.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50179.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50179.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50179.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50179.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50179.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50179.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50179.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1906.236.521",
+    "coin_page_url": "https://numismatics.org/collection/1906.236.521",
+    "title": "Bronze Sestertius of Severus Alexander, Rome, 222–231. 1906.236.521",
+    "date_range": {
+      "from": "0222",
+      "to": "0231"
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC IV Severus Alexander 616b",
+    "Obverse_leg": "[I]MP SEV ALEXANDER AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "20.05 g",
+      "diameter": "28 mm"
+    },
+    "descriptions": {
+      "obverse": "Head, laureate, draped on left shoulder, right",
+      "reverse": "Victory, standing right, right foot on helmet, engraving VOT X onto shield set on palm tree"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1906/1906.236.521.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.521.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.521.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.521.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1906/1906.236.521.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.521.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.521.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.521.rev.width175.jpg"
+      }
+    ]
+  }
+}

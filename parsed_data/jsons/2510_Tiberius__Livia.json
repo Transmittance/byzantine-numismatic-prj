@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1984.66.424",
+    "coin_page_url": "https://numismatics.org/collection/1984.66.424",
+    "title": "Bronze Coin of Tiberius, Thapsus, 16–21. 1984.66.424",
+    "date_range": {
+      "from": "0016",
+      "to": "0021"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC I, 796",
+    "Obverse_leg": "TI CAE DIVI AVG F AVG IMP VII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "11.65 g",
+      "diameter": "28 mm"
+    },
+    "descriptions": {
+      "obverse": "Augustus hd.",
+      "reverse": "Livia hd. veiled"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1984/1984.66.424.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.66.424.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.66.424.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.66.424.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1984/1984.66.424.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.66.424.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.66.424.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.66.424.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.41000",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.41000",
+    "title": "Bronze Coin of Aspurgus of Bosporus, Bosporus, 8 BCE–38. 1944.100.41000",
+    "date_range": {
+      "from": "-0008",
+      "to": "0038"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC I, 1904",
+    "Obverse_leg": "ΓΑΙΟΥ ΚΑΙΣΑΡΟΣ ΓΕΡΜΑΝΙΚΟΥ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "6.76 g",
+      "diameter": "24 mm"
+    },
+    "descriptions": {
+      "obverse": "Caligula hd.",
+      "reverse": "Rhescuporis I hd."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.41000.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.41000.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.41000.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.41000.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.41000.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.41000.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.41000.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.41000.rev.width175.jpg"
+      }
+    ]
+  }
+}

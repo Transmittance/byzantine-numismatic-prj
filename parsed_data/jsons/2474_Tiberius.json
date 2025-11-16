@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1998.18.76",
+    "coin_page_url": "https://numismatics.org/collection/1998.18.76",
+    "title": "Coin of Augustus, Eumeneia, 27 BCE–14. 1998.18.76",
+    "date_range": {
+      "from": "-0027",
+      "to": "0014"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": null,
+    "denomination": null,
+    "cat": "RPC I, 3147",
+    "Obverse_leg": "ΣΕΒΑΣΤΟΣ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "4.31 g",
+      "diameter": "18 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Augustus r.",
+      "reverse": "Zeus stdg. l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1998/1998.18.76.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1998/1998.18.76.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1998/1998.18.76.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1998/1998.18.76.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1998/1998.18.76.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1998/1998.18.76.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1998/1998.18.76.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1998/1998.18.76.rev.width175.jpg"
+      }
+    ]
+  }
+}

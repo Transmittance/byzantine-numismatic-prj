@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49773",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49773",
+    "title": "Bronze Sestertius of Commodus, Rome, 192. 1944.100.49773",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC III Commodus 614Aa",
+    "Obverse_leg": "L AEL AVREL COMM AVG P FEL",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "25.22 g",
+      "diameter": "30 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Commodus, laureate, right",
+      "reverse": "Commodus, standing, clasping hands over lighted altar with Serapis, Victory crowns Commodus"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49773.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49773.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49773.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49773.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49773.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49773.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49773.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49773.rev.width175.jpg"
+      }
+    ]
+  }
+}

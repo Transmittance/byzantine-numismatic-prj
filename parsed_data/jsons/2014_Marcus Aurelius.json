@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49162",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49162",
+    "title": "Bronze As of Marcus Aurelius, Rome, 165–166. 1944.100.49162",
+    "date_range": {
+      "from": "0165",
+      "to": "0166"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RIC III Marcus Aurelius 921",
+    "Obverse_leg": "M ANTONINVS AVG ARMENIACVS P M",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "11.62 g",
+      "diameter": "27 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, cuirassed, right",
+      "reverse": "Roma seated, left holding palladium and vertical spear, to left shield"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49162.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49162.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49162.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49162.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49162.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49162.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49162.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49162.rev.width175.jpg"
+      }
+    ]
+  }
+}

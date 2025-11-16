@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1952.142.335",
+    "coin_page_url": "https://numismatics.org/collection/1952.142.335",
+    "title": "Silver Didrachm of Vespasian, Uncertain value, 76–77. 1952.142.335",
+    "date_range": {
+      "from": "0076",
+      "to": "0077"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/didrachm",
+    "cat": "RPC II, 1811",
+    "Obverse_leg": "DOMITIANOS KAISAR",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "5.04 g",
+      "diameter": "21 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Temple of Aphrodite at Paphos, conical image within"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1952/1952.142.335.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.335.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.335.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.335.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1952/1952.142.335.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.335.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.335.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.335.rev.width175.jpg"
+      }
+    ]
+  }
+}

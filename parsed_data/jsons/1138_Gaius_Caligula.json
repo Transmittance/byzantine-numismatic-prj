@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1906.236.218",
+    "coin_page_url": "https://numismatics.org/collection/1906.236.218",
+    "title": "Bronze Quadrans of Gaius/Caligula, Rome, 39–41. 1906.236.218",
+    "date_range": {
+      "from": "0039",
+      "to": "0041"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/quadrans",
+    "cat": "RIC I (second edition) Gaius/Caligula 52",
+    "Obverse_leg": "C CAESAR DIVI AVG PRON AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.05 g",
+      "diameter": "17 mm"
+    },
+    "descriptions": {
+      "obverse": "Pileus flanked by S C",
+      "reverse": "Legend surrounding RCC large in center of field"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1906/1906.236.218.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.218.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.218.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.218.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1906/1906.236.218.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.218.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.218.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.218.rev.width175.jpg"
+      }
+    ]
+  }
+}

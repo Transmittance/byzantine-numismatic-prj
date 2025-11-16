@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1967.153.29",
+    "coin_page_url": "https://numismatics.org/collection/1967.153.29",
+    "title": "Gold Aureus of Roman Republic, Uncertain value, 43 BCE. 1967.153.29",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/aureus",
+    "cat": "RRC 490/2",
+    "Obverse_leg": "C.CAESAR.COS.PONT.AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "8.099 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Octavian r., bearded",
+      "reverse": "Laureate head of Caesar r."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1967/1967.153.29.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.29.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.29.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.29.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1967/1967.153.29.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.29.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.29.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.29.rev.width175.jpg"
+      }
+    ]
+  }
+}

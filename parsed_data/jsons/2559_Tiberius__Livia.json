@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.43321",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.43321",
+    "title": "Bronze Coin of Tiberius, Pergamum, 14–29. 1944.100.43321",
+    "date_range": {
+      "from": "0014",
+      "to": "0029"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC I, 2369",
+    "Obverse_leg": "ΣΕΒΑΣΤΟΙ ΕΠΙ ΠΕΤΡΩΝΙΟΥ ΤΟ Ϛ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "6.53 g",
+      "diameter": "21 mm"
+    },
+    "descriptions": {
+      "obverse": "Tiberius and Livia hd. confronted",
+      "reverse": "Tiberius stg. within tetrastyle temple"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.43321.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.43321.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.43321.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.43321.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.43321.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.43321.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.43321.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.43321.rev.width175.jpg"
+      }
+    ]
+  }
+}

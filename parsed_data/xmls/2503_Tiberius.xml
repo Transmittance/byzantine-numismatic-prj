@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>1944.100.79334</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-13T14:10:22Z">May 13 2024 at 14:10:22</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Bronze Coin of Tiberius, Damascus, 16–17. 1944.100.79334</title>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <dateRange>
+        <fromDate standardDate="0016">16</fromDate>
+        <toDate standardDate="0017">17</toDate>
+      </dateRange>
+      <material xlink:href="http://nomisma.org/id/ae" xlink:type="simple">Bronze</material>
+      <authority>
+        <persname xlink:role="authority" xlink:href="http://nomisma.org/id/tiberius" xlink:type="simple">Tiberius</persname>
+        <corpname xlink:role="state" xlink:href="http://nomisma.org/id/roman_empire" xlink:type="simple">Roman Empire</corpname>
+      </authority>
+      <geographic>
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/damascus" xlink:type="simple">Damascus</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/coele-syria" xlink:type="simple">Coele-Syria</geogname>
+      </geographic>
+      <obverse>
+        <legend>ΤΙΒΕΡΙΟΣ ΚΑΙΣΑΡ</legend>
+        <type>
+          <description xml:lang="en">Laureate head r.</description>
+        </type>
+        <persname xlink:href="http://nomisma.org/id/tiberius" xlink:role="portrait" xlink:type="simple">Tiberius</persname>
+      </obverse>
+      <reverse>
+        <legend>ΔΑΜΑΣΚΗΝΩΝ L ΕΛΤ</legend>
+        <type>
+          <description xml:lang="en">Caduceus</description>
+        </type>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>1</axis>
+      <measurementsSet>
+        <weight units="g">6.27</weight>
+        <diameter units="mm">20</diameter>
+      </measurementsSet>
+    </physDesc>
+    <refDesc>
+      <reference xlink:href="https://rpc.ashmus.ox.ac.uk/type/64668" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RPC I, 4799</reference>
+      <reference>
+        <tei:title>deSaulcy 3</tei:title>
+      </reference>
+      <reference>
+        <tei:title>RPC 4799</tei:title>
+      </reference>
+    </refDesc>
+    <adminDesc>
+      <identifier>1944.100.79334</identifier>
+      <lot>1944.100</lot>
+      <department>Greek</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+      <provenance>
+        <chronList>
+          <chronItem>
+            <previousColl>Rouvier Coll.</previousColl>
+          </chronItem>
+        </chronList>
+      </provenance>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.79334.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.79334.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.79334.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.79334.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.79334.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.79334.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.79334.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.79334.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

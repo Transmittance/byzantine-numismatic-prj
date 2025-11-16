@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2016.35.72",
+    "coin_page_url": "https://numismatics.org/collection/2016.35.72",
+    "title": "Bronze As of Tiberius, Hispalis, 14–37. 2016.35.72",
+    "date_range": {
+      "from": "0014",
+      "to": "0037"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RPC I, 74",
+    "Obverse_leg": "PERM DIVI AVG COL ROM",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "13.18 g",
+      "diameter": "27 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. l.",
+      "reverse": "Facing heads of Germanicus and Drusus Minor"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.35.72.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.72.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.72.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.72.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.35.72.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.72.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.72.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.72.rev.width175.jpg"
+      }
+    ]
+  }
+}

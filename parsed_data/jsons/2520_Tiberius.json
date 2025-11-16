@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.69914",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.69914",
+    "title": "Bronze As of Tiberius, Tarraco, 14–37. 1944.100.69914",
+    "date_range": {
+      "from": "0014",
+      "to": "0037"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RPC I, 225",
+    "Obverse_leg": "TI CAESAR DIVI AVG F AVGVSTVS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "19.43 g",
+      "diameter": "32 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Palm tree on altar"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.69914.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.69914.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.69914.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.69914.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.69914.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.69914.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.69914.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.69914.rev.width175.jpg"
+      }
+    ]
+  }
+}

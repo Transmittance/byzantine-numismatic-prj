@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.63463",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.63463",
+    "title": "Silver Tetradrachm of Vespasian, Antioch, Syria, 69–70. 1944.100.63463",
+    "date_range": {
+      "from": "0069",
+      "to": "0070"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/tetradrachm",
+    "cat": "RPC II, 1944",
+    "Obverse_leg": "AVTOKRAT KAISA OVESPASIANOV [four-barred E and S]",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "13.52 g",
+      "diameter": "25 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laur. dr. l. on eagle l.",
+      "reverse": "Head of Titus laur. r.; behind, lituus"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.63463.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63463.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63463.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63463.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.63463.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63463.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63463.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63463.rev.width175.jpg"
+      }
+    ]
+  }
+}

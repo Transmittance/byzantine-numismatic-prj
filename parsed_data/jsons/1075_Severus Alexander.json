@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1905.57.583",
+    "coin_page_url": "https://numismatics.org/collection/1905.57.583",
+    "title": "Silver Denarius of Severus Alexander, Rome, 223. 1905.57.583",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC IV Severus Alexander 27",
+    "Obverse_leg": "IMP C M AVR SEV ALEXAND AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.02 g",
+      "diameter": "18.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust, laureate, draped, right",
+      "reverse": "Pax, standing front, holding branch in right and vertical sceptre in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1905/1905.57.583.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.583.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.583.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.583.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1905/1905.57.583.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.583.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.583.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1905/1905.57.583.rev.width175.jpg"
+      }
+    ]
+  }
+}

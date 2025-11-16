@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1954.203.19",
+    "coin_page_url": "https://numismatics.org/collection/1954.203.19",
+    "title": "Bronze AE1 of Constantine I, Londinium, 307–310. 1954.203.19",
+    "date_range": {
+      "from": "0307",
+      "to": "0310"
+    },
+    "obverse_portrait": "Constantius Chlorus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae1",
+    "cat": "RIC VI Londinium 110",
+    "Obverse_leg": "DIVO CONSTANTIO PIO",
+    "rev_symbol": "-/-//PLN",
+    "measurements": {
+      "weight": "5.23 g",
+      "diameter": "25 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust veiled laureate right",
+      "reverse": "Lighted altar flanked by eagles"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1954/1954.203.19.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.19.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.19.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.19.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1954/1954.203.19.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.19.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.19.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.19.rev.width175.jpg"
+      }
+    ]
+  }
+}

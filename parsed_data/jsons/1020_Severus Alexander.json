@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1946.35.90",
+    "coin_page_url": "https://numismatics.org/collection/1946.35.90",
+    "title": "Bronze Sestertius of Severus Alexander, Rome, 231–235. 1946.35.90",
+    "date_range": {
+      "from": "0231",
+      "to": "0235"
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC IV Severus Alexander 648c",
+    "Obverse_leg": "[IM]P ALEXANDER PIVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "19.65 g",
+      "diameter": "31 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate draped right",
+      "reverse": "Spes standing left holding flower in right and raising skirt with left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1946/1946.35.90.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.35.90.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.35.90.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.35.90.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1946/1946.35.90.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.35.90.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.35.90.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.35.90.rev.width175.jpg"
+      }
+    ]
+  }
+}

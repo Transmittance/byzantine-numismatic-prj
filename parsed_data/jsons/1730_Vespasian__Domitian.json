@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1911.87.9",
+    "coin_page_url": "https://numismatics.org/collection/1911.87.9",
+    "title": "Silver Didrachm of Vespasian, Caesarea in Cappadocia, 77–78. 1911.87.9",
+    "date_range": {
+      "from": "0077",
+      "to": "0078"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/didrachm",
+    "cat": "\n        ",
+    "Obverse_leg": "AVTOKRA KAISAR OVESPASIANOS SEBASTOS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "6.42 g",
+      "diameter": "19.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Domitian togate stg. l. holding olive branch in r."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1911/1911.87.9.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1911/1911.87.9.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1911/1911.87.9.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1911/1911.87.9.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1911/1911.87.9.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1911/1911.87.9.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1911/1911.87.9.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1911/1911.87.9.rev.width175.jpg"
+      }
+    ]
+  }
+}

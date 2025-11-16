@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1995.11.1541",
+    "coin_page_url": "https://numismatics.org/collection/1995.11.1541",
+    "title": "Bronze Sestertius of Gaius/Caligula, Rome, 40–41. 1995.11.1541",
+    "date_range": {
+      "from": "0040",
+      "to": "0041"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC I (second edition) Gaius/Caligula 53",
+    "Obverse_leg": "C CAESAR DIVI AVG PRON AVG P M TR P IIII P P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "22.62 g",
+      "diameter": "35.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Caligula, laureate, left",
+      "reverse": "Legend in four lines in oak-wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1995/1995.11.1541.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1541.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1541.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1541.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1995/1995.11.1541.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1541.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1541.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1541.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1967.153.111",
+    "coin_page_url": "https://numismatics.org/collection/1967.153.111",
+    "title": "Gold Aureus of Gaius/Caligula, Rome, 40. 1967.153.111",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/aureus",
+    "cat": "RIC I (second edition) Gaius/Caligula 23",
+    "Obverse_leg": "C CAESAR AVG PON M TR POT III COS III",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.72 g",
+      "diameter": "18.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Caligula, laureate, right",
+      "reverse": "Head of Augustus, radiate, right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1967/1967.153.111.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.111.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.111.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.111.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1967/1967.153.111.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.111.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.111.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.111.rev.width175.jpg"
+      }
+    ]
+  }
+}

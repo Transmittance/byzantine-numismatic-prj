@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1947.2.458",
+    "coin_page_url": "https://numismatics.org/collection/1947.2.458",
+    "title": "Bronze Sestertius of Hadrian, Rome, 121–122. 1947.2.458",
+    "date_range": {
+      "from": "0121",
+      "to": "0122"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC II Hadrian 610",
+    "Obverse_leg": "IMP CAESAR TRAIAN HADRIANVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "25.09 g",
+      "diameter": "32 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Hadrian, laureate, draped, cuirassed, right",
+      "reverse": "Ceres, draped, wearing wreath of corn-ears, standing left, holding two corn-ears in right hand and long vertical torch in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1947/1947.2.458.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1947/1947.2.458.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1947/1947.2.458.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1947/1947.2.458.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1947/1947.2.458.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1947/1947.2.458.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1947/1947.2.458.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1947/1947.2.458.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.3162",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.3162",
+    "title": "Bronze AE1 of Diocletian, Antioch, Syria, 297. 0000.999.3162",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Constantius Chlorus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae1",
+    "cat": "RIC VI Antioch 49a",
+    "Obverse_leg": "FL VAL CONSTANTIVS NOB CAES",
+    "rev_symbol": "-/(crescent on S)//ANT",
+    "measurements": {
+      "weight": "8.45 g",
+      "diameter": "27 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate right",
+      "reverse": "Genius standing left pouring liquid from patera in right and cornucopiae in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.3162.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3162.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3162.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3162.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.3162.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3162.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3162.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3162.rev.width175.jpg"
+      }
+    ]
+  }
+}

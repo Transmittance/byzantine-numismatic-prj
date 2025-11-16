@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.7552",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.7552",
+    "title": "Bronze Coin of Domitian, Larissa, Thessaly, 81–96. 0000.999.7552",
+    "date_range": {
+      "from": "0081",
+      "to": "0096"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC II, 281",
+    "Obverse_leg": "ΔΟΜΙΤΙΑΝΟΝ ΚΑΙΣΑΡΑ ΘΕΣΣΑΛΟΙ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.27 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Domitian head",
+      "reverse": "Domitia head"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.7552.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.7552.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.7552.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.7552.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.7552.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.7552.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.7552.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.7552.rev.width175.jpg"
+      }
+    ]
+  }
+}

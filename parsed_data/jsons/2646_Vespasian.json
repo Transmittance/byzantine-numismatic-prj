@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.57811",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.57811",
+    "title": "Silver Didrachm of Vespasian, Caesarea in Cappadocia, 70–79. 1944.100.57811",
+    "date_range": {
+      "from": "0070",
+      "to": "0079"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/didrachm",
+    "cat": "\n        ",
+    "Obverse_leg": "AVTOKRA KAISAR OVESPASIANOS SEBASTOS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "6.96 g",
+      "diameter": "19 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Head laur. r."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.57811.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.57811.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.57811.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.57811.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.57811.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.57811.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.57811.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.57811.rev.width175.jpg"
+      }
+    ]
+  }
+}

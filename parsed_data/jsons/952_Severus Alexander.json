@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.52605",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.52605",
+    "title": "Bronze As of Severus Alexander, Rome, 229. 1944.100.52605",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RIC IV Severus Alexander 498b",
+    "Obverse_leg": "IMP SEV ALEXANDER AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "9.45 g",
+      "diameter": "24 mm"
+    },
+    "descriptions": {
+      "obverse": "Head, laureate, right",
+      "reverse": "Severus Alexander, in quadriga, right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.52605.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52605.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52605.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52605.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.52605.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52605.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52605.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52605.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49657",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49657",
+    "title": "Bronze Sestertius of Marcus Aurelius, Rome, 177. 1944.100.49657",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC III Marcus Aurelius 1590",
+    "Obverse_leg": "L AVREL COMMODVS AVG TR P III",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "22.06 g",
+      "diameter": "27 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, cuirassed, right",
+      "reverse": "Libertas standing, front, holding pileus and vertical sceptre"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49657.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49657.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49657.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49657.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49657.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49657.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49657.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49657.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.32528",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.32528",
+    "title": "Bronze Medallion of Marcus Aurelius, 161–180. 0000.999.32528",
+    "date_range": {
+      "from": "0161",
+      "to": "0180"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": null,
+    "Obverse_leg": "M ANTONINVS AVG TR P XXVIII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "37.09 g",
+      "diameter": "36 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Emperor riding chariot l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.32528.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.32528.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.32528.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.32528.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.32528.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.32528.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.32528.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.32528.rev.width175.jpg"
+      }
+    ]
+  }
+}

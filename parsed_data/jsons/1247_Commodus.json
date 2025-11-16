@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.19984",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.19984",
+    "title": "Silver Antoninianus of Trajan Decius, Mediolanum, 250–251. 1944.100.19984",
+    "date_range": {
+      "from": "0250",
+      "to": "0251"
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/antoninianus",
+    "cat": "RIC IV Trajan Decius 93",
+    "Obverse_leg": "DIVO COMMODO",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.568 g",
+      "diameter": "21 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Divus Commodus, radiate, right",
+      "reverse": "Eagle, with open wings, standing front on bar, head right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.19984.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.19984.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.19984.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.19984.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.19984.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.19984.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.19984.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.19984.rev.width175.jpg"
+      }
+    ]
+  }
+}

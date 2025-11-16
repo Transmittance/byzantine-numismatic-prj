@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1956.127.118",
+    "coin_page_url": "https://numismatics.org/collection/1956.127.118",
+    "title": "Silver Denarius of Hadrian, Rome, 119–122. 1956.127.118",
+    "date_range": {
+      "from": "0119",
+      "to": "0122"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC II Hadrian 94b",
+    "Obverse_leg": "IMP CAESAR TRAIAN HADRIANVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.92 g",
+      "diameter": "17.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Hadrian, laureate, draped on left shoulder, right",
+      "reverse": "Pax standing left, holding branch in right and cornucopiae in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.118.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.118.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.118.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.118.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.118.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.118.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.118.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.118.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.69590",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.69590",
+    "title": "Billon Tetradrachm of Tiberius, Alexandria, 20–21. 1944.100.69590",
+    "date_range": {
+      "from": "0020",
+      "to": "0021"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/billon",
+    "denomination": "http://nomisma.org/id/tetradrachm",
+    "cat": "\n        ",
+    "Obverse_leg": "A",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "13.62 g",
+      "diameter": "27 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Augustus head rad. r."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.69590.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.69590.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.69590.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.69590.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.69590.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.69590.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.69590.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.69590.rev.width175.jpg"
+      }
+    ]
+  }
+}

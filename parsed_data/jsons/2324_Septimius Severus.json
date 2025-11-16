@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.50112",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.50112",
+    "title": "Silver Denarius of Septimius Severus, Rome, 210–211. 1944.100.50112",
+    "date_range": {
+      "from": "0210",
+      "to": "0211"
+    },
+    "obverse_portrait": "Septimius Severus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC IV Septimius Severus 332",
+    "Obverse_leg": "SEVERVS PIVS AVG BRIT",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.76 g",
+      "diameter": "19 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate, right",
+      "reverse": "Victory advancing right holding wreath and palm"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50112.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50112.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50112.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50112.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50112.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50112.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50112.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50112.rev.width175.jpg"
+      }
+    ]
+  }
+}

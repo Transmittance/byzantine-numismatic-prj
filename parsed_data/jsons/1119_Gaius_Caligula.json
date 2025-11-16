@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1995.110.14",
+    "coin_page_url": "https://numismatics.org/collection/1995.110.14",
+    "title": "Bronze Sestertius of Gaius/Caligula, Rome, 40–41. 1995.110.14",
+    "date_range": {
+      "from": "0040",
+      "to": "0041"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC I (second edition) Gaius/Caligula 48",
+    "Obverse_leg": "[C C]AESAR DIVI AVG PRON AVG P M TR P IIII P P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "27.77 g",
+      "diameter": "35 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Caligula, laureate, left",
+      "reverse": "Caligula, bare-headed and togate, standing left on low platform, on right, extending right hand to five soldiers standing in front of him, helmeted with shields and parazonia; the two rearmost pairs carry an aquila"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1995/1995.110.14.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.110.14.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.110.14.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.110.14.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1995/1995.110.14.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.110.14.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.110.14.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.110.14.rev.width175.jpg"
+      }
+    ]
+  }
+}

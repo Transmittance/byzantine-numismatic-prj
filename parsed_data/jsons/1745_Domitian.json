@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2016.15.280",
+    "coin_page_url": "https://numismatics.org/collection/2016.15.280",
+    "title": "Bronze Coin of Herod Agrippa II, Caesareia Panias, 75–77. 2016.15.280",
+    "date_range": {
+      "from": "0075",
+      "to": "0077"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "\n        ",
+    "Obverse_leg": "ΑΥΤΟΚΡΑ ΚΑΙCAP TITOC KAI ΔΟΜIΤΙΑΝΟC",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "19.39 g",
+      "diameter": "29.6 mm"
+    },
+    "descriptions": {
+      "obverse": "\"Emperors Caesar Titus and Domitian,\" Titus (on left) and Domitian confronted laureate busts.",
+      "reverse": "\"of King Agrippa, Year 27,\" Pan walks l., playing pipes (syrinx) held in r. hand and holds pedum over l. shoulder, tree trunk on r., small crescent in upper l. field."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.15.280.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.280.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.280.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.280.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.15.280.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.280.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.280.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.280.rev.width175.jpg"
+      }
+    ]
+  }
+}

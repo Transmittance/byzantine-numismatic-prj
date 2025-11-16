@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2016.35.685",
+    "coin_page_url": "https://numismatics.org/collection/2016.35.685",
+    "title": "Bronze As of Gaius/Caligula, Caesaraugusta, 38–41. 2016.35.685",
+    "date_range": {
+      "from": "0038",
+      "to": "0041"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RPC I, 375",
+    "Obverse_leg": "\n          ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "12.66 g",
+      "diameter": "30 mm"
+    },
+    "descriptions": {
+      "obverse": "Head bare l.",
+      "reverse": "Priest ploughing with yoke of oxen, r."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.35.685.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.685.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.685.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.685.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.35.685.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.685.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.685.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.685.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1952.142.326",
+    "coin_page_url": "https://numismatics.org/collection/1952.142.326",
+    "title": "Bronze Coin of Vespasian, Cyprus, 69–79. 1952.142.326",
+    "date_range": {
+      "from": "0069",
+      "to": "0079"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC II, 1821",
+    "Obverse_leg": "ΟΥΕΣΠΑΣΙΑΝΟΣ ΣΕΒΑΣΤΟΣ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "12.84 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Vespasian hd. laur. r.",
+      "reverse": "Temple of Aphrodite at Paphos, conical image within"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1952/1952.142.326.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.326.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.326.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.326.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1952/1952.142.326.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.326.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.326.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.326.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.16797",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.16797",
+    "title": "Bronze As of Tiberius, Rome, 34–35. 0000.999.16797",
+    "date_range": {
+      "from": "0034",
+      "to": "0035"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "\n        ",
+    "Obverse_leg": "TI CAESAR DIVI AVG F AVGVST IMP VIII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "10.36 g",
+      "diameter": "32.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Tiberius, laureate, left",
+      "reverse": "Winged caduceus upright"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.16797.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.16797.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.16797.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.16797.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.16797.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.16797.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.16797.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.16797.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>1953.171.1320</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-06-10T11:12:01Z">June 10 2024 at 11:12:01</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Bronze Dupondius of Gaius/Caligula, Rome, 37–41. 1953.171.1320</title>
+    <subjectSet>
+      <subject xml:id="f319885b-5d75-3ad8-a9e9-6709324f6507--5c25a387-f992-3cd0-ae33-4bf1f6b38255--1843e6b0-5c1c-356b-a701-25b5cc78ed0b" localType="category">Roman--Imperial--Julioclaudians</subject>
+    </subjectSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <dateRange>
+        <fromDate standardDate="0037">37</fromDate>
+        <nuds:toDate xmlns:nuds="http://nomisma.org/nuds" standardDate="0041">41</nuds:toDate>
+      </dateRange>
+      <nuds:denomination xmlns:nuds="http://nomisma.org/nuds" xlink:href="http://nomisma.org/id/dupondius" xlink:type="simple">Dupondius</nuds:denomination>
+      <material xlink:href="http://nomisma.org/id/ae" xlink:type="simple">Bronze</material>
+      <authority>
+        <persname xlink:role="authority" xlink:href="http://nomisma.org/id/gaius" xlink:type="simple">Gaius/Caligula</persname>
+        <corpname xlink:role="state" xlink:href="http://nomisma.org/id/roman_empire" xlink:type="simple">Roman Empire</corpname>
+      </authority>
+      <geographic>
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/rome" xlink:type="simple">Rome</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/latium" xlink:type="simple">Latium</geogname>
+      </geographic>
+      <nuds:obverse xmlns:nuds="http://nomisma.org/nuds">
+        <legend>DIVVS AVGVSTVS S C</legend>
+        <nuds:type>
+          <description xml:lang="en">Head of Augustus, radiate, left</description>
+        </nuds:type>
+        <persname xlink:href="http://nomisma.org/id/augustus" xlink:role="portrait" xlink:type="simple">Augustus</persname>
+      </nuds:obverse>
+      <reverse>
+        <legend>CONSENSV SENAT ET EQ ORDIN P Q R</legend>
+        <nuds:type xmlns:nuds="http://nomisma.org/nuds">
+          <description xml:lang="en">Augustus(or Caligula), laureate and togate, seated, left, on curule chair, holding branch in right hand and resting left hand against side</description>
+        </nuds:type>
+        <persname xlink:href="http://nomisma.org/id/augustus" xlink:role="portrait" xlink:type="simple">Augustus</persname>
+        <persname xlink:href="http://nomisma.org/id/gaius" xlink:role="portrait" xlink:type="simple">Gaius/Caligula</persname>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>6</axis>
+      <measurementsSet>
+        <weight units="g">12.66</weight>
+        <diameter units="mm">28</diameter>
+      </measurementsSet>
+      <countermark>TI AV in ligature</countermark>
+      <series>RIC.2.1</series>
+    </physDesc>
+    <nuds:refDesc xmlns:nuds="http://nomisma.org/nuds">
+      <reference xlink:href="http://numismatics.org/ocre/id/ric.1(2).gai.56" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RIC I (second edition) Gaius/Caligula 56</reference>
+      <reference>
+        <tei:title>BMC.90</tei:title>
+      </reference>
+    </nuds:refDesc>
+    <adminDesc>
+      <nuds:identifier xmlns:nuds="http://nomisma.org/nuds">1953.171.1320</nuds:identifier>
+      <lot>1953.171</lot>
+      <department>Roman</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+      <acknowledgment localType="imageSponsor">Gasvoda, Mike</acknowledgment>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19501999%2F1953%2F1953.171.1320.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1953/1953.171.1320.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1953/1953.171.1320.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1953/1953.171.1320.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19501999%2F1953%2F1953.171.1320.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1953/1953.171.1320.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1953/1953.171.1320.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1953/1953.171.1320.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

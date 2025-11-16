@@ -1,0 +1,22 @@
+[
+  {
+    "filename": "1667_obv_Galerius__Diocletian__Maximian__Constantius Chlorus.jpg",
+    "bbox": [
+      31.88601303100586,
+      28.18559455871582,
+      276.0911865234375,
+      282.79144287109375
+    ],
+    "confidence": 0.7090492248535156
+  },
+  {
+    "filename": "1496_obv_Galerius__Diocletian__Maximian__Constantius Chlorus.jpg",
+    "bbox": [
+      31.88601303100586,
+      28.18559455871582,
+      276.0911865234375,
+      282.79144287109375
+    ],
+    "confidence": 0.7090492248535156
+  }
+]

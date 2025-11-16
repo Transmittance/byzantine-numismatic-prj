@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1956.127.152",
+    "coin_page_url": "https://numismatics.org/collection/1956.127.152",
+    "title": "Silver Denarius of Hadrian, Rome, 119–128. 1956.127.152",
+    "date_range": {
+      "from": "0119",
+      "to": "0128"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC II Hadrian 137C",
+    "Obverse_leg": "IMP CAESAR TRAIAN HADRIANVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.53 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "bust laureate, r.",
+      "reverse": "Salus seated, l., feeding serpent out of patera; SAL AVG in ex."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.152.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.152.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.152.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.152.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.152.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.152.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.152.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.152.rev.width175.jpg"
+      }
+    ]
+  }
+}

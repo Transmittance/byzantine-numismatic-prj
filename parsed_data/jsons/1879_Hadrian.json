@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1954.203.199",
+    "coin_page_url": "https://numismatics.org/collection/1954.203.199",
+    "title": "Bronze Sestertius of Hadrian, Rome, 132–134. 1954.203.199",
+    "date_range": {
+      "from": "0132",
+      "to": "0134"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC II Hadrian 706f",
+    "Obverse_leg": "HADRIANVS AVGVSTVS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "26.63 g",
+      "diameter": "32 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Hadrian, laureate, draped, right",
+      "reverse": "Galley moving left with steersman and rowers"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1954/1954.203.199.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.199.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.199.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.199.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1954/1954.203.199.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.199.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.199.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.199.rev.width175.jpg"
+      }
+    ]
+  }
+}

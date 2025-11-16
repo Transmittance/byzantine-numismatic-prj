@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49220",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49220",
+    "title": "Bronze As of Antoninus Pius, Rome, 155–160. 1944.100.49220",
+    "date_range": {
+      "from": "0155",
+      "to": "0160"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": null,
+    "Obverse_leg": "AVREVS CAESAR ANTON AVG []",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "10.14 g",
+      "diameter": "25 mm"
+    },
+    "descriptions": {
+      "obverse": "Head bear right.",
+      "reverse": "figure standing,"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49220.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49220.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49220.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49220.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49220.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49220.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49220.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49220.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1896.8.2",
+    "coin_page_url": "https://numismatics.org/collection/1896.8.2",
+    "title": "Silver Quinarius of Augustus, Uncertain value, 29 BCE–26 BCE. 1896.8.2",
+    "date_range": {
+      "from": "-0029",
+      "to": "-0026"
+    },
+    "obverse_portrait": "Octavian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/quinarius",
+    "cat": "RIC I (second edition) Augustus 276",
+    "Obverse_leg": "CAESAR IMP VII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "1.59 g",
+      "diameter": "15 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Augustus, bare, right",
+      "reverse": "Victory, draped, standing left, holding wreath in right hand and palm in left, on cista mystica between two snakes"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/1896/1896.8.2.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/1896/1896.8.2.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/1896/1896.8.2.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/1896/1896.8.2.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/1896/1896.8.2.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/1896/1896.8.2.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/1896/1896.8.2.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/1896/1896.8.2.rev.width175.jpg"
+      }
+    ]
+  }
+}

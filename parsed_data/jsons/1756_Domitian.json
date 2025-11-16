@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1970.142.640",
+    "coin_page_url": "https://numismatics.org/collection/1970.142.640",
+    "title": "Bronze Coin of Domitian, Caesareia Maritima, 83–96. 1970.142.640",
+    "date_range": {
+      "from": "0083",
+      "to": "0096"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "\n        ",
+    "Obverse_leg": null,
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "5.58 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Domitian head r.",
+      "reverse": "Athena stg.l. holding pomegrante and spear"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1970/1970.142.640.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1970/1970.142.640.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1970/1970.142.640.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1970/1970.142.640.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1970/1970.142.640.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1970/1970.142.640.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1970/1970.142.640.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1970/1970.142.640.rev.width175.jpg"
+      }
+    ]
+  }
+}

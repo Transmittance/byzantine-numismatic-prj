@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.15861",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.15861",
+    "title": "Bronze Coin of Tiberius, Corinth, 14–37. 0000.999.15861",
+    "date_range": {
+      "from": "0014",
+      "to": "0037"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": null,
+    "Obverse_leg": "Koppa",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.2 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "pegasus",
+      "reverse": "trident"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.15861.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.15861.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.15861.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.15861.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.15861.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.15861.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.15861.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.15861.rev.width175.jpg"
+      }
+    ]
+  }
+}

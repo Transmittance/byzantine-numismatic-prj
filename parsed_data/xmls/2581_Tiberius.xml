@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>1944.100.10319</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-12T01:15:50Z">May 12 2024 at 1:15:50</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Bronze Coin of Tiberius, Amphipolis, 14–37. 1944.100.10319</title>
+    <subjectSet>
+      <subject xml:id="f319885b-5d75-3ad8-a9e9-6709324f6507--559caa9b-6b27-304f-abd8-c1e562ed1d0a" localType="category">Roman--Provincial</subject>
+    </subjectSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <dateRange>
+        <fromDate standardDate="0014">14</fromDate>
+        <toDate standardDate="0037">37</toDate>
+      </dateRange>
+      <material xlink:href="http://nomisma.org/id/ae" xlink:type="simple">Bronze</material>
+      <authority>
+        <nuds:persname xmlns:nuds="http://nomisma.org/nuds" xlink:role="authority" xlink:href="http://nomisma.org/id/tiberius" xlink:type="simple">Tiberius</nuds:persname>
+        <corpname xlink:role="state" xlink:href="http://nomisma.org/id/roman_empire" xlink:type="simple">Roman Empire</corpname>
+      </authority>
+      <geographic>
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/amphipolis" xlink:type="simple">Amphipolis</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/strymonian_and_bottiaean_district" xlink:type="simple">Strymonian and Bottiaean District</geogname>
+      </geographic>
+      <obverse>
+        <legend>ΤΙ ΚΑΙΣΑΡ ΣΕΒΑΣΤΟΣ</legend>
+        <type>
+          <description xml:lang="en">Tiberius head</description>
+        </type>
+        <nuds:persname xmlns:nuds="http://nomisma.org/nuds" xlink:href="http://nomisma.org/id/tiberius" xlink:role="portrait" xlink:type="simple">Tiberius</nuds:persname>
+      </obverse>
+      <reverse>
+        <legend>ΑΜΦΙΠΟΛΙΤΩΝ</legend>
+        <type>
+          <description xml:lang="en">Artemis Tauropolos on bull, right</description>
+        </type>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>6</axis>
+      <measurementsSet>
+        <weight units="g">7.299</weight>
+      </measurementsSet>
+    </physDesc>
+    <refDesc>
+      <reference xlink:href="https://rpc.ashmus.ox.ac.uk/type/58703" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RPC I, 1633</reference>
+      <citation>SNGANS.7.170</citation>
+      <citation>SNG.170</citation>
+    </refDesc>
+    <adminDesc>
+      <identifier>1944.100.10319</identifier>
+      <lot>1944.100</lot>
+      <department>Greek</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.10319.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.10319.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.10319.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.10319.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.10319.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.10319.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.10319.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.10319.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

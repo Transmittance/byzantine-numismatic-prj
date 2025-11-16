@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2012.82.35",
+    "coin_page_url": "https://numismatics.org/collection/2012.82.35",
+    "title": "Bronze Coin of Herod Agrippa II, Tiberias, 83–84. 2012.82.35",
+    "date_range": {
+      "from": "0083",
+      "to": "0084"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC II, 2262",
+    "Obverse_leg": "ΔΟΜΕΤ ΚΑΙCΑΡ [ΓΕΡΜ]ΑΝΙ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "9.64 g",
+      "diameter": "22 mm"
+    },
+    "descriptions": {
+      "obverse": "Laureate, draped, and cuirassed bust of Domitian to r.",
+      "reverse": "Victory advancing to r., holding wreath in raised r. hand and palm branch over shoulder in l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2012/2012.82.35.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.35.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.35.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.35.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2012/2012.82.35.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.35.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.35.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.35.rev.width175.jpg"
+      }
+    ]
+  }
+}

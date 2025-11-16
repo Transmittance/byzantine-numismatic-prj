@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49190",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49190",
+    "title": "Bronze Sestertius of Marcus Aurelius, Rome, 172–173. 1944.100.49190",
+    "date_range": {
+      "from": "0172",
+      "to": "0173"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC III Marcus Aurelius 1090",
+    "Obverse_leg": "M ANTONINVS AVG TR P XXVII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "25.59 g",
+      "diameter": "30 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, right",
+      "reverse": "legend of five lines within laurel wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49190.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49190.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49190.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49190.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49190.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49190.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49190.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49190.rev.width175.jpg"
+      }
+    ]
+  }
+}

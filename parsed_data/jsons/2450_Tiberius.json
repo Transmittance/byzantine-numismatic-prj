@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1978.106.52",
+    "coin_page_url": "https://numismatics.org/collection/1978.106.52",
+    "title": "Bronze Dupondius of Tiberius, Uncertain value, 20–21. 1978.106.52",
+    "date_range": {
+      "from": "0020",
+      "to": "0021"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/dupondius",
+    "cat": "\n        ",
+    "Obverse_leg": "[TI CAESAR DIVI AVGVSTI F AVGVSTVS]",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "15.4 g",
+      "diameter": "29 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Caduceus upright between two cornuacopiae"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1978/1978.106.52.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.106.52.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.106.52.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.106.52.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1978/1978.106.52.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.106.52.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.106.52.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1978/1978.106.52.rev.width175.jpg"
+      }
+    ]
+  }
+}

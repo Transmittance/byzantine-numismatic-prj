@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49555",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49555",
+    "title": "Gold Aureus of Marcus Aurelius, Rome, 161. 1944.100.49555",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/aureus",
+    "cat": "RIC III Marcus Aurelius 451",
+    "Obverse_leg": "IMP CAES L AVREL VERVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.24 g",
+      "diameter": "20 mm"
+    },
+    "descriptions": {
+      "obverse": "bust laureate, right",
+      "reverse": "Marcus Aurelius and Lucius Verus standing, clasping hands"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49555.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49555.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49555.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49555.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49555.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49555.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49555.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49555.rev.width175.jpg"
+      }
+    ]
+  }
+}

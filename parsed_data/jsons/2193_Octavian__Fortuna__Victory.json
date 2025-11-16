@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2012.34.23",
+    "coin_page_url": "https://numismatics.org/collection/2012.34.23",
+    "title": "Silver Denarius of Roman Republic, Rome, 42 BCE. 2012.34.23",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RRC 494/33",
+    "Obverse_leg": null,
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.91 g",
+      "diameter": "17 mm"
+    },
+    "descriptions": {
+      "obverse": "Bearded head of Octavian to r.",
+      "reverse": "Fortuna standing to l., holding Victory and cornucopiae."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2012/2012.34.23.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.34.23.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.34.23.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.34.23.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2012/2012.34.23.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.34.23.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.34.23.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.34.23.rev.width175.jpg"
+      }
+    ]
+  }
+}

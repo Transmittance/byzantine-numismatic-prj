@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.50125",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.50125",
+    "title": "Silver Denarius of Septimius Severus, Rome, 194. 1944.100.50125",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Septimius Severus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC IV Septimius Severus 32",
+    "Obverse_leg": "L SEPT SEV PERT AVG IMP III",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.37 g",
+      "diameter": "16.2 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Septimius Severus, laureate, right",
+      "reverse": "Bacchus (Liber), standing front, head left, holding oenochoe in right and thyrsus in left, panther left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50125.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50125.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50125.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50125.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50125.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50125.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50125.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50125.rev.width175.jpg"
+      }
+    ]
+  }
+}

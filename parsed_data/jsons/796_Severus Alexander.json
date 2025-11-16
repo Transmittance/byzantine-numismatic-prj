@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.52448",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.52448",
+    "title": "Silver Denarius of Severus Alexander, Rome, 222. 1944.100.52448",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC IV Severus Alexander 14d",
+    "Obverse_leg": "IMP C M AVR SEV ALEXAND AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.96 g",
+      "diameter": "19 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust, laureate, draped, cuirassed, right, seen from behind",
+      "reverse": "Salus, seated left on throne, holding patera in right hand and feeding snake coiled up on altar, left, and leaning on back of chair with left arm"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.52448.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52448.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52448.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52448.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.52448.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52448.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52448.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52448.rev.width175.jpg"
+      }
+    ]
+  }
+}

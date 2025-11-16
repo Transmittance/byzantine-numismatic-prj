@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1934.74.7",
+    "coin_page_url": "https://numismatics.org/collection/1934.74.7",
+    "title": "Silver Antoninianus of Diocletian, Cyzicus, 284–292. 1934.74.7",
+    "date_range": {
+      "from": "0284",
+      "to": "0292"
+    },
+    "obverse_portrait": "Diocletian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/antoninianus",
+    "cat": "RIC VI Cyzicus 15a",
+    "Obverse_leg": "IMP C C VAL DIOCLETIANVS P F AVG",
+    "rev_symbol": "KΓ//-",
+    "measurements": {
+      "weight": "3.64 g",
+      "diameter": "22 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust radiate, cuirassed, r.",
+      "reverse": "Emperor standing, l., holding sceptre, receiving Victory from Jupiter standing, r., holding sceptre"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1934/1934.74.7.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1934/1934.74.7.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1934/1934.74.7.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1934/1934.74.7.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1934/1934.74.7.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1934/1934.74.7.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1934/1934.74.7.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1934/1934.74.7.rev.width175.jpg"
+      }
+    ]
+  }
+}

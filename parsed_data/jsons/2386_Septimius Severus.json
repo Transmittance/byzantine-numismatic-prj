@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.50174",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.50174",
+    "title": "Gold Aureus of Septimius Severus, Rome, 198–200. 1944.100.50174",
+    "date_range": {
+      "from": "0198",
+      "to": "0200"
+    },
+    "obverse_portrait": "Septimius Severus",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/aureus",
+    "cat": "RIC IV Septimius Severus 146B",
+    "Obverse_leg": "L SEPT SEV AVG IMP XI PART MAX",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.12 g",
+      "diameter": "19.9 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate, right",
+      "reverse": "Septimius on horse prancing right brandishing javelin towards foe on his knees"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50174.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50174.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50174.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50174.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50174.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50174.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50174.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50174.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.50181",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.50181",
+    "title": "Silver Denarius of Septimius Severus, Rome, 200–201. 1944.100.50181",
+    "date_range": {
+      "from": "0200",
+      "to": "0201"
+    },
+    "obverse_portrait": "Septimius Severus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC IV Septimius Severus 160 (denarius)",
+    "Obverse_leg": "SEVERVS AVG PART MAX",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.43 g",
+      "diameter": "18.6 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate, right",
+      "reverse": "Septimius standing front, veiled, holding branch and roll"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50181.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50181.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50181.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50181.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50181.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50181.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50181.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50181.rev.width175.jpg"
+      }
+    ]
+  }
+}

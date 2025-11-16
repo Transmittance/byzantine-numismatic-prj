@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1892.999.2",
+    "coin_page_url": "https://numismatics.org/collection/1892.999.2",
+    "title": "Bronze Sestertius of Severus Alexander, Rome, 230. 1892.999.2",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC IV Severus Alexander 503",
+    "Obverse_leg": "IMP SEV ALEXANDER AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "18.42 g",
+      "diameter": "28 mm"
+    },
+    "descriptions": {
+      "obverse": "Head, laureate, right",
+      "reverse": "Sol, standing front, raising right hand in blessing and holding globe in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/1892/1892.999.2.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/1892/1892.999.2.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/1892/1892.999.2.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/1892/1892.999.2.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/1892/1892.999.2.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/1892/1892.999.2.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/1892/1892.999.2.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/1892/1892.999.2.rev.width175.jpg"
+      }
+    ]
+  }
+}

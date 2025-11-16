@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1973.205.6",
+    "coin_page_url": "https://numismatics.org/collection/1973.205.6",
+    "title": "Silver Tridrachm of Gaius/Caligula, Gortyn, 37–41. 1973.205.6",
+    "date_range": {
+      "from": "0037",
+      "to": "0041"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/tridrachm",
+    "cat": "RPC I, 964",
+    "Obverse_leg": "G KAISAR SEB GER ARX MEG DHM EXOV VPA",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.17 g",
+      "diameter": "25 mm"
+    },
+    "descriptions": {
+      "obverse": "Caligula",
+      "reverse": "Augustus seated on curule chair holding scepter and patera|7 stars around"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1973/1973.205.6.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1973/1973.205.6.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1973/1973.205.6.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1973/1973.205.6.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1973/1973.205.6.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1973/1973.205.6.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1973/1973.205.6.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1973/1973.205.6.rev.width175.jpg"
+      }
+    ]
+  }
+}

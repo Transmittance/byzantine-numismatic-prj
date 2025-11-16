@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.4186",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.4186",
+    "title": "Bronze AE1 of Diocletian, Antioch, Syria, 300–301. 1944.100.4186",
+    "date_range": {
+      "from": "0300",
+      "to": "0301"
+    },
+    "obverse_portrait": "Diocletian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae1",
+    "cat": "RIC VI Antioch 54a",
+    "Obverse_leg": "IMP C DIOCLETIANVS P F AVG",
+    "rev_symbol": "(Δ on K)/(∈ on V)//ANT",
+    "measurements": {
+      "weight": "9.01 g",
+      "diameter": "26.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate right",
+      "reverse": "Genius standing left pouring liquid from patera in right and cornucopiae in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.4186.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.4186.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.4186.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.4186.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.4186.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.4186.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.4186.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.4186.rev.width175.jpg"
+      }
+    ]
+  }
+}

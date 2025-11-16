@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2000.12.1",
+    "coin_page_url": "https://numismatics.org/collection/2000.12.1",
+    "title": "Bronze Quadrans of Vespasian, Antioch, Syria, 74. 2000.12.1",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/quadrans",
+    "cat": "RPC II, 1989A",
+    "Obverse_leg": "IMP VESP AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.74 g",
+      "diameter": "18 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. l.",
+      "reverse": "Winged caduceus"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2000/2000.12.1.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2000/2000.12.1.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2000/2000.12.1.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2000/2000.12.1.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2000/2000.12.1.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2000/2000.12.1.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2000/2000.12.1.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2000/2000.12.1.rev.width175.jpg"
+      }
+    ]
+  }
+}

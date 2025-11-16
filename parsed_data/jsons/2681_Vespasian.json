@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2012.82.20",
+    "coin_page_url": "https://numismatics.org/collection/2012.82.20",
+    "title": "Bronze Coin of Herod Agrippa II, Tiberias, 74–75. 2012.82.20",
+    "date_range": {
+      "from": "0074",
+      "to": "0075"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC II, 2252",
+    "Obverse_leg": "ΑΥΤΟΚΡΑ Ο[ΥΕCΠΑCΙ ΚΑΙCΑΡ C]ΕΒΑCΤΩ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "16.49 g",
+      "diameter": "28 mm"
+    },
+    "descriptions": {
+      "obverse": "Laureate bust of Vespasian to r.",
+      "reverse": "Tyche-Demeter standing to l., wearing kalathos, holding ears of grain in extended r. hand and cornucopia in l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2012/2012.82.20.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.20.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.20.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.20.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2012/2012.82.20.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.20.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.20.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.20.rev.width175.jpg"
+      }
+    ]
+  }
+}

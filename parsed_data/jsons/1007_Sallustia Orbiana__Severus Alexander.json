@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.53363",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.53363",
+    "title": "Bronze Sestertius of Severus Alexander, Rome, 225–227. 1944.100.53363",
+    "date_range": {
+      "from": "0225",
+      "to": "0227"
+    },
+    "obverse_portrait": "Sallustia Orbiana",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC IV Severus Alexander 657",
+    "Obverse_leg": "SALL BARBIA ORBIANA AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "21.11 g",
+      "diameter": "30 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust, diademed, draped, right",
+      "reverse": "Severus Alexander, standing right, togate, holding scroll in left hand and clasping right hands with Orbiana, standing left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.53363.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53363.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53363.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53363.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.53363.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53363.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53363.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53363.rev.width175.jpg"
+      }
+    ]
+  }
+}

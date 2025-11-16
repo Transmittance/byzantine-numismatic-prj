@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1967.153.112",
+    "coin_page_url": "https://numismatics.org/collection/1967.153.112",
+    "title": "Bronze Quadrans of Gaius/Caligula, Rome, 39. 1967.153.112",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/quadrans",
+    "cat": "RIC I (second edition) Gaius/Caligula 39",
+    "Obverse_leg": "C CAESAR DIVI AVG PRON AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.45 g",
+      "diameter": "17.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Pileus flanked by S C",
+      "reverse": "Legend surrounding RCC large in center of field"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1967/1967.153.112.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.112.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.112.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.112.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1967/1967.153.112.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.112.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.112.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.112.rev.width175.jpg"
+      }
+    ]
+  }
+}

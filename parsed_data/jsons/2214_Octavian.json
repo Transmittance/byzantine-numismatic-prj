@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1937.158.438",
+    "coin_page_url": "https://numismatics.org/collection/1937.158.438",
+    "title": "Silver Denarius of Augustus, Uncertain value, 31 BCE–29 BCE. 1937.158.438",
+    "date_range": {
+      "from": "-0031",
+      "to": "-0029"
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC I (second edition) Augustus 253",
+    "Obverse_leg": null,
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.76 g",
+      "diameter": "19.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Female head, r., wearing stephane, in front, olive branch, behind, cornucopiae",
+      "reverse": "Octavian in military dress standing, carrying transverse spear"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1937/1937.158.438.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1937/1937.158.438.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1937/1937.158.438.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1937/1937.158.438.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1937/1937.158.438.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1937/1937.158.438.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1937/1937.158.438.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1937/1937.158.438.rev.width175.jpg"
+      }
+    ]
+  }
+}

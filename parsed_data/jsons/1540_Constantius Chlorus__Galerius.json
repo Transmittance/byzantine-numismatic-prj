@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.38292",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.38292",
+    "title": "Silver Antoninianus of Maximian, Siscia, 293. 1944.100.38292",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Constantius Chlorus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/antoninianus",
+    "cat": "RIC V Diocletian 671",
+    "Obverse_leg": "FL VAL CONSTANTIVS NOB C",
+    "rev_symbol": "-/-//XXI[A]",
+    "measurements": {
+      "weight": "4.07 g",
+      "diameter": "20 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust radiate draped cuirassed right",
+      "reverse": "Two Caesars standing face to face, holding Victory on globe; between them kneeling captive"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.38292.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.38292.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.38292.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.38292.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.38292.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.38292.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.38292.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.38292.rev.width175.jpg"
+      }
+    ]
+  }
+}

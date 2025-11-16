@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.47361",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.47361",
+    "title": "Bronze Sestertius of Hadrian, Rome, 128–132. 1944.100.47361",
+    "date_range": {
+      "from": "0128",
+      "to": "0132"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC II Hadrian 970c",
+    "Obverse_leg": "HADRIANVS AVGVSTVS P P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "29.01 g",
+      "diameter": "34 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Hadrian, laureate, draped on left shoulder, right",
+      "reverse": "Hilaritas, draped, standing left, holding long palm upright in right hand and cornucopiae in left; at her feet, on left, a small naked boy standing right, touching palm; on right, a small girl standing left, touching dress of Hilaritas"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.47361.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47361.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47361.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47361.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.47361.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47361.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47361.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47361.rev.width175.jpg"
+      }
+    ]
+  }
+}

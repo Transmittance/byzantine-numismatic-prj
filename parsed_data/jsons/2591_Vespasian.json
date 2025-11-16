@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1935.117.216",
+    "coin_page_url": "https://numismatics.org/collection/1935.117.216",
+    "title": "Silver Antoninianus of Trajan Decius, Mediolanum, 250–251. 1935.117.216",
+    "date_range": {
+      "from": "0250",
+      "to": "0251"
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/antoninianus",
+    "cat": "RIC IV Trajan Decius 80",
+    "Obverse_leg": "DIVO VESPASIANO",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.3 g",
+      "diameter": "22 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Divus Vespasian, radiate, right",
+      "reverse": "Rectangular altar, with four panels in front, lighted"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1935/1935.117.216.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1935/1935.117.216.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1935/1935.117.216.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1935/1935.117.216.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1935/1935.117.216.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1935/1935.117.216.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1935/1935.117.216.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1935/1935.117.216.rev.width175.jpg"
+      }
+    ]
+  }
+}

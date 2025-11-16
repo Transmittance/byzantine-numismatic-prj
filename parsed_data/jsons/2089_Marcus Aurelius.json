@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1956.127.723",
+    "coin_page_url": "https://numismatics.org/collection/1956.127.723",
+    "title": "Silver Denarius of Antoninus Pius, Rome, 140–144. 1956.127.723",
+    "date_range": {
+      "from": "0140",
+      "to": "0144"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC III Antoninus Pius 424A (denarius)",
+    "Obverse_leg": "AVRELIVS CAESAR AVG P II F COS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.05 g",
+      "diameter": "17.75 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Marcus Aurelius, bare, right",
+      "reverse": "Emblems of priesthood: from left to right, knife, sprinkler, jug, lituus, and simpulum."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.723.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.723.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.723.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.723.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.723.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.723.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.723.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.723.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1923.150.79",
+    "coin_page_url": "https://numismatics.org/collection/1923.150.79",
+    "title": "Silver Denarius of Hadrian, Rome, 134–138. 1923.150.79",
+    "date_range": {
+      "from": "0134",
+      "to": "0138"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC II Hadrian 248d",
+    "Obverse_leg": "HADRIANVS AVG COS III P P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.82 g",
+      "diameter": "17.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Hadrian, laureate, right",
+      "reverse": "Fortuna, draped, standing left, resting on rudder attached to globe, holding cornucopiae in left hand and clasping hands with Hadrian, togate, standing right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1923/1923.150.79.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1923/1923.150.79.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1923/1923.150.79.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1923/1923.150.79.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1923/1923.150.79.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1923/1923.150.79.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1923/1923.150.79.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1923/1923.150.79.rev.width175.jpg"
+      }
+    ]
+  }
+}

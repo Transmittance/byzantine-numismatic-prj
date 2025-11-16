@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1953.171.1366",
+    "coin_page_url": "https://numismatics.org/collection/1953.171.1366",
+    "title": "Bronze As of Domitian, Rome, 81–96. 1953.171.1366",
+    "date_range": {
+      "from": "0081",
+      "to": "0096"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "\n        ",
+    "Obverse_leg": "IMP CAES DOMIT AVG GERM COS XI CENS POT P P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "6.29 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Domitian, laureate, right with aegis?",
+      "reverse": "Moneta standing left, holding scales and cornucopiae?"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1953/1953.171.1366.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1366.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1366.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1366.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1953/1953.171.1366.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1366.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1366.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1366.rev.width175.jpg"
+      }
+    ]
+  }
+}

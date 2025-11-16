@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.38038",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.38038",
+    "title": "Silver Antoninianus of Maximian, Lugdunum, 294. 1944.100.38038",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Constantius Chlorus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/antoninianus",
+    "cat": "RIC V Diocletian 628",
+    "Obverse_leg": "FL VAL CONSTANTIVS NOB C",
+    "rev_symbol": "-/-//II",
+    "measurements": {
+      "weight": "3.33 g",
+      "diameter": "22.5 mm"
+    },
+    "descriptions": {
+      "obverse": "bust radiate draped cuirassed right",
+      "reverse": "two Concordiae clasping hands each holding cornucopiae"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.38038.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.38038.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.38038.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.38038.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.38038.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.38038.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.38038.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.38038.rev.width175.jpg"
+      }
+    ]
+  }
+}

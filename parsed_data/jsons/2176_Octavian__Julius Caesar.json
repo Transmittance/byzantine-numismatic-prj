@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.35830",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.35830",
+    "title": "Bronze Uncertain value of Roman Republic, Uncertain value, 38 BCE. 0000.999.35830",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/uncertain_value",
+    "cat": "RRC 535/1",
+    "Obverse_leg": "CAESAR DIVI.F",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "19.29 g",
+      "diameter": "32 mm"
+    },
+    "descriptions": {
+      "obverse": "Octavian head r., bearded",
+      "reverse": "Caesar head r., wreathed"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.35830.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.35830.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.35830.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.35830.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.35830.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.35830.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.35830.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.35830.rev.width175.jpg"
+      }
+    ]
+  }
+}

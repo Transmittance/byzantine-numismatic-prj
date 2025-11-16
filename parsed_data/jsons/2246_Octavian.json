@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.39147",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.39147",
+    "title": "Gold Aureus of Augustus, Uncertain value, 29 BCE–27 BCE. 1944.100.39147",
+    "date_range": {
+      "from": "-0029",
+      "to": "-0027"
+    },
+    "obverse_portrait": "Octavian",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/aureus",
+    "cat": "RIC I (second edition) Augustus 268",
+    "Obverse_leg": null,
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.46 g",
+      "diameter": "21 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Augustus, bare, right",
+      "reverse": "Victory, draped, standing front on globe, head left, holding wreath in right hand and vexillum over left shoulder"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.39147.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39147.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39147.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39147.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.39147.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39147.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39147.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39147.rev.width175.jpg"
+      }
+    ]
+  }
+}

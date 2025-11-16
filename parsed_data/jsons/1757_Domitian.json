@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1970.142.190",
+    "coin_page_url": "https://numismatics.org/collection/1970.142.190",
+    "title": "Bronze Coin of Domitian, Patrae, 81–96. 1970.142.190",
+    "date_range": {
+      "from": "0081",
+      "to": "0096"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC II, 258",
+    "Obverse_leg": "IMP CAES DOM AVG GER P M TR P V",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.66 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Domitian hd.",
+      "reverse": "colonist ploughing with team of 2 oxen"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1970/1970.142.190.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1970/1970.142.190.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1970/1970.142.190.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1970/1970.142.190.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1970/1970.142.190.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1970/1970.142.190.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1970/1970.142.190.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1970/1970.142.190.rev.width175.jpg"
+      }
+    ]
+  }
+}

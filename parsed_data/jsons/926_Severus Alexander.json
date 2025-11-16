@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.52579",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.52579",
+    "title": "Silver Denarius of Severus Alexander, Antioch, Syria, 222. 1944.100.52579",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC IV Severus Alexander 285",
+    "Obverse_leg": "IMP SEV ALEXAND AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.74 g",
+      "diameter": "18.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust, laureate, draped, cuirassed, right",
+      "reverse": "Libertas, standing front, holding pileus in right and long sceptre in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.52579.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52579.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52579.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52579.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.52579.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52579.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52579.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52579.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49659",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49659",
+    "title": "Bronze As of Marcus Aurelius, Rome, 177–178. 1944.100.49659",
+    "date_range": {
+      "from": "0177",
+      "to": "0178"
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RIC III Marcus Aurelius 1596",
+    "Obverse_leg": "L AVREL COMMODVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "8.38 g",
+      "diameter": "24 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate, right",
+      "reverse": "Victory advancing left holding wreath and palm"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49659.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49659.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49659.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49659.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49659.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49659.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49659.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49659.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.53270",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.53270",
+    "title": "Bronze Sestertius of Severus Alexander, Rome, 231. 1944.100.53270",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC IV Severus Alexander 523",
+    "Obverse_leg": "IMP ALEXANDER PIVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "19.81 g",
+      "diameter": "27 mm"
+    },
+    "descriptions": {
+      "obverse": "Head, laureate, right",
+      "reverse": "Victory, standing left, holding wreath in right and palm branch in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.53270.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53270.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53270.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53270.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.53270.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53270.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53270.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53270.rev.width175.jpg"
+      }
+    ]
+  }
+}

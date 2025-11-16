@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>1952.142.132</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-13T18:12:36Z">May 13 2024 at 18:12:36</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Silver Denarius of Hadrian, Rome, 119–122. 1952.142.132</title>
+    <descriptionSet>
+      <description xml:lang="en">holed</description>
+    </descriptionSet>
+    <subjectSet>
+      <subject xml:id="f319885b-5d75-3ad8-a9e9-6709324f6507--5c25a387-f992-3cd0-ae33-4bf1f6b38255--5c011cd3-89b8-35c1-96b5-4e1587fc2605" localType="category">Roman--Imperial--Antonines</subject>
+    </subjectSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <dateRange>
+        <fromDate standardDate="0119">119</fromDate>
+        <toDate standardDate="0122">122</toDate>
+      </dateRange>
+      <denomination xlink:href="http://nomisma.org/id/denarius" xlink:type="simple">Denarius</denomination>
+      <material xlink:href="http://nomisma.org/id/ar" xlink:type="simple">Silver</material>
+      <authority>
+        <persname xlink:role="authority" xlink:href="http://nomisma.org/id/hadrian" xlink:type="simple">Hadrian</persname>
+        <corpname xlink:role="state" xlink:href="http://nomisma.org/id/roman_empire" xlink:type="simple">Roman Empire</corpname>
+      </authority>
+      <geographic>
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/rome" xlink:type="simple">Rome</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/latium" xlink:type="simple">Latium</geogname>
+      </geographic>
+      <obverse>
+        <legend>IMP CAESAR TRAIAN HADRIANVS AVG</legend>
+        <type>
+          <description xml:lang="en">Bust of Hadrian, laureate, draped on left shoulder, right</description>
+        </type>
+        <persname xlink:href="http://nomisma.org/id/hadrian" xlink:role="portrait" xlink:type="simple">Hadrian</persname>
+      </obverse>
+      <reverse>
+        <legend>P M TR P COS III CONCORD</legend>
+        <type>
+          <description xml:lang="en">Concordia, draped, seated left on throne, holding patera in right hand and resting left on figure of Spes on low base; cornucopiae under throne</description>
+        </type>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>6</axis>
+      <measurementsSet>
+        <weight units="g">2.89</weight>
+        <diameter units="mm">18</diameter>
+      </measurementsSet>
+      <series>RIC.1.2</series>
+    </physDesc>
+    <refDesc>
+      <reference xlink:href="http://numismatics.org/ocre/id/ric.2.hdn.118b" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RIC II Hadrian 118b</reference>
+      <reference>
+        <tei:title>BMC.258</tei:title>
+      </reference>
+    </refDesc>
+    <adminDesc>
+      <identifier>1952.142.132</identifier>
+      <lot>1952.142</lot>
+      <department>Roman</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19501999%2F1952%2F1952.142.132.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1952/1952.142.132.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1952/1952.142.132.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1952/1952.142.132.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19501999%2F1952%2F1952.142.132.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1952/1952.142.132.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1952/1952.142.132.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1952/1952.142.132.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

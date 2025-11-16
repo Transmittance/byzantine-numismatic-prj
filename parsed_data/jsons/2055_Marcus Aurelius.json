@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49203",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49203",
+    "title": "Bronze Dupondius of Marcus Aurelius, Rome, 175–176. 1944.100.49203",
+    "date_range": {
+      "from": "0175",
+      "to": "0176"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/dupondius",
+    "cat": "RIC III Marcus Aurelius 1173",
+    "Obverse_leg": "M ANTONINVS ACG GERM SARMATICVS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "11.2 g",
+      "diameter": "25 mm"
+    },
+    "descriptions": {
+      "obverse": "Head radiate, right",
+      "reverse": "Aequitas standing, front, head left, holding scales and cornucopiae"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49203.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49203.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49203.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49203.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49203.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49203.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49203.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49203.rev.width175.jpg"
+      }
+    ]
+  }
+}

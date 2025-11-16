@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.7127",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.7127",
+    "title": "Bronze AE2 of Constantine I, Rome, 317–318. 1944.100.7127",
+    "date_range": {
+      "from": "0317",
+      "to": "0318"
+    },
+    "obverse_portrait": "Constantius Chlorus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VII Rome 105",
+    "Obverse_leg": "DIVO CONSTANTIO PIO PRIN[C]IP[I]",
+    "rev_symbol": "-/-//RT",
+    "measurements": {
+      "weight": "2.86 g",
+      "diameter": "19 mm"
+    },
+    "descriptions": {
+      "obverse": "Head veiled laureate right",
+      "reverse": "Emperor seated left in curule chair raising right and holding short sceptre in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.7127.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.7127.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.7127.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.7127.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.7127.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.7127.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.7127.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.7127.rev.width175.jpg"
+      }
+    ]
+  }
+}

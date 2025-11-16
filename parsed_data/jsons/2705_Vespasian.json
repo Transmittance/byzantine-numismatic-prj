@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1980.160.1",
+    "coin_page_url": "https://numismatics.org/collection/1980.160.1",
+    "title": "Silver Denarius of Vespasian, Uncertain value, 69–79. 1980.160.1",
+    "date_range": {
+      "from": "0069",
+      "to": "0079"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "\n        ",
+    "Obverse_leg": "IMP CAESAR VESPAS AVG [ ? ]",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.18 g",
+      "diameter": "17.25 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Vespasian, laureate, right",
+      "reverse": "Legend within oak-wreath. Between ties, mintmark [ ? ]"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1980/1980.160.1.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.160.1.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.160.1.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.160.1.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1980/1980.160.1.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.160.1.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.160.1.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.160.1.rev.width175.jpg"
+      }
+    ]
+  }
+}

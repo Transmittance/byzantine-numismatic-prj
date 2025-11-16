@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1985.39.11",
+    "coin_page_url": "https://numismatics.org/collection/1985.39.11",
+    "title": "Silver Didrachm of Domitian, Caesarea in Cappadocia, 92–93. 1985.39.11",
+    "date_range": {
+      "from": "0092",
+      "to": "0093"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/didrachm",
+    "cat": "\n        ",
+    "Obverse_leg": "AVT KAI DOMITIANOS SEBASTOS GERM",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "6.83 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Athena stg. r. holding owl in r. and spear in l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1985/1985.39.11.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1985/1985.39.11.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1985/1985.39.11.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1985/1985.39.11.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1985/1985.39.11.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1985/1985.39.11.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1985/1985.39.11.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1985/1985.39.11.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2016.15.307",
+    "coin_page_url": "https://numismatics.org/collection/2016.15.307",
+    "title": "Bronze Coin of Domitian, Judaea, 92–93. 2016.15.307",
+    "date_range": {
+      "from": "0092",
+      "to": "0093"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "\n        ",
+    "Obverse_leg": "IMP CAES DOMIT AVG GERM TR P XII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "11.39 g",
+      "diameter": "29.9 mm"
+    },
+    "descriptions": {
+      "obverse": "Domitian radiate head to right, round countermark with head right.",
+      "reverse": "Seven-branched palm tree with two bunches of dates."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.15.307.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.307.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.307.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.307.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.15.307.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.307.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.307.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.307.rev.width175.jpg"
+      }
+    ]
+  }
+}

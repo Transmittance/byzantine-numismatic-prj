@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1954.241.18",
+    "coin_page_url": "https://numismatics.org/collection/1954.241.18",
+    "title": "Bronze Coin of Tiberius, Antioch, Syria, 14–37. 1954.241.18",
+    "date_range": {
+      "from": "0014",
+      "to": "0037"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": null,
+    "Obverse_leg": null,
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "13.86 g",
+      "diameter": "25 mm"
+    },
+    "descriptions": {
+      "obverse": "Tiberius hd. laur. r.",
+      "reverse": "SC within wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1954/1954.241.18.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.241.18.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.241.18.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.241.18.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1954/1954.241.18.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.241.18.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.241.18.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.241.18.rev.width175.jpg"
+      }
+    ]
+  }
+}

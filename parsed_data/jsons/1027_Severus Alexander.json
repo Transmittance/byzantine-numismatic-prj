@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1952.142.173",
+    "coin_page_url": "https://numismatics.org/collection/1952.142.173",
+    "title": "Bronze Sestertius of Severus Alexander, Rome, 222–231. 1952.142.173",
+    "date_range": {
+      "from": "0222",
+      "to": "0231"
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC IV Severus Alexander 549b",
+    "Obverse_leg": "IMP SEV ALEXANDER AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "15.64 g",
+      "diameter": "34 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust, laureate, draped on left shoulder, right",
+      "reverse": "Annona, standing left, holding grain corn-ears (grain stalks?) in right hand over modius and anchor in left hand"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1952/1952.142.173.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.173.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.173.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.173.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1952/1952.142.173.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.173.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.173.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1952/1952.142.173.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1971.230.69",
+    "coin_page_url": "https://numismatics.org/collection/1971.230.69",
+    "title": "Bronze Coin of Domitian, Eumeneia, 81–96. 1971.230.69",
+    "date_range": {
+      "from": "0081",
+      "to": "0096"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC II, 1386",
+    "Obverse_leg": "ΑΥ ΔΟΜΙΤΙΑΝΟΣ ΚΑΙ ΓΕΡΜΑΝΙΚΟΣ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "4.47 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Domitian hd. r.",
+      "reverse": "Apollo stg. holding raven and bipennis"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1971/1971.230.69.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1971/1971.230.69.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1971/1971.230.69.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1971/1971.230.69.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1971/1971.230.69.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1971/1971.230.69.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1971/1971.230.69.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1971/1971.230.69.rev.width175.jpg"
+      }
+    ]
+  }
+}

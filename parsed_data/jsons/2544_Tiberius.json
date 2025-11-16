@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2016.35.53",
+    "coin_page_url": "https://numismatics.org/collection/2016.35.53",
+    "title": "Bronze As of Tiberius, Italica, 14–37. 2016.35.53",
+    "date_range": {
+      "from": "0014",
+      "to": "0037"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RPC I, 65",
+    "Obverse_leg": "TI CAESAR AVGVSTVS PONT MAX IMP",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "13.04 g",
+      "diameter": "28 mm"
+    },
+    "descriptions": {
+      "obverse": "Head bare r.",
+      "reverse": "Altar inscribed on three lines: PROVIDE - NTIAE - AVGVSTI"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.35.53.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.53.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.53.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.53.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.35.53.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.53.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.53.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.53.rev.width175.jpg"
+      }
+    ]
+  }
+}

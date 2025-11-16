@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49194",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49194",
+    "title": "Bronze Sestertius of Marcus Aurelius, Rome, 173–174. 1944.100.49194",
+    "date_range": {
+      "from": "0173",
+      "to": "0174"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC III Marcus Aurelius 1098",
+    "Obverse_leg": "M ANTONINVS AVG TR P XXVIII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "23.29 g",
+      "diameter": "32 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, draped, cuirassed, right",
+      "reverse": "Jupiter seated, left holding Victory and vertical sceptre"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49194.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49194.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49194.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49194.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49194.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49194.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49194.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49194.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1906.236.516",
+    "coin_page_url": "https://numismatics.org/collection/1906.236.516",
+    "title": "Bronze As of Severus Alexander, Rome, 230. 1906.236.516",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RIC IV Severus Alexander 506b",
+    "Obverse_leg": "IMP SEV ALEXANDER AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "10.68 g",
+      "diameter": "28 mm"
+    },
+    "descriptions": {
+      "obverse": "Head, laureate, right",
+      "reverse": "Victory, standing right, inscribing shield, right, set on palm tree, VOT X"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1906/1906.236.516.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.516.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.516.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.516.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1906/1906.236.516.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.516.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.516.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.516.rev.width175.jpg"
+      }
+    ]
+  }
+}

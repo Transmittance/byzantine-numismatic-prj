@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1956.127.744",
+    "coin_page_url": "https://numismatics.org/collection/1956.127.744",
+    "title": "Silver Denarius of Antoninus Pius, Rome, 146–147. 1956.127.744",
+    "date_range": {
+      "from": "0146",
+      "to": "0147"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC III Antoninus Pius 437",
+    "Obverse_leg": "AVRELIVS CAESAR AVG PII F",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.42 g",
+      "diameter": "16.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Marcus Aurelius, bare, right",
+      "reverse": "Spes, draped, advancing left, holding up flower-bud in right hand and raising up fold of skirt with left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.744.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.744.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.744.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.744.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.744.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.744.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.744.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.744.rev.width175.jpg"
+      }
+    ]
+  }
+}

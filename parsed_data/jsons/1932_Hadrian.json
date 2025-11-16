@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.45578",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.45578",
+    "title": "Silver Cistophorus of Hadrian, Ephesus, 128–132. 1944.100.45578",
+    "date_range": {
+      "from": "0128",
+      "to": "0132"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/cistophorus",
+    "cat": "RPC III, 1474",
+    "Obverse_leg": "HADRIANVS AVGVSTVS P P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "10.14 g",
+      "diameter": "29 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Hadrian, bare-headed, draped, right",
+      "reverse": "Minerva, helmeted, standing front, looking left, holding patera in extended right hand and resting left on shield set on ground; spear rests vertically against her left arm"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.45578.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.45578.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.45578.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.45578.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.45578.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.45578.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.45578.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.45578.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1935.117.1011",
+    "coin_page_url": "https://numismatics.org/collection/1935.117.1011",
+    "title": "Billon Tetradrachm of Diocletian, Alexandria, 290–291. 1935.117.1011",
+    "date_range": {
+      "from": "0290",
+      "to": "0291"
+    },
+    "obverse_portrait": "Diocletian",
+    "material": "http://nomisma.org/id/billon",
+    "denomination": "http://nomisma.org/id/tetradrachm",
+    "cat": "RPC X, — (number not assigned), type ID 76084",
+    "Obverse_leg": "DIOKLETIANOS SEB",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.36 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Zeus std. l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1935/1935.117.1011.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1935/1935.117.1011.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1935/1935.117.1011.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1935/1935.117.1011.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1935/1935.117.1011.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1935/1935.117.1011.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1935/1935.117.1011.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1935/1935.117.1011.rev.width175.jpg"
+      }
+    ]
+  }
+}

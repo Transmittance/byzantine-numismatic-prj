@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2016.35.580",
+    "coin_page_url": "https://numismatics.org/collection/2016.35.580",
+    "title": "Bronze Semis of Gaius/Caligula, Osca, 37–41. 2016.35.580",
+    "date_range": {
+      "from": "0037",
+      "to": "0041"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/semis",
+    "cat": "RPC I, 303",
+    "Obverse_leg": "\n          ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "5 g",
+      "diameter": "20.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Legend encircling V OSCA V"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.35.580.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.580.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.580.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.580.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.35.580.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.580.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.580.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.35.580.rev.width175.jpg"
+      }
+    ]
+  }
+}

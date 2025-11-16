@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1956.127.2293",
+    "coin_page_url": "https://numismatics.org/collection/1956.127.2293",
+    "title": "Silver Tetradrachm of Vespasian, Antioch, Syria, 69–70. 1956.127.2293",
+    "date_range": {
+      "from": "0069",
+      "to": "0070"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/tetradrachm",
+    "cat": "\n        ",
+    "Obverse_leg": "AVTOKRAT KAISA OVESPASIANOV [four-barred E and S]",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "14.93 g",
+      "diameter": "24.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Head of Titus laur. r.; behind, star; before, date"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.2293.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.2293.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.2293.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.2293.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.2293.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.2293.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.2293.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.2293.rev.width175.jpg"
+      }
+    ]
+  }
+}

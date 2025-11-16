@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.53291",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.53291",
+    "title": "Bronze Sestertius of Severus Alexander, Rome, 224. 1944.100.53291",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC IV Severus Alexander 587",
+    "Obverse_leg": "IMP C[AES M] AVR SEV ALEXANDER AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "18.33 g",
+      "diameter": "30 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust, laureate, draped, cuirassed, right",
+      "reverse": "Moneta, standing left, holding scales in right hand above uncertain object and in cornucopiae in left hand"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.53291.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53291.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53291.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53291.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.53291.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53291.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53291.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53291.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.19986",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.19986",
+    "title": "Silver Antoninianus of Trajan Decius, Mediolanum, 250–251. 1944.100.19986",
+    "date_range": {
+      "from": "0250",
+      "to": "0251"
+    },
+    "obverse_portrait": "Septimius Severus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/antoninianus",
+    "cat": "RIC IV Trajan Decius 95",
+    "Obverse_leg": "DIVO SEVERO",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "4.239 g",
+      "diameter": "24.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Divus Septimius Severus, radiate, right",
+      "reverse": "Eagle, with open wings, standing front on bar, head right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.19986.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.19986.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.19986.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.19986.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.19986.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.19986.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.19986.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.19986.rev.width175.jpg"
+      }
+    ]
+  }
+}

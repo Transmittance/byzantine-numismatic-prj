@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1984.66.486",
+    "coin_page_url": "https://numismatics.org/collection/1984.66.486",
+    "title": "Bronze Coin of Tiberius, Side, 14–37. 1984.66.486",
+    "date_range": {
+      "from": "0014",
+      "to": "0037"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC I, 3391",
+    "Obverse_leg": "ΤΙΒΕΡΙΟΣ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "5.12 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Tiberius hd. r.",
+      "reverse": "Athena stg. l. holding spear and shield, to r. pomegrante"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1984/1984.66.486.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.66.486.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.66.486.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.66.486.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1984/1984.66.486.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.66.486.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.66.486.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.66.486.rev.width175.jpg"
+      }
+    ]
+  }
+}

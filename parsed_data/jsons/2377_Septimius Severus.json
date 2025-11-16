@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.50165",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.50165",
+    "title": "Silver Denarius of Septimius Severus, Rome, 198–200. 1944.100.50165",
+    "date_range": {
+      "from": "0198",
+      "to": "0200"
+    },
+    "obverse_portrait": "Septimius Severus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC IV Septimius Severus 122C",
+    "Obverse_leg": "L SEPT SEV AVG IMP XI PART MAX",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.39 g",
+      "diameter": "18.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head, laureate, right",
+      "reverse": "Aequitas, standing left, holding scales in right and cornucopiae in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50165.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50165.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50165.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50165.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50165.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50165.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50165.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50165.rev.width175.jpg"
+      }
+    ]
+  }
+}

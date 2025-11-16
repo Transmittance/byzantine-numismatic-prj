@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1955.21.12",
+    "coin_page_url": "https://numismatics.org/collection/1955.21.12",
+    "title": "Silver Cistophorus of Hadrian, Ephesus, 128–132. 1955.21.12",
+    "date_range": {
+      "from": "0128",
+      "to": "0132"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/cistophorus",
+    "cat": "RIC II Hadrian 486",
+    "Obverse_leg": "HADRIANVS AVGVSTVS P P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "10.58 g",
+      "diameter": "28 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Hadrian, bare, right",
+      "reverse": "Ceres, veiled, advancing right, holding grain stalk in right hand and transverse sceptre in left; no star in upper right field"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1955/1955.21.12.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.12.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.12.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.12.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1955/1955.21.12.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.12.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.12.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.12.rev.width175.jpg"
+      }
+    ]
+  }
+}

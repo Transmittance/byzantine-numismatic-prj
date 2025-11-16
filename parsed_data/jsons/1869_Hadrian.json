@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1956.127.131",
+    "coin_page_url": "https://numismatics.org/collection/1956.127.131",
+    "title": "Silver Denarius of Hadrian, Rome, 119–122. 1956.127.131",
+    "date_range": {
+      "from": "0119",
+      "to": "0122"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC II Hadrian 118b",
+    "Obverse_leg": "IMP CAESAR TRAIAN HADRIANVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.15 g",
+      "diameter": "18.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Hadrian, laureate, draped on left shoulder, right",
+      "reverse": "Concordia, draped, seated left on throne, holding patera in right hand and resting left on figure of Spes on low base; cornucopiae under throne"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.131.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.131.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.131.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.131.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.131.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.131.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.131.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.131.rev.width175.jpg"
+      }
+    ]
+  }
+}

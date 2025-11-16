@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>0000.999.7552</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-11T13:01:20Z">May 11 2024 at 13:01:20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Bronze Coin of Domitian, Larissa, Thessaly, 81–96. 0000.999.7552</title>
+    <subjectSet>
+      <subject xml:id="f319885b-5d75-3ad8-a9e9-6709324f6507--559caa9b-6b27-304f-abd8-c1e562ed1d0a" localType="category">Roman--Provincial</subject>
+    </subjectSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <dateRange>
+        <fromDate standardDate="0081">81</fromDate>
+        <toDate standardDate="0096">96</toDate>
+      </dateRange>
+      <material xlink:href="http://nomisma.org/id/ae" xlink:type="simple">Bronze</material>
+      <authority>
+        <nuds:persname xmlns:nuds="http://nomisma.org/nuds" xlink:role="authority" xlink:href="http://nomisma.org/id/domitian" xlink:type="simple">Domitian</nuds:persname>
+        <nuds:corpname xmlns:nuds="http://nomisma.org/nuds" xlink:role="state" xlink:href="http://nomisma.org/id/roman_empire" xlink:type="simple">Roman Empire</nuds:corpname>
+      </authority>
+      <geographic>
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/larissa_thessaly" xlink:type="simple">Larissa, Thessaly</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/thessaly" xlink:type="simple">Thessaly</geogname>
+      </geographic>
+      <obverse>
+        <legend>ΔΟΜΙΤΙΑΝΟΝ ΚΑΙΣΑΡΑ ΘΕΣΣΑΛΟΙ</legend>
+        <nuds:type xmlns:nuds="http://nomisma.org/nuds">
+          <description xml:lang="en">Domitian head</description>
+        </nuds:type>
+        <nuds:persname xmlns:nuds="http://nomisma.org/nuds" xlink:href="http://nomisma.org/id/domitian" xlink:role="portrait" xlink:type="simple">Domitian</nuds:persname>
+      </obverse>
+      <reverse>
+        <legend>ΔΟΜΙΤΙΑΝ ΣΕΒΑΣΤΗΝ</legend>
+        <nuds:type xmlns:nuds="http://nomisma.org/nuds">
+          <description xml:lang="en">Domitia head</description>
+        </nuds:type>
+        <nuds:persname xmlns:nuds="http://nomisma.org/nuds" xlink:href="http://nomisma.org/id/domitia" xlink:role="portrait" xlink:type="simple">Domitia</nuds:persname>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>12</axis>
+      <measurementsSet>
+        <weight units="g">7.27</weight>
+      </measurementsSet>
+    </physDesc>
+    <nuds:refDesc xmlns:nuds="http://nomisma.org/nuds">
+      <reference xlink:href="https://rpc.ashmus.ox.ac.uk/type/6187" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RPC II, 281</reference>
+    </nuds:refDesc>
+    <adminDesc>
+      <nuds:identifier xmlns:nuds="http://nomisma.org/nuds">0000.999.7552</nuds:identifier>
+      <lot>0000.999</lot>
+      <department>Greek</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F00001899%2F0000%2F0000.999.7552.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/00001899/0000/0000.999.7552.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/00001899/0000/0000.999.7552.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/00001899/0000/0000.999.7552.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F00001899%2F0000%2F0000.999.7552.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/00001899/0000/0000.999.7552.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/00001899/0000/0000.999.7552.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/00001899/0000/0000.999.7552.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

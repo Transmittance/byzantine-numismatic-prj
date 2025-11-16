@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2004.14.94",
+    "coin_page_url": "https://numismatics.org/collection/2004.14.94",
+    "title": "Silver Hemidrachm of Vespasian, Caesarea in Cappadocia, 77–78. 2004.14.94",
+    "date_range": {
+      "from": "0077",
+      "to": "0078"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/hemidrachm",
+    "cat": "RPC II, 1659",
+    "Obverse_leg": "ΑΥΤΟΚΡ ΚΑΙϹΑΡ ΟΥΕϹΠΑϹΙΑΝΟϹ ϹΕΒΑ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "1.57 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Laurelate head of Vespasian to r.",
+      "reverse": "Nike flying r. holding wreath in r. and palm in l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2004/2004.14.94.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2004/2004.14.94.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2004/2004.14.94.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2004/2004.14.94.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2004/2004.14.94.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2004/2004.14.94.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2004/2004.14.94.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2004/2004.14.94.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49674",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49674",
+    "title": "Silver Denarius of Commodus, Rome, 181–182. 1944.100.49674",
+    "date_range": {
+      "from": "0181",
+      "to": "0182"
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC III Commodus 30",
+    "Obverse_leg": "M ANTONINVS COMMODVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.108 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "head laureate, right",
+      "reverse": "Pax standing, front, holding branch and sceptre"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49674.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49674.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49674.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49674.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49674.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49674.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49674.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49674.rev.width175.jpg"
+      }
+    ]
+  }
+}

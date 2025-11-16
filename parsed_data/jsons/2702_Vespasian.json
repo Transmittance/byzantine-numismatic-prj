@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1984.34.1",
+    "coin_page_url": "https://numismatics.org/collection/1984.34.1",
+    "title": "Silver Cistophorus of Vespasian, 72–73. 1984.34.1",
+    "date_range": {
+      "from": "0072",
+      "to": "0073"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/cistophorus",
+    "cat": null,
+    "Obverse_leg": "IMP VESP CAES AVG PONT MAX TRIB POT COS IIII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.92 g",
+      "diameter": "26.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Vespasian, laureate, right",
+      "reverse": "Hexastyle temple on podium of four steps with ROM ET AVG inscribed on frieze"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1984/1984.34.1.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.34.1.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.34.1.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.34.1.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1984/1984.34.1.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.34.1.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.34.1.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1984/1984.34.1.rev.width175.jpg"
+      }
+    ]
+  }
+}

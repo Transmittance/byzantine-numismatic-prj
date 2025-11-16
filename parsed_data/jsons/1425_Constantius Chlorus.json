@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.3221",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.3221",
+    "title": "Bronze AE1 of Maximian, Carthage, 299–303. 1944.100.3221",
+    "date_range": {
+      "from": "0299",
+      "to": "0303"
+    },
+    "obverse_portrait": "Constantius Chlorus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae1",
+    "cat": "RIC VI Carthage 32a",
+    "Obverse_leg": "CONSTANTIVS NOB CAES",
+    "rev_symbol": "-/-//Γ",
+    "measurements": {
+      "weight": "8.71 g",
+      "diameter": "27.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate right (larger bust)",
+      "reverse": "Carthago standing left holding fruits in both hands"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.3221.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3221.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3221.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3221.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.3221.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3221.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3221.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3221.rev.width175.jpg"
+      }
+    ]
+  }
+}

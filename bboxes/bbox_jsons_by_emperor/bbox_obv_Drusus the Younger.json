@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "2508_obv_Drusus the Younger__Germanicus__Tiberius.jpg",
+    "bbox": [
+      26.15117073059082,
+      42.821815490722656,
+      252.9208221435547,
+      287.7819519042969
+    ],
+    "confidence": 0.7402152419090271
+  },
+  {
+    "filename": "2505_obv_Drusus the Younger__Germanicus__Tiberius.jpg",
+    "bbox": [
+      30.396814346313477,
+      40.043704986572266,
+      247.50685119628906,
+      274.9098205566406
+    ],
+    "confidence": 0.3460400104522705
+  },
+  {
+    "filename": "2504_obv_Drusus the Younger__Germanicus__Tiberius.jpg",
+    "bbox": [
+      29.250152587890625,
+      76.1031494140625,
+      258.0279846191406,
+      292.9413757324219
+    ],
+    "confidence": 0.7184547185897827
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1960.170.201",
+    "coin_page_url": "https://numismatics.org/collection/1960.170.201",
+    "title": "Silver Denarius of Augustus, Uncertain value, 29 BCE–27 BCE. 1960.170.201",
+    "date_range": {
+      "from": "-0029",
+      "to": "-0027"
+    },
+    "obverse_portrait": "Octavian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC I (second edition) Augustus 266",
+    "Obverse_leg": null,
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.71 g",
+      "diameter": "19.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Augustus, bare, right",
+      "reverse": "Legend in pediment of colonnaded temple; Victory on globe at apex, warriors at angles"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1960/1960.170.201.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1960/1960.170.201.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1960/1960.170.201.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1960/1960.170.201.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1960/1960.170.201.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1960/1960.170.201.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1960/1960.170.201.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1960/1960.170.201.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.5286",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.5286",
+    "title": "Silver Argenteus of Maximian, Siscia, 294–295. 1944.100.5286",
+    "date_range": {
+      "from": "0294",
+      "to": "0295"
+    },
+    "obverse_portrait": "Maximian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/argenteus",
+    "cat": "RIC VI Siscia 43b",
+    "Obverse_leg": "MAXIMIA-NVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.01 g",
+      "diameter": "18 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate right",
+      "reverse": "Four Princes sacrificing over tripod before gate"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.5286.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5286.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5286.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5286.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.5286.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5286.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5286.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5286.rev.width175.jpg"
+      }
+    ]
+  }
+}

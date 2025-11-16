@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1967.153.37",
+    "coin_page_url": "https://numismatics.org/collection/1967.153.37",
+    "title": "Gold Aureus of Roman Republic, Rome, 40 BCE. 1967.153.37",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/aureus",
+    "cat": "RRC 526/1",
+    "Obverse_leg": "DIVI IVLI.F",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "8.08 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Octavian head r.",
+      "reverse": "Calf l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1967/1967.153.37.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.37.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.37.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.37.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1967/1967.153.37.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.37.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.37.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.37.rev.width175.jpg"
+      }
+    ]
+  }
+}

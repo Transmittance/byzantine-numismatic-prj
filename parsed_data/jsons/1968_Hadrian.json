@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1906.236.319",
+    "coin_page_url": "https://numismatics.org/collection/1906.236.319",
+    "title": "Bronze As of Hadrian, Rome, 121–122. 1906.236.319",
+    "date_range": {
+      "from": "0121",
+      "to": "0122"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RIC II Hadrian 616C",
+    "Obverse_leg": "IMP CAESAR TRAIAN HADRIANVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "11.28 g",
+      "diameter": "27 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Hadrian, laureate, draped, cuirassed, right",
+      "reverse": "Pax, draped, standing left, holding branch downwards in right hand and cornucopiae in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1906/1906.236.319.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.319.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.319.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.319.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1906/1906.236.319.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.319.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.319.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.319.rev.width175.jpg"
+      }
+    ]
+  }
+}

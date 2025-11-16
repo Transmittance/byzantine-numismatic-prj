@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1926.4.1",
+    "coin_page_url": "https://numismatics.org/collection/1926.4.1",
+    "title": "Bronze As of Domitian, Rome, 81–96. 1926.4.1",
+    "date_range": {
+      "from": "0081",
+      "to": "0096"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "\n        ",
+    "Obverse_leg": "[...]AES DOMIT [...]",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "11.012 g",
+      "diameter": "28 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Domitian, laureate, right",
+      "reverse": "Virtus standing right, resting foot on helmet, holding spear and parazonium"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1926/1926.4.1.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1926/1926.4.1.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1926/1926.4.1.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1926/1926.4.1.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1926/1926.4.1.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1926/1926.4.1.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1926/1926.4.1.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1926/1926.4.1.rev.width175.jpg"
+      }
+    ]
+  }
+}

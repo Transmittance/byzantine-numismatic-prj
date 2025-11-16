@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.16816",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.16816",
+    "title": "Bronze As of Gaius/Caligula, Rome, 37–38. 0000.999.16816",
+    "date_range": {
+      "from": "0037",
+      "to": "0038"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RIC I (second edition) Gaius/Caligula 38",
+    "Obverse_leg": "C CAESAR AVG GERMANICVS PON M TR POT",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "10.18 g",
+      "diameter": "17 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Caligula, bare, left",
+      "reverse": "Vesta, veiled and draped, seated left on throne with ornamented back and legs, holding patera in right hand and long transverse sceptre in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.16816.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.16816.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.16816.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.16816.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.16816.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.16816.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.16816.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.16816.rev.width175.jpg"
+      }
+    ]
+  }
+}

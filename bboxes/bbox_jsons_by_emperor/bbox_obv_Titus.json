@@ -1,0 +1,22 @@
+[
+  {
+    "filename": "1749_obv_Titus__Domitian.jpg",
+    "bbox": [
+      31.872251510620117,
+      13.700236320495605,
+      279.3861389160156,
+      300.0
+    ],
+    "confidence": 0.7216338515281677
+  },
+  {
+    "filename": "1748_obv_Titus__Domitian.jpg",
+    "bbox": [
+      42,
+      18,
+      266,
+      266
+    ],
+    "confidence": 1.0
+  }
+]

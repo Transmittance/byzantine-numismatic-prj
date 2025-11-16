@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49733",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49733",
+    "title": "Bronze Dupondius of Commodus, Rome, 181–182. 1944.100.49733",
+    "date_range": {
+      "from": "0181",
+      "to": "0182"
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/dupondius",
+    "cat": "RIC III Commodus 334",
+    "Obverse_leg": "M COMMODVS ANTONINVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "12.96 g",
+      "diameter": "24 mm"
+    },
+    "descriptions": {
+      "obverse": "Head radiate, r.",
+      "reverse": "Annona standing, front, holding two grain stalks in r. over modius with grain stalks l. and cornucopiae in l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49733.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49733.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49733.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49733.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49733.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49733.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49733.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49733.rev.width175.jpg"
+      }
+    ]
+  }
+}

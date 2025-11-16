@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.39338",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.39338",
+    "title": "Bronze Sestertius of Gaius/Caligula, Rome, 37–38. 1944.100.39338",
+    "date_range": {
+      "from": "0037",
+      "to": "0038"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC I (second edition) Gaius/Caligula 36",
+    "Obverse_leg": "C CAESAR AVG GERMANICVS P M TR POT PIETAS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "24.92 g",
+      "diameter": "34.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Pietas, veiled, draped, seated left, holding patera in right hand and resting left arm on a small draped figure, standing on a basis, facing",
+      "reverse": "Front view of hexastyle garlanded temple surmounted by quadriga. In front, Caligula, veiled and togate, sacrifices with patera over garlanded altar right; one attendant leads bull to altar right; a second holds patera"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.39338.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39338.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39338.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39338.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.39338.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39338.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39338.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39338.rev.width175.jpg"
+      }
+    ]
+  }
+}

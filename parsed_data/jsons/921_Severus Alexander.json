@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.52574",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.52574",
+    "title": "Gold Aureus of Severus Alexander, Rome, 231–235. 1944.100.52574",
+    "date_range": {
+      "from": "0231",
+      "to": "0235"
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/aureus",
+    "cat": "RIC IV Severus Alexander 251",
+    "Obverse_leg": "IMP ALEXANDER PIVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "6.81 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laur. dr. r.",
+      "reverse": "Providentia stg. front, holding grain stalks over modius l., and cornucopiae"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.52574.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52574.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52574.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52574.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.52574.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52574.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52574.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52574.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1973.239.8",
+    "coin_page_url": "https://numismatics.org/collection/1973.239.8",
+    "title": "Silver Denarius of Augustus, Uncertain value, 29 BCE–27 BCE. 1973.239.8",
+    "date_range": {
+      "from": "-0029",
+      "to": "-0027"
+    },
+    "obverse_portrait": "Octavian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC I (second edition) Augustus 267",
+    "Obverse_leg": null,
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.91 g",
+      "diameter": "20.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Augustus, bare, right",
+      "reverse": "Triumphal arch surmounted by quadriga in which Octavian stands"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1973/1973.239.8.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1973/1973.239.8.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1973/1973.239.8.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1973/1973.239.8.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1973/1973.239.8.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1973/1973.239.8.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1973/1973.239.8.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1973/1973.239.8.rev.width175.jpg"
+      }
+    ]
+  }
+}

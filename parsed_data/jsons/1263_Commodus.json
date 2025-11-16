@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49644",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49644",
+    "title": "Silver Denarius of Marcus Aurelius, Rome, 179. 1944.100.49644",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC III Marcus Aurelius 657",
+    "Obverse_leg": "L AVREL COMMODVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.17 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "head laureate, right",
+      "reverse": "Salus seated, left holding branch over snake left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49644.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49644.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49644.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49644.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49644.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49644.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49644.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49644.rev.width175.jpg"
+      }
+    ]
+  }
+}

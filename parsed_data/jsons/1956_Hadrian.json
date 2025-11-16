@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.47383",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.47383",
+    "title": "Bronze As of Hadrian, Rome, 132–134. 1944.100.47383",
+    "date_range": {
+      "from": "0132",
+      "to": "0134"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RIC II Hadrian 717f (as)",
+    "Obverse_leg": "HADRIANVS AVGVSTVS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "12.04 g",
+      "diameter": "25 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Hadrian, laureate, draped, right",
+      "reverse": "Hadrian, in military dress, with cloak flying behind him, on horse prancing right, holding spear in rest in right hand"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.47383.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47383.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47383.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47383.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.47383.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47383.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47383.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47383.rev.width175.jpg"
+      }
+    ]
+  }
+}

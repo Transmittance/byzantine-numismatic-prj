@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.25742",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.25742",
+    "title": "Silver Didrachm of Vespasian, Uncertain value, 76–77. 0000.999.25742",
+    "date_range": {
+      "from": "0076",
+      "to": "0077"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/didrachm",
+    "cat": "RPC II, 1810",
+    "Obverse_leg": "DOMITIANOS KAISAR",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "5.92 g",
+      "diameter": "21 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Zeus Salaminios stg. l. holding phiale in r. and sceptre in l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.25742.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.25742.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.25742.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.25742.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.25742.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.25742.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.25742.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.25742.rev.width175.jpg"
+      }
+    ]
+  }
+}

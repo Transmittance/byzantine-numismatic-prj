@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1953.171.1428",
+    "coin_page_url": "https://numismatics.org/collection/1953.171.1428",
+    "title": "Bronze Coin of Herod Agrippa II, Caesareia Panias, 74–75. 1953.171.1428",
+    "date_range": {
+      "from": "0074",
+      "to": "0075"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC II, 2278",
+    "Obverse_leg": "ΔΟΜΙΤΙΑΝΟΣ ΚΑΙΣΑΡ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.82 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Domitian hd. laur. r.",
+      "reverse": "Nike stg. r. inscribing shield"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1953/1953.171.1428.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1428.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1428.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1428.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1953/1953.171.1428.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1428.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1428.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1428.rev.width175.jpg"
+      }
+    ]
+  }
+}

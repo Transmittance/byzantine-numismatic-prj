@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.53950",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.53950",
+    "title": "Bronze Hemidrachm of Domitian, Alexandria, 91–92. 1944.100.53950",
+    "date_range": {
+      "from": "0091",
+      "to": "0092"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/hemidrachm",
+    "cat": "RPC II, 2617",
+    "Obverse_leg": "AVT KAIS THEO VIOS DOMIT SEB GERM",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "11.07 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Pharos"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.53950.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53950.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53950.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53950.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.53950.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53950.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53950.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53950.rev.width175.jpg"
+      }
+    ]
+  }
+}

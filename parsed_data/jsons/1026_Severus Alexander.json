@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1951.61.87",
+    "coin_page_url": "https://numismatics.org/collection/1951.61.87",
+    "title": "Bronze As of Severus Alexander, Rome, 221. 1951.61.87",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RIC IV Severus Alexander 381",
+    "Obverse_leg": "M AVR ALEXANDER CAES",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "10.75 g",
+      "diameter": "27.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust, head bare, draped, cuirassed, right",
+      "reverse": "Alexander, in military attire, standing left, holding baton in right and sceptre in left, two standards to right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1951/1951.61.87.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1951/1951.61.87.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1951/1951.61.87.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1951/1951.61.87.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1951/1951.61.87.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1951/1951.61.87.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1951/1951.61.87.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1951/1951.61.87.rev.width175.jpg"
+      }
+    ]
+  }
+}

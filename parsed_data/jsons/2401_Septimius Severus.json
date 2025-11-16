@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.50189",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.50189",
+    "title": "Silver Denarius of Septimius Severus, Rome, 201. 1944.100.50189",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Septimius Severus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC IV Septimius Severus 176",
+    "Obverse_leg": "SEVERVS PIVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.41 g",
+      "diameter": "17.9 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, right",
+      "reverse": "Trophy with two captive seated, flanking"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50189.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50189.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50189.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50189.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.50189.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50189.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50189.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.50189.rev.width175.jpg"
+      }
+    ]
+  }
+}

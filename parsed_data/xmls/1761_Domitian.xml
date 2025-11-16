@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>1944.100.62878</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-15T15:47:37Z">May 15 2024 at 15:47:37</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Bronze Coin of Herod Agrippa II, Tiberias, 73–74. 1944.100.62878</title>
+    <descriptionSet>
+      <description xml:lang="en">under Domitian</description>
+    </descriptionSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <dateRange>
+        <fromDate standardDate="0073">73</fromDate>
+        <toDate standardDate="0074">74</toDate>
+      </dateRange>
+      <material xlink:href="http://nomisma.org/id/ae" xlink:type="simple">Bronze</material>
+      <authority>
+        <persname xlink:role="authority" xlink:href="http://nomisma.org/id/herod_agrippa_ii_judaea" xlink:type="simple">Herod Agrippa II</persname>
+        <corpname xlink:role="state" xlink:href="http://nomisma.org/id/judaean_kingdom" xlink:type="simple">Kingdom of Judaea</corpname>
+      </authority>
+      <geographic>
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/tiberias" xlink:type="simple">Tiberias</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/galilaea" xlink:type="simple">Galilee</geogname>
+      </geographic>
+      <obverse>
+        <legend>ΔΟΥΜΙΤΙΑΝΟΣ ΚΑΙΣΑΡ</legend>
+        <type>
+          <description xml:lang="en">Domitian hd. laur. r.</description>
+        </type>
+        <persname xlink:href="http://nomisma.org/id/domitian" xlink:role="portrait" xlink:type="simple">Domitian</persname>
+      </obverse>
+      <reverse>
+        <legend>L ΙΔΒΑΣΙ ΑΓΡΙΠΟ</legend>
+        <type>
+          <description xml:lang="en">Nike stg. l. inscribing shield</description>
+        </type>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>12</axis>
+      <measurementsSet>
+        <weight units="g">5.67</weight>
+      </measurementsSet>
+    </physDesc>
+    <refDesc>
+      <reference xlink:href="https://rpc.ashmus.ox.ac.uk/type/7762" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RPC II, 2251</reference>
+      <reference>
+        <tei:title>GBC.6334</tei:title>
+      </reference>
+      <reference>
+        <tei:title>SNGANS.6.293</tei:title>
+      </reference>
+      <citation>SNG.293</citation>
+    </refDesc>
+    <adminDesc>
+      <identifier>1944.100.62878</identifier>
+      <lot>1944.100</lot>
+      <department>Greek</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+      <acknowledgment xlink:href="http://www.wikidata.org/entity/Q4744206" localType="imageSponsor">American Israel Numismatic Association</acknowledgment>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.62878.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.62878.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.62878.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.62878.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.62878.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.62878.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.62878.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.62878.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

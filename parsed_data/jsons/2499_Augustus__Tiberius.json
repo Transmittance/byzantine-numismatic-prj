@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1953.171.669",
+    "coin_page_url": "https://numismatics.org/collection/1953.171.669",
+    "title": "Bronze Coin of Tiberius, Dyme. 1953.171.669",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Augustus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC I, 1289",
+    "Obverse_leg": "AVGV C I A D",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "5.32 g",
+      "diameter": "21 mm"
+    },
+    "descriptions": {
+      "obverse": "male head r.",
+      "reverse": "male head rad."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1953/1953.171.669.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.669.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.669.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.669.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1953/1953.171.669.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.669.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.669.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.669.rev.width175.jpg"
+      }
+    ]
+  }
+}

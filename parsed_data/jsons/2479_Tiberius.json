@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1974.226.214",
+    "coin_page_url": "https://numismatics.org/collection/1974.226.214",
+    "title": "Bronze Coin of Tiberius, Utica. 1974.226.214",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC I, 725",
+    "Obverse_leg": "TI CAESAR DIVI AVG IMP VII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "5.86 g",
+      "diameter": "25 mm"
+    },
+    "descriptions": {
+      "obverse": "Head r.",
+      "reverse": "Livia seated r."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1974/1974.226.214.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1974/1974.226.214.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1974/1974.226.214.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1974/1974.226.214.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1974/1974.226.214.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1974/1974.226.214.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1974/1974.226.214.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1974/1974.226.214.rev.width175.jpg"
+      }
+    ]
+  }
+}

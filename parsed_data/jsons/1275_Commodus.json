@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49656",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49656",
+    "title": "Bronze Sestertius of Marcus Aurelius, Rome, 177. 1944.100.49656",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC III Marcus Aurelius 1584",
+    "Obverse_leg": "L AVREL COMMODVS AVG GERM SARM",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "22.33 g",
+      "diameter": "30 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, draped, right",
+      "reverse": "Commodus standing, sacrificing out of patera in right hand over tripod altar left, holding roll in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49656.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49656.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49656.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49656.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49656.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49656.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49656.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49656.rev.width175.jpg"
+      }
+    ]
+  }
+}

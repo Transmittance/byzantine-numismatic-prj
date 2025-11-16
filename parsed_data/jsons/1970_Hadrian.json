@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1906.236.325",
+    "coin_page_url": "https://numismatics.org/collection/1906.236.325",
+    "title": "Bronze As of Hadrian, Rome, 125–128. 1906.236.325",
+    "date_range": {
+      "from": "0125",
+      "to": "0128"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RIC II Hadrian 669d",
+    "Obverse_leg": "HADRIANVS AVGVSTVS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "9.1 g",
+      "diameter": "25 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Hadrian, laureate, draped on left shoulder, right",
+      "reverse": "Salus, draped, standing right, feeding out of patera in left hand snake held in right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1906/1906.236.325.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.325.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.325.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.325.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1906/1906.236.325.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.325.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.325.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1906/1906.236.325.rev.width175.jpg"
+      }
+    ]
+  }
+}

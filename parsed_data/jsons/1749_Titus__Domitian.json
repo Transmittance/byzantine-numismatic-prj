@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2012.82.66",
+    "coin_page_url": "https://numismatics.org/collection/2012.82.66",
+    "title": "Bronze Coin of Herod Agrippa II, Caesareia Panias, 75–77. 2012.82.66",
+    "date_range": {
+      "from": "0075",
+      "to": "0077"
+    },
+    "obverse_portrait": "Titus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC II, 2284",
+    "Obverse_leg": "[ΑΥΤ]ΟΚΡΑ ΚΑΙCΑΡ ΤΙΤΟC ΚΑ[Ι ΔΟΜΕΤΙΑΝΟC]",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "26.8 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Confronting laureate busts of Titus on l. and Domitian on r.",
+      "reverse": "Pan walking to l., playing the syrinx he holds in r. hand and leaning pedum over shoulder; behind, tree trunks; small crescent in upper l. field."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2012/2012.82.66.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.66.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.66.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.66.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2012/2012.82.66.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.66.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.66.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.66.rev.width175.jpg"
+      }
+    ]
+  }
+}

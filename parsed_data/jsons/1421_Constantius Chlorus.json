@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.3217",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.3217",
+    "title": "Bronze AE1 of Maximian, Carthage, 298–299. 1944.100.3217",
+    "date_range": {
+      "from": "0298",
+      "to": "0299"
+    },
+    "obverse_portrait": "Constantius Chlorus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae1",
+    "cat": "RIC VI Carthage 30a",
+    "Obverse_leg": "CONSTA[NTIVS] NOB CAES",
+    "rev_symbol": "-/-//Γ",
+    "measurements": {
+      "weight": "9.46 g",
+      "diameter": "27 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate right (smaller bust)",
+      "reverse": "Carthago standing left holding fruits in both hands"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.3217.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3217.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3217.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3217.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.3217.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3217.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3217.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3217.rev.width175.jpg"
+      }
+    ]
+  }
+}

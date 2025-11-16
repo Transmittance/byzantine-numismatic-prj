@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1954.256.16",
+    "coin_page_url": "https://numismatics.org/collection/1954.256.16",
+    "title": "Gold Aureus of Hadrian, Rome, 117. 1954.256.16",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/aureus",
+    "cat": "RIC II Hadrian 16",
+    "Obverse_leg": "IMP CAES TRAIAN HADRIANO AVG DIVI TRA PARTH F",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.39 g",
+      "diameter": "18.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Hadrian, laureate, draped,cuirassed, right",
+      "reverse": "Bust of Sol, radiate, right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1954/1954.256.16.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.256.16.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.256.16.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.256.16.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1954/1954.256.16.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.256.16.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.256.16.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.256.16.rev.width175.jpg"
+      }
+    ]
+  }
+}

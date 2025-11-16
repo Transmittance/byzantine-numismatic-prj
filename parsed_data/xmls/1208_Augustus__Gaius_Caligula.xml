@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>1944.100.43934</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-13T02:53:49Z">May 13 2024 at 2:53:49</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Bronze Coin of Gaius/Caligula, Ilium, 37–41. 1944.100.43934</title>
+    <descriptionSet>
+      <description xml:lang="en">Imperial times</description>
+    </descriptionSet>
+    <subjectSet>
+      <subject xml:id="f319885b-5d75-3ad8-a9e9-6709324f6507--559caa9b-6b27-304f-abd8-c1e562ed1d0a" localType="category">Roman--Provincial</subject>
+    </subjectSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <dateRange>
+        <fromDate standardDate="0037">37</fromDate>
+        <nuds:toDate xmlns:nuds="http://nomisma.org/nuds" standardDate="0041">41</nuds:toDate>
+      </dateRange>
+      <material xlink:href="http://nomisma.org/id/ae" xlink:type="simple">Bronze</material>
+      <nuds:authority xmlns:nuds="http://nomisma.org/nuds">
+        <persname xlink:role="authority" xlink:href="http://nomisma.org/id/gaius" xlink:type="simple">Gaius/Caligula</persname>
+        <nuds:corpname xlink:role="state" xlink:href="http://nomisma.org/id/roman_empire" xlink:type="simple">Roman Empire</nuds:corpname>
+      </nuds:authority>
+      <nuds:geographic xmlns:nuds="http://nomisma.org/nuds">
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/ilium" xlink:type="simple">Ilium</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/troas" xlink:type="simple">Troas</geogname>
+      </nuds:geographic>
+      <nuds:obverse xmlns:nuds="http://nomisma.org/nuds">
+        <legend>
+          <tei:div type="edition">
+            <tei:ab>ΓΑΙΟΣ ΚΑΙΣΑΡ ΘΕΟΣ ΑΥΤΟΚΡΑΤΩΡ ΣΕΒΑΣΤΟΙ</tei:ab>
+          </tei:div>
+        </legend>
+        <nuds:type>
+          <description xml:lang="en">Caligula and Augustus heads confronted</description>
+        </nuds:type>
+        <persname xlink:href="http://nomisma.org/id/augustus" xlink:role="portrait" xlink:type="simple">Augustus</persname>
+        <persname xlink:href="http://nomisma.org/id/gaius" xlink:role="portrait" xlink:type="simple">Gaius/Caligula</persname>
+      </nuds:obverse>
+      <reverse>
+        <legend>
+          <tei:div type="edition">
+            <tei:ab>ΘΕΑ ΡΩΜΗ ΙΕΡΑ ΣΥΝΚΛΗΤΟΣ ΙΛΙ</tei:ab>
+          </tei:div>
+        </legend>
+        <nuds:type xmlns:nuds="http://nomisma.org/nuds">
+          <description xml:lang="en">Athena statue facing between heads of Roma and the Senate</description>
+        </nuds:type>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>12</axis>
+      <measurementsSet>
+        <weight units="g">13.43</weight>
+      </measurementsSet>
+    </physDesc>
+    <nuds:refDesc xmlns:nuds="http://nomisma.org/nuds">
+      <nuds:reference xlink:href="https://rpc.ashmus.ox.ac.uk/type/65099" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RPC I, 2312</nuds:reference>
+      <nuds:reference>
+        <tei:title>B. T.120: RPC.2312</tei:title>
+      </nuds:reference>
+    </nuds:refDesc>
+    <adminDesc>
+      <nuds:identifier xmlns:nuds="http://nomisma.org/nuds">1944.100.43934</nuds:identifier>
+      <lot>1944.100</lot>
+      <department>Greek</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.43934.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.43934.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.43934.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.43934.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.43934.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.43934.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.43934.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.43934.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

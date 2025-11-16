@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1927.165.9",
+    "coin_page_url": "https://numismatics.org/collection/1927.165.9",
+    "title": "Bronze Sestertius of Gaius/Caligula, Rome, 39–40. 1927.165.9",
+    "date_range": {
+      "from": "0039",
+      "to": "0040"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC I (second edition) Gaius/Caligula 44",
+    "Obverse_leg": "TI CAESAR DIVI AVG F AVGVST IMP VIII PIETAS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "27.35 g",
+      "diameter": "35 mm"
+    },
+    "descriptions": {
+      "obverse": "Pietas, veiled, draped, seated left, holding patera in right hand and resting left arm on a small draped figure, standing on a basis, facing",
+      "reverse": "Front view of hexastyle garlanded temple surmounted by quadriga. In front, Caligula, veiled and togate, sacrifices with patera over garlanded altar right; one attendant leads bull to altar right; a second holds patera"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1927/1927.165.9.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1927/1927.165.9.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1927/1927.165.9.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1927/1927.165.9.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1927/1927.165.9.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1927/1927.165.9.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1927/1927.165.9.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1927/1927.165.9.rev.width175.jpg"
+      }
+    ]
+  }
+}

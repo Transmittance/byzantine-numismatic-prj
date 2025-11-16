@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.3156",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.3156",
+    "title": "Bronze Fraction of Maximian, Carthage, 303. 0000.999.3156",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Constantius Chlorus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/fraction",
+    "cat": "RIC VI Carthage 35a",
+    "Obverse_leg": "FL VAL CONSTANTIVS NOB C",
+    "rev_symbol": "-/-//FK",
+    "measurements": {
+      "weight": "2.99 g",
+      "diameter": "20.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust radiate draped cuirassed right",
+      "reverse": "Legend in wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.3156.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3156.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3156.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3156.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.3156.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3156.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3156.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3156.rev.width175.jpg"
+      }
+    ]
+  }
+}

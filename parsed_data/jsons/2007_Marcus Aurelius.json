@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49155",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49155",
+    "title": "Bronze Sestertius of Marcus Aurelius, Rome, 163–164. 1944.100.49155",
+    "date_range": {
+      "from": "0163",
+      "to": "0164"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC III Marcus Aurelius 861",
+    "Obverse_leg": "M AVREL ANTONINVS AVG ARMENIACVS P M",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "26.02 g",
+      "diameter": "34 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, right",
+      "reverse": "Mars standing, right holding vertical spear and right hand resting on shield on ground"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49155.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49155.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49155.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49155.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49155.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49155.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49155.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49155.rev.width175.jpg"
+      }
+    ]
+  }
+}

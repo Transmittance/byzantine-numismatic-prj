@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1955.21.13",
+    "coin_page_url": "https://numismatics.org/collection/1955.21.13",
+    "title": "Silver Cistophorus of Hadrian, Ephesus, 128–132. 1955.21.13",
+    "date_range": {
+      "from": "0128",
+      "to": "0132"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/cistophorus",
+    "cat": "RIC II Hadrian 481a",
+    "Obverse_leg": "HADRIANVS AVGVSTVS P P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "8.21 g",
+      "diameter": "27 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Hadrian, bare, right",
+      "reverse": "Asclepius, draped, standing front, head left, holding serpent-wreathed rod on ground in right hand and left arm at side"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1955/1955.21.13.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.13.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.13.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.13.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1955/1955.21.13.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.13.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.13.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.13.rev.width175.jpg"
+      }
+    ]
+  }
+}

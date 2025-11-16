@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1967.153.134",
+    "coin_page_url": "https://numismatics.org/collection/1967.153.134",
+    "title": "Bronze Sestertius of Domitian, Rome, 88–89. 1967.153.134",
+    "date_range": {
+      "from": "0088",
+      "to": "0089"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "\n        ",
+    "Obverse_leg": "IMP CAES DOMIT AVG GERM COS XIIII CENS PER P P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "29.76 g",
+      "diameter": "34 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Domitian, laureate, right",
+      "reverse": "Domitian seated left on platform inscribed SVF P D, handing suffimenta to male citizen; child extends arms upward toward him. In background, facade of tetrastyle temple."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1967/1967.153.134.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.134.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.134.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.134.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1967/1967.153.134.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.134.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.134.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.153.134.rev.width175.jpg"
+      }
+    ]
+  }
+}

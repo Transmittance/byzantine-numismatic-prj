@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1954.203.70",
+    "coin_page_url": "https://numismatics.org/collection/1954.203.70",
+    "title": "Silver Argenteus of Maximian, Siscia, 295. 1954.203.70",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Maximian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/argenteus",
+    "cat": "RIC VI Siscia 50",
+    "Obverse_leg": "MAXIMIA-NVS AVG",
+    "rev_symbol": "-/-//SIS",
+    "measurements": {
+      "weight": "2.76 g",
+      "diameter": "18 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate right",
+      "reverse": "Four Princes sacrificing over tripod before gate"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1954/1954.203.70.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.70.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.70.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.70.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1954/1954.203.70.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.70.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.70.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.70.rev.width175.jpg"
+      }
+    ]
+  }
+}

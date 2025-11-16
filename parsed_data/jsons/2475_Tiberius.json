@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1992.54.787",
+    "coin_page_url": "https://numismatics.org/collection/1992.54.787",
+    "title": "Bronze Dichalkon of Tiberius, Berytus, 14–20. 1992.54.787",
+    "date_range": {
+      "from": "0014",
+      "to": "0020"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/dichalkon",
+    "cat": "RPC I, 4543",
+    "Obverse_leg": "TI CAESAR AVGVST F IMPERAT VII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "18.44 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Tiberius r.",
+      "reverse": "Male veiled fig. plowing r. with 2 oxen"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1992/1992.54.787.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1992/1992.54.787.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1992/1992.54.787.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1992/1992.54.787.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1992/1992.54.787.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1992/1992.54.787.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1992/1992.54.787.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1992/1992.54.787.rev.width175.jpg"
+      }
+    ]
+  }
+}

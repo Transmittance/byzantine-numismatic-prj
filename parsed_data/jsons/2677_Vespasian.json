@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.84885",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.84885",
+    "title": "Silver Tetradrachm of Vespasian, Antioch, Syria, 69–70. 1944.100.84885",
+    "date_range": {
+      "from": "0069",
+      "to": "0070"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/tetradrachm",
+    "cat": "RPC II, 1972",
+    "Obverse_leg": "AVTOKRATOR OVESPASIANOS KAISAR SEBASTOS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "14.26 g",
+      "diameter": "26 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Eagle l. on club, wreath in beak"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.84885.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.84885.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.84885.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.84885.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.84885.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.84885.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.84885.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.84885.rev.width175.jpg"
+      }
+    ]
+  }
+}

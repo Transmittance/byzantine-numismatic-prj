@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>2012.34.25</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-24T01:10:21Z">May 24 2024 at 1:10:21</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Silver Denarius of Roman Republic, Uncertain value, 39 BCE. 2012.34.25</title>
+    <descriptionSet>
+      <description xml:lang="en">Scarce.</description>
+    </descriptionSet>
+    <subjectSet>
+      <subject xml:id="f319885b-5d75-3ad8-a9e9-6709324f6507--26483061-1a0f-346b-99ba-828d64ddff25" localType="category">Roman--Republican</subject>
+    </subjectSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <date standardDate="-0039">39 BCE</date>
+      <nuds:denomination xmlns:nuds="http://nomisma.org/nuds" xlink:href="http://nomisma.org/id/denarius" xlink:type="simple">Denarius</nuds:denomination>
+      <material xlink:href="http://nomisma.org/id/ar" xlink:type="simple">Silver</material>
+      <authority>
+        <persname xlink:role="issuer" xlink:href="http://nomisma.org/id/mark_antony" xlink:type="simple">Mark Antony</persname>
+        <corpname xlink:role="state" xlink:href="http://nomisma.org/id/roman_republic" xlink:type="simple">Roman Republic</corpname>
+      </authority>
+      <nuds:geographic xmlns:nuds="http://nomisma.org/nuds">
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/uncertain_value" xlink:type="simple">Uncertain</geogname>
+      </nuds:geographic>
+      <nuds:obverse xmlns:nuds="http://nomisma.org/nuds">
+        <legend>M.ANTON.IMP.AVG.III.VIR.R.P.C</legend>
+        <nuds:type>
+          <description xml:lang="en">Head of Antonius to r.</description>
+        </nuds:type>
+      </nuds:obverse>
+      <reverse>
+        <legend>CAESAR.IMP.IIIVIR.R.P.C</legend>
+        <nuds:type xmlns:nuds="http://nomisma.org/nuds">
+          <description xml:lang="en">Bearded head of Octavian to r.</description>
+        </nuds:type>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>3</axis>
+      <measurementsSet>
+        <weight units="g">3.53</weight>
+        <diameter units="mm">18</diameter>
+      </measurementsSet>
+    </physDesc>
+    <nuds:refDesc xmlns:nuds="http://nomisma.org/nuds">
+      <reference xlink:href="http://numismatics.org/crro/id/rrc-528.2b" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RRC 528/2b</reference>
+      <reference>
+        <tei:title>Sydenham.1193a</tei:title>
+      </reference>
+      <reference>
+        <tei:title>Babelon.Antonia.38</tei:title>
+      </reference>
+      <reference>
+        <tei:title>Sear.Imperators.261a</tei:title>
+      </reference>
+    </nuds:refDesc>
+    <adminDesc>
+      <nuds:identifier xmlns:nuds="http://nomisma.org/nuds">2012.34.25</nuds:identifier>
+      <lot>2012.34</lot>
+      <department>Roman</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+      <provenance>
+        <chronList>
+          <chronItem>
+            <previousColl>Ex Lanz sale 62, 1992, 494; ex NAC 63, 2012, 564 (RBW Collection part 2).</previousColl>
+          </chronItem>
+        </chronList>
+      </provenance>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F20002049%2F2012%2F2012.34.25.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2012/2012.34.25.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2012/2012.34.25.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2012/2012.34.25.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F20002049%2F2012%2F2012.34.25.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2012/2012.34.25.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2012/2012.34.25.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2012/2012.34.25.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

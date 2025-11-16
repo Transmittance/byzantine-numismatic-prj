@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1937.158.448",
+    "coin_page_url": "https://numismatics.org/collection/1937.158.448",
+    "title": "Silver Denarius of Augustus, Uncertain value, 29 BCE–27 BCE. 1937.158.448",
+    "date_range": {
+      "from": "-0029",
+      "to": "-0027"
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC I (second edition) Augustus 271",
+    "Obverse_leg": null,
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.83 g",
+      "diameter": "20.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Apollo, laureate, right",
+      "reverse": "Rostral column with prows of ships; on top, statue of Octavian"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1937/1937.158.448.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1937/1937.158.448.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1937/1937.158.448.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1937/1937.158.448.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1937/1937.158.448.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1937/1937.158.448.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1937/1937.158.448.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1937/1937.158.448.rev.width175.jpg"
+      }
+    ]
+  }
+}

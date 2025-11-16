@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1995.11.1649",
+    "coin_page_url": "https://numismatics.org/collection/1995.11.1649",
+    "title": "Silver Denarius of Roman Republic, Uncertain value, 41 BCE. 1995.11.1649",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RRC 517/2",
+    "Obverse_leg": "M.ANT.IMP.AVG.III.VIR.R.P.C.M.BARBAT.Q.P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.88 g",
+      "diameter": "19.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of M. Antonius r.",
+      "reverse": "Head of Octavian r., bearded"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1995/1995.11.1649.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1649.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1649.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1649.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1995/1995.11.1649.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1649.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1649.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1649.rev.width175.jpg"
+      }
+    ]
+  }
+}

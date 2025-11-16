@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1954.203.71",
+    "coin_page_url": "https://numismatics.org/collection/1954.203.71",
+    "title": "Bronze AE1 of Maximian, Trier, 302–303. 1954.203.71",
+    "date_range": {
+      "from": "0302",
+      "to": "0303"
+    },
+    "obverse_portrait": "Constantius Chlorus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae1",
+    "cat": "RIC VI Treveri 542",
+    "Obverse_leg": "CONSTANTIVS NOB C",
+    "rev_symbol": "S/F//IITR",
+    "measurements": {
+      "weight": "8.89 g",
+      "diameter": "28 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laur. cuir. l.",
+      "reverse": "Genius stg. l., holding patera and cornucopiae"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1954/1954.203.71.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.71.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.71.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.71.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1954/1954.203.71.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.71.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.71.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1954/1954.203.71.rev.width175.jpg"
+      }
+    ]
+  }
+}

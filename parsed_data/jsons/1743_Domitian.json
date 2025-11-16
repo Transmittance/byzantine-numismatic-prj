@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2016.15.277",
+    "coin_page_url": "https://numismatics.org/collection/2016.15.277",
+    "title": "Bronze Coin of Herod Agrippa II, Caesareia Panias, 77–78. 2016.15.277",
+    "date_range": {
+      "from": "0077",
+      "to": "0078"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "\n        ",
+    "Obverse_leg": "ΔΟΜΙΤIANOC ΚΑΙCAP",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "6.37 g",
+      "diameter": "20.6 mm"
+    },
+    "descriptions": {
+      "obverse": "\"Domitian Caesar,\" Domitian laureate bust right.",
+      "reverse": "\"Year 29, King Agrippa,\" Nike-Victory stands r., l. foot on helmet, writes on shield which rests on her l. knee."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.15.277.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.277.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.277.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.277.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.15.277.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.277.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.277.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.277.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1987.24.2",
+    "coin_page_url": "https://numismatics.org/collection/1987.24.2",
+    "title": "Silver Denarius of Vespasian, 69–70. 1987.24.2",
+    "date_range": {
+      "from": "0069",
+      "to": "0070"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "\n        ",
+    "Obverse_leg": "IMP CAESAR VESPASIANVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.44 g",
+      "diameter": "18.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Pontifical implements"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1987/1987.24.2.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1987/1987.24.2.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1987/1987.24.2.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1987/1987.24.2.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1987/1987.24.2.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1987/1987.24.2.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1987/1987.24.2.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1987/1987.24.2.rev.width175.jpg"
+      }
+    ]
+  }
+}

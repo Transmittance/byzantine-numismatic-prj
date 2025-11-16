@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.62878",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.62878",
+    "title": "Bronze Coin of Herod Agrippa II, Tiberias, 73–74. 1944.100.62878",
+    "date_range": {
+      "from": "0073",
+      "to": "0074"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC II, 2251",
+    "Obverse_leg": "ΔΟΥΜΙΤΙΑΝΟΣ ΚΑΙΣΑΡ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "5.67 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Domitian hd. laur. r.",
+      "reverse": "Nike stg. l. inscribing shield"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.62878.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.62878.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.62878.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.62878.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.62878.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.62878.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.62878.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.62878.rev.width175.jpg"
+      }
+    ]
+  }
+}

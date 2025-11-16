@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>2008.24.5</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-16T17:26:51Z">May 16 2024 at 17:26:51</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Bronze Coin of Roman Republic, Ephesus, 43 BCE–33 BCE. 2008.24.5</title>
+    <descriptionSet>
+      <description xml:lang="en">VF, black-green patina with traces of lighter olive overtones.</description>
+    </descriptionSet>
+    <subjectSet>
+      <subject xml:id="f319885b-5d75-3ad8-a9e9-6709324f6507--559caa9b-6b27-304f-abd8-c1e562ed1d0a" localType="category">Roman--Provincial</subject>
+    </subjectSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <dateRange>
+        <fromDate standardDate="-0043">43 BCE</fromDate>
+        <toDate standardDate="-0033">33 BCE</toDate>
+      </dateRange>
+      <material xlink:href="http://nomisma.org/id/ae" xlink:type="simple">Bronze</material>
+      <authority>
+        <corpname xlink:role="state" xlink:href="http://nomisma.org/id/roman_republic" xlink:type="simple">Roman Republic</corpname>
+      </authority>
+      <geographic>
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/ephesus" xlink:type="simple">Ephesus</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/ionia" xlink:type="simple">Ionia</geogname>
+      </geographic>
+      <obverse>
+        <legend>Mute.</legend>
+        <type>
+          <description xml:lang="en">Jugate bare heads of Octavian, Mark Antony, and Lepidus to r.</description>
+        </type>
+        <persname xlink:href="http://nomisma.org/id/octavian" xlink:role="portrait" xlink:type="simple">Octavian</persname>
+        <persname xlink:href="http://nomisma.org/id/m_lepidvs_rrc" xlink:role="portrait" xlink:type="simple">M. Aemilius Lepidus</persname>
+        <persname xlink:href="http://nomisma.org/id/mark_antony" xlink:role="portrait" xlink:type="simple">Mark Antony</persname>
+      </obverse>
+      <reverse>
+        <legend>Mute.</legend>
+        <type>
+          <description xml:lang="en">EΦE across upper fields, facing cult statue of Artemis (Diana) Ephesia.</description>
+        </type>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>12</axis>
+      <measurementsSet>
+        <weight units="g">2.04</weight>
+        <diameter units="mm">15.6</diameter>
+      </measurementsSet>
+    </physDesc>
+    <refDesc>
+      <reference xlink:href="https://rpc.ashmus.ox.ac.uk/type/65497" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RPC I, 2569</reference>
+      <reference>
+        <tei:title>RPC.I.2569.10</tei:title>
+      </reference>
+      <reference>
+        <tei:title>SNG.München.97</tei:title>
+      </reference>
+      <reference>
+        <tei:title>BMC.191</tei:title>
+      </reference>
+      <reference>
+        <tei:title>SNG.Copenhagen.357</tei:title>
+      </reference>
+    </refDesc>
+    <adminDesc>
+      <identifier>2008.24.5</identifier>
+      <lot>2008.24</lot>
+      <department>Greek</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+      <provenance>
+        <chronList>
+          <chronItem>
+            <previousColl>CNG, Triton XI, lot 480. From the Patrick Villemur Coll.</previousColl>
+          </chronItem>
+        </chronList>
+      </provenance>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F20002049%2F2008%2F2008.24.5.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2008/2008.24.5.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2008/2008.24.5.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2008/2008.24.5.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F20002049%2F2008%2F2008.24.5.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2008/2008.24.5.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2008/2008.24.5.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/20002049/2008/2008.24.5.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

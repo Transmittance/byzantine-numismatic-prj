@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.39150",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.39150",
+    "title": "Silver Denarius of Augustus, Uncertain value, 29 BCE–27 BCE. 1944.100.39150",
+    "date_range": {
+      "from": "-0029",
+      "to": "-0027"
+    },
+    "obverse_portrait": "Octavian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC I (second edition) Augustus 269A",
+    "Obverse_leg": null,
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.67 g",
+      "diameter": "20 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Augustus, bare, right",
+      "reverse": "Terminal figure of Octavian, placed on thunderbolt"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.39150.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39150.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39150.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39150.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.39150.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39150.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39150.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39150.rev.width175.jpg"
+      }
+    ]
+  }
+}

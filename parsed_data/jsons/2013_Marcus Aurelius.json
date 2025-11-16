@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49161",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49161",
+    "title": "Bronze Sestertius of Marcus Aurelius, Rome, 165–166. 1944.100.49161",
+    "date_range": {
+      "from": "0165",
+      "to": "0166"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC III Marcus Aurelius 923",
+    "Obverse_leg": "M ANTONINVS AVG ARMENIACVS P M",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "25.12 g",
+      "diameter": "32 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate, right",
+      "reverse": "Providentia standing, front, holding wand over globe on ground left, and vertical sceptre"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49161.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49161.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49161.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49161.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49161.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49161.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49161.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49161.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.63489",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.63489",
+    "title": "Silver Tetradrachm of Vespasian, Antioch, Syria, 72–73. 1944.100.63489",
+    "date_range": {
+      "from": "0072",
+      "to": "0073"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/tetradrachm",
+    "cat": "RPC II, 1951",
+    "Obverse_leg": "AVTOKRAT KAISA OVESPASOANOV [4-barred E and S]",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "14.52 g",
+      "diameter": "24.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Eagle l. on club"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.63489.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63489.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63489.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63489.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.63489.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63489.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63489.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63489.rev.width175.jpg"
+      }
+    ]
+  }
+}

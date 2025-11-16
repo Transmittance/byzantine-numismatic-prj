@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1933.999.612",
+    "coin_page_url": "https://numismatics.org/collection/1933.999.612",
+    "title": "Billon Tetradrachm of Hadrian, Alexandria, 124–125. 1933.999.612",
+    "date_range": {
+      "from": "0124",
+      "to": "0125"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/billon",
+    "denomination": "http://nomisma.org/id/tetradrachm",
+    "cat": "\n        ",
+    "Obverse_leg": "AVT KAI TRAI ADRIA SEB",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "13.71 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, draped, cuirassed, r.",
+      "reverse": "Tyche standing, l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.612.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.612.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.612.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.612.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1933/1933.999.612.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.612.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.612.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1933/1933.999.612.rev.width175.jpg"
+      }
+    ]
+  }
+}

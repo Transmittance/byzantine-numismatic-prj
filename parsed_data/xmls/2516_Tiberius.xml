@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>1944.100.69796</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-15T17:34:00Z">May 15 2024 at 17:34</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Bronze As of Tiberius, Calagurris Julia, 14–37. 1944.100.69796</title>
+    <subjectSet>
+      <subject xml:id="f319885b-5d75-3ad8-a9e9-6709324f6507--559caa9b-6b27-304f-abd8-c1e562ed1d0a--c46c418d-eb3c-36ee-bad5-03c3b257631d" localType="category">Roman--Provincial--Spain</subject>
+    </subjectSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <dateRange>
+        <fromDate standardDate="0014">14</fromDate>
+        <toDate standardDate="0037">37</toDate>
+      </dateRange>
+      <denomination xlink:href="http://nomisma.org/id/as" xlink:type="simple">As</denomination>
+      <manufacture xlink:href="http://nomisma.org/id/struck" xlink:type="simple">Struck</manufacture>
+      <material xlink:href="http://nomisma.org/id/ae" xlink:type="simple">Bronze</material>
+      <authority>
+        <persname xlink:role="issuer" xlink:href="https://rpc.ashmus.ox.ac.uk/magistrate/1138" xlink:type="simple">Gaius Celer</persname>
+        <persname xlink:role="issuer" xlink:href="https://rpc.ashmus.ox.ac.uk/magistrate/1139" xlink:type="simple">Gaius Rectus</persname>
+        <persname xlink:role="authority" xlink:href="http://nomisma.org/id/tiberius" xlink:type="simple">Tiberius</persname>
+        <corpname xlink:role="state" xlink:href="http://nomisma.org/id/roman_empire" xlink:type="simple">Roman Empire</corpname>
+      </authority>
+      <geographic>
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/calagurris_julia" xlink:type="simple">Calagurris Julia</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/hispania" xlink:type="simple">Hispania</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/tarraconensis" xlink:type="simple">Tarraconensis</geogname>
+      </geographic>
+      <obverse>
+        <legend>TI CAESAR DIVI AVG F AVGVSTVS</legend>
+        <type>
+          <description xml:lang="en">Head laur. r.</description>
+        </type>
+        <persname xlink:href="http://nomisma.org/id/tiberius" xlink:role="portrait" xlink:type="simple">Tiberius</persname>
+      </obverse>
+      <reverse>
+        <legend>M C I C CELERE C RECTO II VIR</legend>
+        <type>
+          <description xml:lang="en">Bull stg. r.</description>
+        </type>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>6</axis>
+      <measurementsSet>
+        <weight units="g">14.28</weight>
+        <diameter units="mm">32</diameter>
+      </measurementsSet>
+      <countermark>CTMK</countermark>
+      <series>Roman Spain</series>
+    </physDesc>
+    <refDesc>
+      <reference xlink:href="https://rpc.ashmus.ox.ac.uk/type/29482" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RPC I, 450</reference>
+      <reference>
+        <tei:title>Heiss.29</tei:title>
+      </reference>
+      <reference>
+        <tei:title>RPC.450</tei:title>
+      </reference>
+    </refDesc>
+    <adminDesc>
+      <identifier>1944.100.69796</identifier>
+      <lot>1944.100</lot>
+      <department>Roman</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.69796.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.69796.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.69796.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.69796.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.69796.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.69796.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.69796.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.69796.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

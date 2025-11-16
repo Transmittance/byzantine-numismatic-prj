@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.53310",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.53310",
+    "title": "Bronze Dupondius of Severus Alexander, Rome, 231–235. 1944.100.53310",
+    "date_range": {
+      "from": "0231",
+      "to": "0235"
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/dupondius",
+    "cat": "RIC IV Severus Alexander 643g",
+    "Obverse_leg": "IMP ALEXANDER PIVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "12.26 g",
+      "diameter": "25.2 mm"
+    },
+    "descriptions": {
+      "obverse": "Head, radiate, draped on left shoulder, right",
+      "reverse": "Providentia, standing left, holding corn-ears in right hand over modius and cornucopiae in left hand"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.53310.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53310.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53310.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53310.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.53310.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53310.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53310.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.53310.rev.width175.jpg"
+      }
+    ]
+  }
+}

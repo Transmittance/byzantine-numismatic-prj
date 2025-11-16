@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2011.21.544",
+    "coin_page_url": "https://numismatics.org/collection/2011.21.544",
+    "title": "Bronze Sestertius of Tiberius, 14–37. 2011.21.544",
+    "date_range": {
+      "from": "0014",
+      "to": "0037"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": null,
+    "Obverse_leg": "TI.CAESAR.DIVI.AVG.F.AVGVST.IMP.VIII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "21.484 g",
+      "diameter": "33 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Tiberius to l.",
+      "reverse": "Emperor std. l., holding patera and scepter l., separating S -- C."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2011/2011.21.544.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2011/2011.21.544.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2011/2011.21.544.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2011/2011.21.544.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2011/2011.21.544.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2011/2011.21.544.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2011/2011.21.544.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2011/2011.21.544.rev.width175.jpg"
+      }
+    ]
+  }
+}

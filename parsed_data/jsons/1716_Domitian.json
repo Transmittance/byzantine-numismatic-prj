@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.57832",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.57832",
+    "title": "Silver Didrachm of Domitian, Caesarea in Cappadocia, 92–93. 1944.100.57832",
+    "date_range": {
+      "from": "0092",
+      "to": "0093"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/didrachm",
+    "cat": "\n        ",
+    "Obverse_leg": "AVT KAI DOMITIANOS SEBASTOS GERM",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.01 g",
+      "diameter": "21 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Club"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.57832.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.57832.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.57832.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.57832.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.57832.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.57832.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.57832.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.57832.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.54528",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.54528",
+    "title": "Silver Tetradrachm of Domitian, Tarsus, 83–96. 1944.100.54528",
+    "date_range": {
+      "from": "0083",
+      "to": "0096"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/tetradrachm",
+    "cat": "RPC II, 1728",
+    "Obverse_leg": "AVTO KAI THE VI DOMITIANOS SE GER",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "14.21 g",
+      "diameter": "26 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.; bead and reel border",
+      "reverse": "Tyche of city std. r. on rock holding palm branch in r.; beneath, river god Kydnos swimming r."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.54528.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54528.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54528.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54528.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.54528.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54528.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54528.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.54528.rev.width175.jpg"
+      }
+    ]
+  }
+}

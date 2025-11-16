@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.39370",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.39370",
+    "title": "Silver Drachma of Gaius/Caligula, Caesarea in Cappadocia, 37–38. 1944.100.39370",
+    "date_range": {
+      "from": "0037",
+      "to": "0038"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/drachma",
+    "cat": "RIC I (second edition) Gaius/Caligula 63",
+    "Obverse_leg": "C CAESAR AVG GERMANICVS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.66 g",
+      "diameter": "18 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Caligula, bare, right",
+      "reverse": "Simpulum, left, lituus, right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.39370.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39370.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39370.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39370.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.39370.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39370.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39370.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.39370.rev.width175.jpg"
+      }
+    ]
+  }
+}

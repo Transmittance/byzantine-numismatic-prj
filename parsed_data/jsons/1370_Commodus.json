@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49751",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49751",
+    "title": "Bronze Sestertius of Commodus, Rome, 186–187. 1944.100.49751",
+    "date_range": {
+      "from": "0186",
+      "to": "0187"
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC III Commodus 499",
+    "Obverse_leg": "M COMMODVS ANT P FELIX AVG BRIT",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "27.22 g",
+      "diameter": "31 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate, r.",
+      "reverse": "Jupiter, nude, standing left, holding thunderbold in right hand and sceptre in left hand; at feet, eagle"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49751.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49751.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49751.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49751.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49751.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49751.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49751.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49751.rev.width175.jpg"
+      }
+    ]
+  }
+}

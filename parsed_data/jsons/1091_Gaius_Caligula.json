@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1964.238.1",
+    "coin_page_url": "https://numismatics.org/collection/1964.238.1",
+    "title": "Bronze Denarius of Gaius/Caligula, Rome, 41. 1964.238.1",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "\n        ",
+    "Obverse_leg": "C CAESAR AVG PON M TR POT IIII COS IIII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.63 g",
+      "diameter": "18 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Caligula, laureate, r.",
+      "reverse": "Legend within oak-wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1964/1964.238.1.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1964/1964.238.1.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1964/1964.238.1.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1964/1964.238.1.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1964/1964.238.1.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1964/1964.238.1.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1964/1964.238.1.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1964/1964.238.1.rev.width175.jpg"
+      }
+    ]
+  }
+}

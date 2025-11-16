@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "0000.999.3158",
+    "coin_page_url": "https://numismatics.org/collection/0000.999.3158",
+    "title": "Bronze Fraction of Maximian, Carthage, 303. 0000.999.3158",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Diocletian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/fraction",
+    "cat": "RIC VI Carthage 38",
+    "Obverse_leg": "IMP C DIOCLETIANVS [P] F AVG",
+    "rev_symbol": "-/-//FK",
+    "measurements": {
+      "weight": "3.42 g",
+      "diameter": "21 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust radiate draped cuirassed right seen from behind",
+      "reverse": "Legend in wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.3158.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3158.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3158.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3158.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/00001899/0000/0000.999.3158.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3158.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3158.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/00001899/0000/0000.999.3158.rev.width175.jpg"
+      }
+    ]
+  }
+}

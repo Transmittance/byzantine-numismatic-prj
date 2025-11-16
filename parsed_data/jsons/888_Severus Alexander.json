@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.52541",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.52541",
+    "title": "Silver Denarius of Severus Alexander, Rome, 228–231. 1944.100.52541",
+    "date_range": {
+      "from": "0228",
+      "to": "0231"
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC IV Severus Alexander 184a",
+    "Obverse_leg": "IMP SEV ALEXAND AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.66 g",
+      "diameter": "19 mm"
+    },
+    "descriptions": {
+      "obverse": "Head, laureate, right",
+      "reverse": "Abundantia, standing front, emptying cornucopiae held in both hands"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.52541.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52541.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52541.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52541.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.52541.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52541.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52541.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.52541.rev.width175.jpg"
+      }
+    ]
+  }
+}

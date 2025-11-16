@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>1983.159.33</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-14T10:05:20Z">May 14 2024 at 10:05:20</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Silver Didrachm of Domitian, Caesarea in Cappadocia, 92–93. 1983.159.33</title>
+    <subjectSet>
+      <subject xml:id="f319885b-5d75-3ad8-a9e9-6709324f6507--559caa9b-6b27-304f-abd8-c1e562ed1d0a--5765bd0d-2b3b-3907-8aed-2acf7fec7655" localType="category">Roman--Provincial--East</subject>
+    </subjectSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <dateRange>
+        <fromDate standardDate="0092">92</fromDate>
+        <toDate standardDate="0093">93</toDate>
+      </dateRange>
+      <denomination xlink:href="http://nomisma.org/id/didrachm" xlink:type="simple">Didrachm</denomination>
+      <manufacture xlink:href="http://nomisma.org/id/struck" xlink:type="simple">Struck</manufacture>
+      <material xlink:href="http://nomisma.org/id/ar" xlink:type="simple">Silver</material>
+      <symbol>11/V1</symbol>
+      <authority>
+        <persname xlink:role="authority" xlink:href="http://nomisma.org/id/domitian" xlink:type="simple">Domitian</persname>
+        <corpname xlink:role="state" xlink:href="http://nomisma.org/id/roman_empire" xlink:type="simple">Roman Empire</corpname>
+      </authority>
+      <geographic>
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/caesareia_cappadocia" xlink:type="simple">Caesarea in Cappadocia</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/cappadocia" xlink:type="simple">Cappadocia</geogname>
+      </geographic>
+      <obverse>
+        <legend>AVT KAI DOMITIANOS SEBASTOS GERM</legend>
+        <type>
+          <description xml:lang="en">Head laur. r.</description>
+        </type>
+        <persname xlink:href="http://nomisma.org/id/domitian" xlink:role="portrait" xlink:type="simple">Domitian</persname>
+      </obverse>
+      <reverse>
+        <legend>ETO - 13</legend>
+        <type>
+          <description xml:lang="en">Victory adv. r. holding wreath in r. and palm in l.</description>
+        </type>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>6</axis>
+      <measurementsSet>
+        <weight units="g">6.1</weight>
+      </measurementsSet>
+    </physDesc>
+    <findspotDesc>
+      <findspot>
+        <fallsWithin>
+          <geogname xlink:href="http://nomisma.org/id/uncertain_value" xlink:role="findspot">Uncertain value</geogname>
+        </fallsWithin>
+      </findspot>
+    </findspotDesc>
+    <refDesc>
+      <reference>
+        <tei:title>S.127</tei:title>
+      </reference>
+      <reference>
+        <tei:title>M.25</tei:title>
+      </reference>
+      <citation>Metcalf, NNM 166 (1996) cat. 130*</citation>
+    </refDesc>
+    <adminDesc>
+      <identifier>1983.159.33</identifier>
+      <lot>1983.159</lot>
+      <department>Roman</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+      <acknowledgment localType="imageSponsor">Gasvoda, Mike</acknowledgment>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19501999%2F1983%2F1983.159.33.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1983/1983.159.33.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1983/1983.159.33.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1983/1983.159.33.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19501999%2F1983%2F1983.159.33.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1983/1983.159.33.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1983/1983.159.33.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19501999/1983/1983.159.33.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

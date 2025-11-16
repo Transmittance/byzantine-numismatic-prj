@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1991.12.1",
+    "coin_page_url": "https://numismatics.org/collection/1991.12.1",
+    "title": "Silver Denarius of Vespasian, Uncertain value, 72–73. 1991.12.1",
+    "date_range": {
+      "from": "0072",
+      "to": "0073"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RPC II, 850",
+    "Obverse_leg": "IMP CAESAR VESPAS AVG COS IIII TR P P P",
+    "rev_symbol": "\\:*",
+    "measurements": {
+      "weight": "3.22 g",
+      "diameter": "18 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Vespasian, laureate, right",
+      "reverse": "Ceres, draped, seated left, holding two corn-ears and poppy in right hand cornucopiae in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1991/1991.12.1.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1991/1991.12.1.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1991/1991.12.1.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1991/1991.12.1.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1991/1991.12.1.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1991/1991.12.1.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1991/1991.12.1.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1991/1991.12.1.rev.width175.jpg"
+      }
+    ]
+  }
+}

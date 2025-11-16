@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49646",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49646",
+    "title": "Silver Denarius of Marcus Aurelius, Rome, 179. 1944.100.49646",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC III Marcus Aurelius 666",
+    "Obverse_leg": "L AVREL COMMODVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.63 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "head laureate, right",
+      "reverse": "Victory seated, left holding wreath and palm"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49646.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49646.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49646.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49646.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49646.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49646.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49646.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49646.rev.width175.jpg"
+      }
+    ]
+  }
+}

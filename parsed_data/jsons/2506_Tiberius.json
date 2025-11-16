@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1967.130.2",
+    "coin_page_url": "https://numismatics.org/collection/1967.130.2",
+    "title": "Bronze Coin of Tiberius, Colonia Iulia Pia Paterna, 16–21. 1967.130.2",
+    "date_range": {
+      "from": "0016",
+      "to": "0021"
+    },
+    "obverse_portrait": "Tiberius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC I, 765",
+    "Obverse_leg": "TI CAE DIVI AVG F AVG IMP VIII COS IIII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "43.68 g",
+      "diameter": "39 mm"
+    },
+    "descriptions": {
+      "obverse": "head of Tiberius l.",
+      "reverse": "Mercury std. on rock l."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1967/1967.130.2.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.130.2.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.130.2.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.130.2.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1967/1967.130.2.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.130.2.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.130.2.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1967/1967.130.2.rev.width175.jpg"
+      }
+    ]
+  }
+}

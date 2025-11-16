@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1993.111.1",
+    "coin_page_url": "https://numismatics.org/collection/1993.111.1",
+    "title": "Silver Denarius of Gaius/Caligula, Rome, 41. 1993.111.1",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC I (second edition) Gaius/Caligula 31",
+    "Obverse_leg": "C CAESAR AVG PON M TR POT IIII COS IIII",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.64 g",
+      "diameter": "19 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Caligula, laureate, right",
+      "reverse": "Head of Augustus, radiate, right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1993/1993.111.1.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1993/1993.111.1.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1993/1993.111.1.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1993/1993.111.1.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1993/1993.111.1.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1993/1993.111.1.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1993/1993.111.1.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1993/1993.111.1.rev.width175.jpg"
+      }
+    ]
+  }
+}

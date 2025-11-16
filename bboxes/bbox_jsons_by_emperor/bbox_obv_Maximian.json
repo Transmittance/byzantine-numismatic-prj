@@ -1,0 +1,62 @@
+[
+  {
+    "filename": "1603_obv_Maximian__Diocletian__Constantius Chlorus__Galerius.jpg",
+    "bbox": [
+      51.712127685546875,
+      39.34492874145508,
+      269.8702392578125,
+      279.7803955078125
+    ],
+    "confidence": 0.6753007173538208
+  },
+  {
+    "filename": "1449_obv_Maximian__Diocletian__Constantius Chlorus__Galerius.jpg",
+    "bbox": [
+      154.10105895996094,
+      49.99580764770508,
+      253.3881072998047,
+      270.92144775390625
+    ],
+    "confidence": 0.6503183841705322
+  },
+  {
+    "filename": "1504_obv_Maximian__Diocletian__Constantius Chlorus__Galerius.jpg",
+    "bbox": [
+      115.02819061279297,
+      15.37218952178955,
+      279.7864685058594,
+      276.3517150878906
+    ],
+    "confidence": 0.6395055651664734
+  },
+  {
+    "filename": "1685_obv_Maximian__Diocletian__Constantius Chlorus__Galerius.jpg",
+    "bbox": [
+      115.02819061279297,
+      15.37218952178955,
+      279.7864685058594,
+      276.3517150878906
+    ],
+    "confidence": 0.6395055651664734
+  },
+  {
+    "filename": "1450_obv_Maximian__Diocletian__Constantius Chlorus__Galerius.jpg",
+    "bbox": [
+      51.712127685546875,
+      39.34492874145508,
+      269.8702392578125,
+      279.7803955078125
+    ],
+    "confidence": 0.6753007173538208
+  },
+  {
+    "filename": "1602_obv_Maximian__Diocletian__Constantius Chlorus__Galerius.jpg",
+    "bbox": [
+      154.10105895996094,
+      49.99580764770508,
+      253.3881072998047,
+      270.92144775390625
+    ],
+    "confidence": 0.6503183841705322
+  }
+]

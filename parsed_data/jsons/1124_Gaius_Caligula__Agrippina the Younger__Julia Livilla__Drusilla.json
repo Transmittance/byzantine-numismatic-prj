@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1992.121.60",
+    "coin_page_url": "https://numismatics.org/collection/1992.121.60",
+    "title": "Bronze Sestertius of Gaius/Caligula, Rome, 37–38. 1992.121.60",
+    "date_range": {
+      "from": "0037",
+      "to": "0038"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC I (second edition) Gaius/Caligula 33",
+    "Obverse_leg": "C CAESAR AVG GERMANICVS PON M TR POT",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "24.46 g",
+      "diameter": "34 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Caligula, laureate, left",
+      "reverse": "Three sisters of Caligula in guise of Securitas(Agrippina), Concordia(Drusilla), and Fortuna (Julia), standing side by side to front"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1992/1992.121.60.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1992/1992.121.60.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1992/1992.121.60.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1992/1992.121.60.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1992/1992.121.60.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1992/1992.121.60.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1992/1992.121.60.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1992/1992.121.60.rev.width175.jpg"
+      }
+    ]
+  }
+}

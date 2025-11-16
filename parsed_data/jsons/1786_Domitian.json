@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.63032",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.63032",
+    "title": "Bronze Coin of Domitian, Caesareia Maritima, 83–96. 1944.100.63032",
+    "date_range": {
+      "from": "0083",
+      "to": "0096"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC II, 2304",
+    "Obverse_leg": "IMP DOMITIANVS CAES AVG GERMANICVS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "16.64 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Domitian hd. laur. r.",
+      "reverse": "Minerva stg. r. on galley holding spear and shield, to l., trophy"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.63032.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63032.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63032.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63032.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.63032.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63032.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63032.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.63032.rev.width175.jpg"
+      }
+    ]
+  }
+}

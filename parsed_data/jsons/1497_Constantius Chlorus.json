@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.5501",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.5501",
+    "title": "Bronze AE1 of Diocletian, Nicomedia, 303–304. 1944.100.5501",
+    "date_range": {
+      "from": "0303",
+      "to": "0304"
+    },
+    "obverse_portrait": "Constantius Chlorus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae1",
+    "cat": "RIC VI Nicomedia 30a",
+    "Obverse_leg": "FL VAL CONSTANTIVS NOB CAES",
+    "rev_symbol": "-/-//SMNB",
+    "measurements": {
+      "weight": "10.81 g",
+      "diameter": "26.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate right",
+      "reverse": "Genius standing left holding patera in right and cornucopiae in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.5501.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5501.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5501.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5501.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.5501.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5501.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5501.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.5501.rev.width175.jpg"
+      }
+    ]
+  }
+}

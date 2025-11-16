@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1956.127.2289",
+    "coin_page_url": "https://numismatics.org/collection/1956.127.2289",
+    "title": "Silver Tetradrachm of Vespasian, Antioch, Syria, 69–70. 1956.127.2289",
+    "date_range": {
+      "from": "0069",
+      "to": "0070"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/tetradrachm",
+    "cat": "RPC II, 1954",
+    "Obverse_leg": "AVTOKRA OVESPASIANOS KAISAR SEBASTOS [cursive E and S]",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "14.1 g",
+      "diameter": "27 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Eagle stg. l. on club, wreath in beak; to l., palm branch"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.2289.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.2289.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.2289.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.2289.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.2289.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.2289.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.2289.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.2289.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1956.127.773",
+    "coin_page_url": "https://numismatics.org/collection/1956.127.773",
+    "title": "Silver Denarius of Antoninus Pius, Rome, 156–157. 1956.127.773",
+    "date_range": {
+      "from": "0156",
+      "to": "0157"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC III Antoninus Pius 473",
+    "Obverse_leg": "AVRELIVS CAES ANTON AVG PII FIL",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.14 g",
+      "diameter": "16.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Marcus Aurelius, bare, right",
+      "reverse": "Virtus, helmeted, in military dress, standing left, holding parazonium in right hand and vertical spear in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.773.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.773.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.773.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.773.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1956/1956.127.773.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.773.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.773.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1956/1956.127.773.rev.width175.jpg"
+      }
+    ]
+  }
+}

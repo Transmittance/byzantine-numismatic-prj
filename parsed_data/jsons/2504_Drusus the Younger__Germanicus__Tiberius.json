@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.79578",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.79578",
+    "title": "Bronze Coin of Augustus, Cyrene, 19–23. 1944.100.79578",
+    "date_range": {
+      "from": "0019",
+      "to": "0023"
+    },
+    "obverse_portrait": "Drusus the Younger",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC I, 947",
+    "Obverse_leg": "ΔΡΟΥΣΟΣ ΚΑΙΣΑΡ ΑΥΓΟΥΣΤΟΥ ΥΙΟΣ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "9.13 g",
+      "diameter": "25 mm"
+    },
+    "descriptions": {
+      "obverse": "head of Drusus",
+      "reverse": "heads of Tiberius and Germanicus"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.79578.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.79578.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.79578.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.79578.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.79578.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.79578.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.79578.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.79578.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.7135",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.7135",
+    "title": "Bronze AE2 of Constantine I, Rome, 317–318. 1944.100.7135",
+    "date_range": {
+      "from": "0317",
+      "to": "0318"
+    },
+    "obverse_portrait": "Constantius Chlorus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae2",
+    "cat": "RIC VII Rome 111",
+    "Obverse_leg": "DIVO CONSTANTIO PIO PRINC",
+    "rev_symbol": "-/-//RQ",
+    "measurements": {
+      "weight": "1.62 g",
+      "diameter": "15 mm"
+    },
+    "descriptions": {
+      "obverse": "Head veiled laureate right",
+      "reverse": "Eagle standing right looking left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.7135.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.7135.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.7135.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.7135.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.7135.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.7135.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.7135.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.7135.rev.width175.jpg"
+      }
+    ]
+  }
+}

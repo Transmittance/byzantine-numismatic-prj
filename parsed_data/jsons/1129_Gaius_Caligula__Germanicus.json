@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1980.109.156",
+    "coin_page_url": "https://numismatics.org/collection/1980.109.156",
+    "title": "Gold Aureus of Gaius/Caligula, Rome, 37–38. 1980.109.156",
+    "date_range": {
+      "from": "0037",
+      "to": "0038"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/av",
+    "denomination": "http://nomisma.org/id/aureus",
+    "cat": "RIC I (second edition) Gaius/Caligula 17",
+    "Obverse_leg": "C CAESAR AVG GERM P M TR POT",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "7.62 g",
+      "diameter": "18.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Caligula, laureate, right",
+      "reverse": "Head of Germanicus, bare, right"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1980/1980.109.156.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.109.156.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.109.156.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.109.156.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1980/1980.109.156.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.109.156.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.109.156.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1980/1980.109.156.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1946.35.88",
+    "coin_page_url": "https://numismatics.org/collection/1946.35.88",
+    "title": "Bronze Sestertius of Severus Alexander, Rome, 231–235. 1946.35.88",
+    "date_range": {
+      "from": "0231",
+      "to": "0235"
+    },
+    "obverse_portrait": "Severus Alexander",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC IV Severus Alexander 645b",
+    "Obverse_leg": "IMP ALEXANDER PIVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "20.07 g",
+      "diameter": "30 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate right",
+      "reverse": "Providentia standing left holding grain stalks over modius with grain stalks left, and anchor"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1946/1946.35.88.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.35.88.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.35.88.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.35.88.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1946/1946.35.88.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.35.88.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.35.88.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1946/1946.35.88.rev.width175.jpg"
+      }
+    ]
+  }
+}

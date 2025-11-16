@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1995.11.1634",
+    "coin_page_url": "https://numismatics.org/collection/1995.11.1634",
+    "title": "Bronze Dupondius of Gaius/Caligula, Rome, 37–41. 1995.11.1634",
+    "date_range": {
+      "from": "0037",
+      "to": "0041"
+    },
+    "obverse_portrait": "Augustus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/dupondius",
+    "cat": "RIC I (second edition) Gaius/Caligula 56",
+    "Obverse_leg": "DIVVS AVGVSTVS S C",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "16.79 g",
+      "diameter": "29.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Augustus, radiate, left",
+      "reverse": "Augustus(or Caligula), laureate and togate, seated, left, on curule chair, holding branch in right hand and resting left hand against side"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1995/1995.11.1634.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1634.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1634.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1634.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1995/1995.11.1634.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1634.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1634.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1995/1995.11.1634.rev.width175.jpg"
+      }
+    ]
+  }
+}

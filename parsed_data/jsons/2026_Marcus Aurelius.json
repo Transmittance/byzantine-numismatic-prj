@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49174",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49174",
+    "title": "Bronze Dupondius of Marcus Aurelius, Rome, 170–171. 1944.100.49174",
+    "date_range": {
+      "from": "0170",
+      "to": "0171"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/dupondius",
+    "cat": "RIC III Marcus Aurelius 1015",
+    "Obverse_leg": "IMP M ANTONINVS AVG TR P XXV",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "13.19 g",
+      "diameter": "25 mm"
+    },
+    "descriptions": {
+      "obverse": "Head radiate, right",
+      "reverse": "Marcus Aurelius standing, left sacrificing out of patera in right hand above altar left, and holding roll in left, behind altar bull prostrate"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49174.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49174.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49174.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49174.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49174.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49174.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49174.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49174.rev.width175.jpg"
+      }
+    ]
+  }
+}

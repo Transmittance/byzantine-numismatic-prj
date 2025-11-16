@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1950.70.4",
+    "coin_page_url": "https://numismatics.org/collection/1950.70.4",
+    "title": "Silver Denarius of Augustus, Uncertain value, 31 BCE–29 BCE. 1950.70.4",
+    "date_range": {
+      "from": "-0031",
+      "to": "-0029"
+    },
+    "obverse_portrait": null,
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC I (second edition) Augustus 251",
+    "Obverse_leg": null,
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "4.02 g",
+      "diameter": "20 mm"
+    },
+    "descriptions": {
+      "obverse": "Female head, r., wearing stephane, necklace and ear-ring",
+      "reverse": "Octavian in military dress advancing l., carrying transverse spear"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1950/1950.70.4.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1950/1950.70.4.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1950/1950.70.4.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1950/1950.70.4.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1950/1950.70.4.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1950/1950.70.4.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1950/1950.70.4.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1950/1950.70.4.rev.width175.jpg"
+      }
+    ]
+  }
+}

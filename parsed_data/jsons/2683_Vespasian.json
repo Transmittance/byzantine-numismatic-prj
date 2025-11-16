@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2012.82.64",
+    "coin_page_url": "https://numismatics.org/collection/2012.82.64",
+    "title": "Bronze Coin of Herod Agrippa II, Caesareia Panias, 75–77. 2012.82.64",
+    "date_range": {
+      "from": "0075",
+      "to": "0077"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "\n        ",
+    "Obverse_leg": "ΑΥΤΟΚΡΑ ΟΥΕCΠΑC[Ι] -- ΑΝΩ ΚΑΙCΑΡ CΕΒΑCΤΩ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "19.89 g",
+      "diameter": "35 mm"
+    },
+    "descriptions": {
+      "obverse": "Laureate bust of Vespasian to r.",
+      "reverse": "Tyche holding kalathos standing to l., in short dress, holding cornucopia in l. hand and resting her extended r. hand on rudder stemming from globe; star in upper l. field."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2012/2012.82.64.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.64.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.64.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.64.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2012/2012.82.64.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.64.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.64.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2012/2012.82.64.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1955.21.14",
+    "coin_page_url": "https://numismatics.org/collection/1955.21.14",
+    "title": "Silver Cistophorus of Hadrian, Uncertain value, 128–132. 1955.21.14",
+    "date_range": {
+      "from": "0128",
+      "to": "0132"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/cistophorus",
+    "cat": "RIC II Hadrian 461C",
+    "Obverse_leg": "IMP CAES TRA HADRIANO AVG P P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "10.46 g",
+      "diameter": "26.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Hadrian, laureate, draped, right",
+      "reverse": "Octastyle temple on podium of three steps with ROM S P AVG inscribed on the frieze"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1955/1955.21.14.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.14.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.14.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.14.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1955/1955.21.14.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.14.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.14.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1955/1955.21.14.rev.width175.jpg"
+      }
+    ]
+  }
+}

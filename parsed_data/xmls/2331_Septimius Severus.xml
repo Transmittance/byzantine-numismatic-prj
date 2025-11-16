@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>1944.100.50119</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-13T04:21:29Z">May 13 2024 at 4:21:29</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Silver Denarius of Septimius Severus, Rome, 211. 1944.100.50119</title>
+    <subjectSet>
+      <subject xml:id="f319885b-5d75-3ad8-a9e9-6709324f6507--5c25a387-f992-3cd0-ae33-4bf1f6b38255--1c24dad4-3d2d-3299-b677-7051f6f73e2d" localType="category">Roman--Imperial--Severans</subject>
+    </subjectSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <date standardDate="0211">211</date>
+      <denomination xlink:href="http://nomisma.org/id/denarius" xlink:type="simple">Denarius</denomination>
+      <manufacture xlink:href="http://nomisma.org/id/struck" xlink:type="simple">Struck</manufacture>
+      <material xlink:href="http://nomisma.org/id/ar" xlink:type="simple">Silver</material>
+      <authority>
+        <persname xlink:role="authority" xlink:href="http://nomisma.org/id/septimius_severus" xlink:type="simple">Septimius Severus</persname>
+        <corpname xlink:role="state" xlink:href="http://nomisma.org/id/roman_empire" xlink:type="simple">Roman Empire</corpname>
+      </authority>
+      <geographic>
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/rome" xlink:type="simple">Rome</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/latium" xlink:type="simple">Latium</geogname>
+      </geographic>
+      <obverse>
+        <legend>SEVERVS PIVS AVG BRIT</legend>
+        <type>
+          <description xml:lang="en">Head laureate, right</description>
+        </type>
+        <persname xlink:href="http://nomisma.org/id/septimius_severus" xlink:role="portrait" xlink:type="simple">Septimius Severus</persname>
+      </obverse>
+      <reverse>
+        <legend>P M TR P XIX COS III P P</legend>
+        <type>
+          <description xml:lang="en">Neptune standing, front, foot set on rock, holding trident</description>
+        </type>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>2</axis>
+      <measurementsSet>
+        <weight units="g">3.06</weight>
+        <diameter units="mm">18.7</diameter>
+      </measurementsSet>
+      <series>RIC.4</series>
+    </physDesc>
+    <refDesc>
+      <reference xlink:href="http://numismatics.org/ocre/id/ric.4.ss.244" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RIC IV Septimius Severus 244</reference>
+      <reference>
+        <tei:title>BMC.112</tei:title>
+      </reference>
+    </refDesc>
+    <adminDesc>
+      <identifier>1944.100.50119</identifier>
+      <lot>1944.100</lot>
+      <department>Roman</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.50119.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.50119.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.50119.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.50119.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.50119.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.50119.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.50119.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.50119.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

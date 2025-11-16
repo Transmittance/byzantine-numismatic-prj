@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49699",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49699",
+    "title": "Silver Denarius of Commodus, Rome, 188–189. 1944.100.49699",
+    "date_range": {
+      "from": "0188",
+      "to": "0189"
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC III Commodus 179",
+    "Obverse_leg": "M COMM ANT P FEL AVG BRIT",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.06 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "head laureate, right",
+      "reverse": "Securitas seated, left holding globe"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49699.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49699.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49699.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49699.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49699.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49699.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49699.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49699.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1953.171.1432",
+    "coin_page_url": "https://numismatics.org/collection/1953.171.1432",
+    "title": "Bronze Coin of Domitian, Caesareia Maritima, 92–93. 1953.171.1432",
+    "date_range": {
+      "from": "0092",
+      "to": "0093"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC II, 2307",
+    "Obverse_leg": "IMP CAES DOMIT AVG GERM PM TR P XI",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "12.51 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Domitian hd. rad. r.",
+      "reverse": "palm tree"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1953/1953.171.1432.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1432.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1432.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1432.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1953/1953.171.1432.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1432.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1432.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1953/1953.171.1432.rev.width175.jpg"
+      }
+    ]
+  }
+}

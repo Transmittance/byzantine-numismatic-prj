@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1974.226.58",
+    "coin_page_url": "https://numismatics.org/collection/1974.226.58",
+    "title": "Bronze Coin of Augustus, Pergamum, 14. 1974.226.58",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Augustus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "RPC I, 2368",
+    "Obverse_leg": "ΣΕΒΑΣΤΟΙ ΕΠΙ ΠΟΠΠΑΙΟΥ",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "4.65 g",
+      "diameter": "20 mm"
+    },
+    "descriptions": {
+      "obverse": "Augustus and Tiberius heads confronted",
+      "reverse": "Roma std. r."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1974/1974.226.58.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1974/1974.226.58.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1974/1974.226.58.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1974/1974.226.58.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1974/1974.226.58.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1974/1974.226.58.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1974/1974.226.58.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1974/1974.226.58.rev.width175.jpg"
+      }
+    ]
+  }
+}

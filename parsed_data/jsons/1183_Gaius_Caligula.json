@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1957.172.1948",
+    "coin_page_url": "https://numismatics.org/collection/1957.172.1948",
+    "title": "Bronze Sestertius of Gaius/Caligula, Rome, 39–40. 1957.172.1948",
+    "date_range": {
+      "from": "0039",
+      "to": "0040"
+    },
+    "obverse_portrait": "Gaius/Caligula",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC I (second edition) Gaius/Caligula 46",
+    "Obverse_leg": "C CAESAR DIVI AVG PRON AVG P M TR P III P P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "28.205 g",
+      "diameter": "35 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Caligula, laureate, left",
+      "reverse": "Legend in four lines in oak-wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1957/1957.172.1948.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1957/1957.172.1948.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1957/1957.172.1948.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1957/1957.172.1948.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1957/1957.172.1948.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1957/1957.172.1948.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1957/1957.172.1948.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1957/1957.172.1948.rev.width175.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1950.101.3",
+    "coin_page_url": "https://numismatics.org/collection/1950.101.3",
+    "title": "Silver Cistophorus of Hadrian, Ephesus, 128–132. 1950.101.3",
+    "date_range": {
+      "from": "0128",
+      "to": "0132"
+    },
+    "obverse_portrait": "Augustus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/cistophorus",
+    "cat": "RIC II Hadrian 532",
+    "Obverse_leg": "IMP CAESAR AVGVSTVS",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "10.29 g",
+      "diameter": "17.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Divus Augustus, bare, right",
+      "reverse": "Hadrian, veiled, togate, standing left, holding up corn-ears in right hand and folding around left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1950/1950.101.3.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1950/1950.101.3.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1950/1950.101.3.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1950/1950.101.3.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19501999/1950/1950.101.3.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19501999/1950/1950.101.3.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19501999/1950/1950.101.3.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19501999/1950/1950.101.3.rev.width175.jpg"
+      }
+    ]
+  }
+}

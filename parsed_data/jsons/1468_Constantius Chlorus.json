@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.4165",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.4165",
+    "title": "Bronze AE1 of Diocletian, Antioch, Syria, 299–300. 1944.100.4165",
+    "date_range": {
+      "from": "0299",
+      "to": "0300"
+    },
+    "obverse_portrait": "Constantius Chlorus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae1",
+    "cat": "RIC VI Antioch 53a",
+    "Obverse_leg": "FL VAL CONSTANTIVS NOB CAES",
+    "rev_symbol": "-/S//ANT",
+    "measurements": {
+      "weight": "8.55 g",
+      "diameter": "26.5 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate right",
+      "reverse": "Genius standing left pouring liquid from patera in right and cornucopiae in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.4165.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.4165.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.4165.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.4165.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.4165.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.4165.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.4165.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.4165.rev.width175.jpg"
+      }
+    ]
+  }
+}

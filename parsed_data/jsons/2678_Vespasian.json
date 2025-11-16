@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "2016.15.278",
+    "coin_page_url": "https://numismatics.org/collection/2016.15.278",
+    "title": "Bronze Coin of Herod Agrippa II, Tiberias, 77–78. 2016.15.278",
+    "date_range": {
+      "from": "0077",
+      "to": "0078"
+    },
+    "obverse_portrait": "Vespasian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": null,
+    "cat": "\n        ",
+    "Obverse_leg": "ΑΥΤΟΚΡΑ ΟΥΕCΠΑCI KAICAPI CEBACTW",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "10.08 g",
+      "diameter": "23.4 mm"
+    },
+    "descriptions": {
+      "obverse": "\"Emperor Vespasian Caesar Augustus,\" Vespasian laureate bust right.",
+      "reverse": "\"Year 18, King Agrippa,\" Tyche-Demeter stands l. wearing kalathos, holding grain ears in r. hand and cornucopia in l., star in top l. field."
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.15.278.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.278.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.278.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.278.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/20002049/2016/2016.15.278.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.278.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.278.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/20002049/2016/2016.15.278.rev.width175.jpg"
+      }
+    ]
+  }
+}

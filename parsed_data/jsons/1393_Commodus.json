@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49774",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49774",
+    "title": "Bronze Sestertius of Commodus, Rome, 192. 1944.100.49774",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC III Commodus 637",
+    "Obverse_leg": "L AEL AVREL COMM AVG P FEL",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "25.49 g",
+      "diameter": "30 mm"
+    },
+    "descriptions": {
+      "obverse": "Head of Commodus in lion skin, right",
+      "reverse": "Legend flanking club, all within wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49774.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49774.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49774.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49774.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49774.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49774.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49774.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49774.rev.width175.jpg"
+      }
+    ]
+  }
+}

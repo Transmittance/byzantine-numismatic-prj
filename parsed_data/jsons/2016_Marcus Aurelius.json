@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49164",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49164",
+    "title": "Bronze Dupondius of Marcus Aurelius, Rome, 165–166. 1944.100.49164",
+    "date_range": {
+      "from": "0165",
+      "to": "0166"
+    },
+    "obverse_portrait": "Marcus Aurelius",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/dupondius",
+    "cat": "RIC III Marcus Aurelius 932",
+    "Obverse_leg": "M AVREL ANTONINVS AVG ARM PARTH MAX",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "11.38 g",
+      "diameter": "24 mm"
+    },
+    "descriptions": {
+      "obverse": "Head radiate, right",
+      "reverse": "Victory standing, front, holding palm and round shield inscribed VIC PAR on trunk of palm-tree"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49164.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49164.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49164.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49164.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49164.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49164.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49164.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49164.rev.width175.jpg"
+      }
+    ]
+  }
+}

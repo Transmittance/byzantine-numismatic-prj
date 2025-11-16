@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><nuds xmlns="http://nomisma.org/nuds" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" recordType="physical">
+  <control>
+    <recordId>1944.100.19986</recordId>
+    <publicationStatus>approved</publicationStatus>
+    <maintenanceStatus>new</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>American Numismatic Society</agencyName>
+    </maintenanceAgency>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>derived</eventType>
+        <eventDateTime standardDateTime="2024-05-12T03:33:54Z">May 12 2024 at 3:33:54</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>PHP</agent>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <rightsStmt>
+      <copyrightHolder>American Numismatic Society</copyrightHolder>
+      <license for="data" xlink:type="simple" xlink:href="http://opendatacommons.org/licenses/odbl/">Metadata are openly licensed with a Open Data Commons Open Database License (OdbL)</license>
+      <license for="images" xlink:type="simple" xlink:href="https://creativecommons.org/choose/mark/">Public Domain Mark</license>
+      <rights xlink:type="simple" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</rights>
+    </rightsStmt>
+    <semanticDeclaration>
+      <prefix>nmo</prefix>
+      <namespace>http://nomisma.org/ontology#</namespace>
+    </semanticDeclaration>
+  </control>
+  <descMeta>
+    <title xml:lang="en">Silver Antoninianus of Trajan Decius, Mediolanum, 250–251. 1944.100.19986</title>
+    <descriptionSet>
+      <description xml:lang="en">Restoration. Elongated flan.</description>
+    </descriptionSet>
+    <subjectSet>
+      <subject xml:id="f319885b-5d75-3ad8-a9e9-6709324f6507--5c25a387-f992-3cd0-ae33-4bf1f6b38255--0661a87e-c8e0-3e4b-9410-22424edaa49b" localType="category">Roman--Imperial--Thirdcentury</subject>
+    </subjectSet>
+    <typeDesc>
+      <objectType xlink:href="http://nomisma.org/id/coin" xlink:type="simple">Coin</objectType>
+      <dateRange>
+        <fromDate standardDate="0250">250</fromDate>
+        <toDate standardDate="0251">251</toDate>
+      </dateRange>
+      <denomination xlink:href="http://nomisma.org/id/antoninianus" xlink:type="simple">Antoninianus</denomination>
+      <manufacture xlink:href="http://nomisma.org/id/struck" xlink:type="simple">Struck</manufacture>
+      <material xlink:href="http://nomisma.org/id/ar" xlink:type="simple">Silver</material>
+      <authority>
+        <persname xlink:role="authority" xlink:href="http://nomisma.org/id/trajan_decius" xlink:type="simple">Trajan Decius</persname>
+        <corpname xlink:role="state" xlink:href="http://nomisma.org/id/roman_empire" xlink:type="simple">Roman Empire</corpname>
+      </authority>
+      <geographic>
+        <geogname xlink:role="productionPlace" xlink:href="http://nomisma.org/id/mediolanum" xlink:type="simple">Mediolanum</geogname>
+        <geogname xlink:role="region" xlink:href="http://nomisma.org/id/greek_italy" xlink:type="simple">Italy</geogname>
+      </geographic>
+      <obverse>
+        <legend>DIVO SEVERO</legend>
+        <type>
+          <description xml:lang="en">Head of Divus Septimius Severus, radiate, right</description>
+        </type>
+        <persname xlink:href="http://nomisma.org/id/septimius_severus" xlink:role="portrait" xlink:type="simple">Septimius Severus</persname>
+      </obverse>
+      <reverse>
+        <legend>CONSECRATIO</legend>
+        <type>
+          <description xml:lang="en">Eagle, with open wings, standing front on bar, head right</description>
+        </type>
+      </reverse>
+    </typeDesc>
+    <physDesc>
+      <axis>12</axis>
+      <measurementsSet>
+        <weight units="g">4.239</weight>
+        <diameter units="mm">24.5</diameter>
+      </measurementsSet>
+      <series>RIC.4</series>
+    </physDesc>
+    <refDesc>
+      <reference xlink:href="http://numismatics.org/ocre/id/ric.4.tr_d.95" xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem">RIC IV Trajan Decius 95</reference>
+    </refDesc>
+    <adminDesc>
+      <identifier>1944.100.19986</identifier>
+      <lot>1944.100</lot>
+      <department>Roman</department>
+      <collection xlink:href="http://nomisma.org/id/ans" xlink:type="simple">American Numismatic Society</collection>
+    </adminDesc>
+  </descMeta>
+  <digRep>
+    <mets:fileSec>
+        <mets:fileGrp USE="obverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.19986.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.19986.obv.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.19986.obv.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.19986.obv.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="reverse">
+            <mets:file USE="iiif">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://images.numismatics.org/collectionimages%2F19001949%2F1944%2F1944.100.19986.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="archive" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.19986.rev.noscale.jpg"/>
+            </mets:file>
+            <mets:file USE="reference" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.19986.rev.width350.jpg"/>
+            </mets:file>
+            <mets:file USE="thumbnail" MIMETYPE="image/jpeg">
+                <mets:FLocat LOCYPE="URL" xlink:href="https://numismatics.org/collectionimages/19001949/1944/1944.100.19986.rev.width175.jpg"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+</digRep>
+</nuds>

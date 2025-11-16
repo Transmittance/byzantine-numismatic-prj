@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49726",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49726",
+    "title": "Bronze Sestertius of Commodus, Rome, 181. 1944.100.49726",
+    "date_range": {
+      "from": null,
+      "to": null
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/sestertius",
+    "cat": "RIC III Commodus 308Ab",
+    "Obverse_leg": "M COMMODVS ANTONINVS AVG",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "25.51 g",
+      "diameter": "30 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust laureate, r. with drapery l. shoulder",
+      "reverse": "Felicitas standing, front, holding caduceus and vertical sceptre"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49726.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49726.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49726.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49726.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49726.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49726.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49726.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49726.rev.width175.jpg"
+      }
+    ]
+  }
+}

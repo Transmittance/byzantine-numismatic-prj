@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.47437",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.47437",
+    "title": "Bronze As of Hadrian, Rome, 134–138. 1944.100.47437",
+    "date_range": {
+      "from": "0134",
+      "to": "0138"
+    },
+    "obverse_portrait": "Hadrian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RIC II Hadrian 848f (as)",
+    "Obverse_leg": "HADRIANVS AVG COS III P P",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "11.19 g",
+      "diameter": "26 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust of Hadrian, laureate, draped, right",
+      "reverse": "Cappadocia, head towered, wearing knee-length sleeveless tunic and cloak, standing left, holding small model of Mt. Argaeus in right hand and vertical vexillum in left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.47437.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47437.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47437.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47437.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.47437.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47437.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47437.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.47437.rev.width175.jpg"
+      }
+    ]
+  }
+}

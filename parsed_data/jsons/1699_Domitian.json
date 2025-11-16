@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1927.75.3",
+    "coin_page_url": "https://numismatics.org/collection/1927.75.3",
+    "title": "Bronze Obol of Domitian, Alexandria, 91–92. 1927.75.3",
+    "date_range": {
+      "from": "0091",
+      "to": "0092"
+    },
+    "obverse_portrait": "Domitian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/obol",
+    "cat": "\n        ",
+    "Obverse_leg": "AVT KAISAR DOMIT SEB GERM",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "3.71 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "Head laur. r.",
+      "reverse": "Modius between two torches"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1927/1927.75.3.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1927/1927.75.3.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1927/1927.75.3.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1927/1927.75.3.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1927/1927.75.3.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1927/1927.75.3.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1927/1927.75.3.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1927/1927.75.3.rev.width175.jpg"
+      }
+    ]
+  }
+}

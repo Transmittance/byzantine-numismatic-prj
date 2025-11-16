@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49651",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49651",
+    "title": "Bronze As of Marcus Aurelius, Rome, 175–176. 1944.100.49651",
+    "date_range": {
+      "from": "0175",
+      "to": "0176"
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/as",
+    "cat": "RIC III Marcus Aurelius 1544",
+    "Obverse_leg": "COMMODO CAES AVG FIL GERM SARM",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "9.01 g",
+      "diameter": "24 mm"
+    },
+    "descriptions": {
+      "obverse": "Bust draped, right",
+      "reverse": "Spes standing, left holding flower in right and raising skirt with left"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49651.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49651.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49651.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49651.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49651.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49651.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49651.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49651.rev.width175.jpg"
+      }
+    ]
+  }
+}

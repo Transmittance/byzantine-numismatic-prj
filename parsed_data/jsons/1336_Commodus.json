@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.49717",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.49717",
+    "title": "Silver Denarius of Commodus, Rome, 191–192. 1944.100.49717",
+    "date_range": {
+      "from": "0191",
+      "to": "0192"
+    },
+    "obverse_portrait": "Commodus",
+    "material": "http://nomisma.org/id/ar",
+    "denomination": "http://nomisma.org/id/denarius",
+    "cat": "RIC III Commodus 251 (denarius)",
+    "Obverse_leg": "L AEL AVREL COMM AVG P FEL",
+    "rev_symbol": null,
+    "measurements": {
+      "weight": "2.1 g",
+      "diameter": "Unknown mm"
+    },
+    "descriptions": {
+      "obverse": "head in lion skin. right",
+      "reverse": "club upright with legend in three lines all within wreath"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49717.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49717.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49717.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49717.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.49717.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49717.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49717.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.49717.rev.width175.jpg"
+      }
+    ]
+  }
+}

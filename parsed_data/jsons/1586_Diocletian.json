@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "record_id": "1944.100.3193",
+    "coin_page_url": "https://numismatics.org/collection/1944.100.3193",
+    "title": "Bronze AE1 of Maximian, Carthage, 298–299. 1944.100.3193",
+    "date_range": {
+      "from": "0298",
+      "to": "0299"
+    },
+    "obverse_portrait": "Diocletian",
+    "material": "http://nomisma.org/id/ae",
+    "denomination": "http://nomisma.org/id/ae1",
+    "cat": "RIC VI Carthage 29a",
+    "Obverse_leg": "IMP DIOCLETIANVS P F AVG",
+    "rev_symbol": "-/-//A",
+    "measurements": {
+      "weight": "10.64 g",
+      "diameter": "27 mm"
+    },
+    "descriptions": {
+      "obverse": "Head laureate right (smaller bust)",
+      "reverse": "Carthago standing left holding fruits in both hands"
+    }
+  },
+  "images": {
+    "obverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.3193.obv.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3193.obv.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3193.obv.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3193.obv.width175.jpg"
+      }
+    ],
+    "reverse": [
+      {
+        "type": "iiif",
+        "url": "https://images.numismatics.org/collectionimages/19001949/1944/1944.100.3193.rev.noscale.jpg"
+      },
+      {
+        "type": "archive",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3193.rev.noscale.jpg"
+      },
+      {
+        "type": "reference",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3193.rev.width350.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "url": "https://numismatics.org/collectionimages/19001949/1944/1944.100.3193.rev.width175.jpg"
+      }
+    ]
+  }
+}
