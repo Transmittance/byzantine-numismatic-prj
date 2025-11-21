@@ -21,7 +21,7 @@ def parse_jsons(folder, merged_path):
     with open(merged_path, 'w', encoding='utf-8') as fm:
         json.dump(json_data, fm, indent=2)
     
-parse_jsons(jsons_folder, merged_json_path)
+#parse_jsons(jsons_folder, merged_json_path)
 
 
 with open(merged_json_path, 'r') as f:
