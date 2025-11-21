@@ -78,20 +78,18 @@ def draw_bbox(image_path, list):
         return bbox_data
     else: return False
 def main():
-    files = ['./bbox_obv_Arcadius.json', 
-            './bbox_obv_Constantine I.json', 
-            './bbox_obv_Honorius.json',
-            './bbox_obv_Theodosius I.json',
-            './bbox_obv_Theodosius II.json',
-            './bbox_obv_Valentinian III.json',
-            './bbox_rev_rev.json']
-    for file in files:
-        with open(file, 'r') as f:
+    
+    folder_path = './bboxes'
+    #with os.scandir(folder_path) as entries:
+    #    file_names = [entry.name for entry in entries if entry.is_file()]
+    file_names = ['merged_bbox_obv.json']
+    for file in file_names:
+        with open(os.path.join(folder_path, file), 'r') as f:
             file_data = json.load(f)
         for i in range(len(file_data)):
             box_metas = file_data[i]
             image_path, bbox = box_metas['filename'], box_metas['bbox']
-            image_path = os.path.join('./images', image_path)
+            image_path = os.path.join('./parsed_data/images', image_path)
             if not os.path.exists(image_path):
                 print(f"Image not found: {image_path}")
                 continue
